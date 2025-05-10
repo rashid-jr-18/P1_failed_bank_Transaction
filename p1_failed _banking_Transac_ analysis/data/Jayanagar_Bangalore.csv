@@ -1,0 +1,401 @@
+Transaction_ID,Customer_ID,Amount,Date,Status,Branch_ID,Branch_Name,City,Payment_Mode,Merchant_Name,Product_Category
+87df22dc457d9d3654dbbf3105ec4cdd,208d3b81a3f28b01e957743bf4a8dbb9,971.48,2023-11-01,Failed,JAY120,Jayanagar,Bangalore,Debit,Merchant_81,Health
+e8a832cf70e2e64d1e6d49bc3911c476,cdbdccffe795de8adc497ffbc8a52107,884.53,2023-12-05,Successful,JAY796,Jayanagar,Bangalore,Net Banking,Merchant_12,Health
+311eb33949e950a00e93bcfa40ffe86a,c9b9dfe30a8b52e50dfb83ca328eaa8a,39.56,2023-09-17,Successful,JAY790,Jayanagar,Bangalore,Net Banking,Merchant_1,Health
+a49468427e631c5c1057dcade25af7aa,8d01aac8b1683685dce1a4f7623384e3,838.53,2023-01-05,Successful,JAY278,Jayanagar,Bangalore,Credit,Merchant_6,Clothing
+390d32942a8bcc44df36751f12cd35bf,3f9e8a4cae8abdfcab69dc284127efd4,214.34,2023-11-17,Failed,JAY254,Jayanagar,Bangalore,Debit,Merchant_32,Clothing
+032b39cbd7031b8300630885edc6b38f,43cc0ae6fe67c0726c57899e5fdd82ca,527.48,2023-07-29,Failed,JAY288,Jayanagar,Bangalore,UPI,Merchant_93,Groceries
+fc18ee6fd9c0b39e6dd5c6992d513005,24b9bb66960ef18d369578bef1abee8f,35.71,2023-08-25,Failed,JAY516,Jayanagar,Bangalore,Credit,Merchant_23,Groceries
+066717815756ae94523c4eafc9b02f79,da5815962a8ccd32949bf8258e621026,665.25,2023-02-09,Failed,JAY709,Jayanagar,Bangalore,Debit,Merchant_10,Clothing
+68904124b8be8d3e3e5ec4f2be4550f6,29740fbca8c46b73122c812ef28921ce,416.89,2023-02-28,Successful,JAY277,Jayanagar,Bangalore,Debit,Merchant_2,Groceries
+323fd417afe8d31392a07c05be06fa10,bbacb4004ccae3f8f969b73db70d511c,149.36,2023-01-01,Failed,JAY526,Jayanagar,Bangalore,UPI,Merchant_50,Groceries
+6615a384d8e050f00101534bac6fabb8,805a177ff7f21eda8fc50e8aad3d6e3b,699.85,2023-07-25,Successful,JAY681,Jayanagar,Bangalore,Debit,Merchant_51,Clothing
+702b9c5c65f2787ffc5e30ef63b5dafc,916371ef57b3ade122c6e3c2601ef981,671.09,2023-02-18,Successful,JAY346,Jayanagar,Bangalore,Debit,Merchant_63,Electronics
+4a461167df305c6c9b6708a845760199,dbde0b48d0492edb00be08b10fb66f30,420.89,2023-10-31,Failed,JAY479,Jayanagar,Bangalore,Credit,Merchant_49,Health
+d490064dde46652547cc5f60f88d29c7,264358f2cc54255b66db73a3e2127097,605.84,2023-10-08,Successful,JAY789,Jayanagar,Bangalore,Net Banking,Merchant_87,Electronics
+831e38a16a4f1f95b6aae2d3831354f4,8e3ec2c82acba00840dd13d98bf60c76,230.99,2023-10-27,Failed,JAY530,Jayanagar,Bangalore,UPI,Merchant_2,Groceries
+c4cc731bff4714ea5ed173c8b7ca468f,d27a152684877bacc23252536e2e1a60,951.44,2023-08-11,Successful,JAY461,Jayanagar,Bangalore,Debit,Merchant_23,Electronics
+bb6400d07ddf60aa8512ab45e4c19b55,2419dd37fed23fab8f81f8ea1ed288fb,239.06,2023-05-25,Failed,JAY247,Jayanagar,Bangalore,Debit,Merchant_73,Groceries
+67de7d2abcae2c74af4b9437a231970f,c4fb70c93a80ca7b19f86bed2747fb00,394.35,2023-08-04,Successful,JAY483,Jayanagar,Bangalore,Net Banking,Merchant_59,Groceries
+c0c1186aa9bb3a06d7930a5b033b0d55,647cf56284cb6434a23adc797f4c3072,827.76,2023-01-01,Successful,JAY389,Jayanagar,Bangalore,Net Banking,Merchant_52,Groceries
+8ff0545b407d2143c1fb0cb1aafaab6f,0486d507b4c2e78ce1ce404977c1b891,421.67,2023-06-13,Failed,JAY851,Jayanagar,Bangalore,Debit,Merchant_18,Health
+65585998023f5bfca45eed7b75f02dc5,562d56cbd619a2742a38030e57e66e4c,259.05,2023-07-02,Successful,JAY586,Jayanagar,Bangalore,Net Banking,Merchant_15,Health
+45ce0aacfb54ecdbfa73129da81bc42d,723ee888bc91ccaa6a64b047aa46e284,606.35,2023-12-01,Successful,JAY169,Jayanagar,Bangalore,Net Banking,Merchant_22,Health
+10e79143c75bfb2b32ce5ee91dbca433,2ef22739036a0392b188877cb440acf0,423.86,2023-09-10,Failed,JAY661,Jayanagar,Bangalore,Debit,Merchant_3,Health
+4578197a1011725c6ac06faeabef056b,7a5ca9e633d00fd3297ceb87368eda45,884.11,2023-03-19,Failed,JAY308,Jayanagar,Bangalore,UPI,Merchant_6,Health
+b4634901986553911b6306737584852e,fb751601c33172f15925e27323196120,392.09,2023-09-25,Failed,JAY326,Jayanagar,Bangalore,UPI,Merchant_97,Electronics
+308fb0b0a3b96a34e158aa2f40e67058,5a41165bf24d06cfc930fbca3ac57d80,620.34,2023-10-15,Failed,JAY141,Jayanagar,Bangalore,Net Banking,Merchant_59,Electronics
+2599f1458c12abda4b84bb964b074581,82e92ae7dc59f73cc8d7920f83490b5f,720.74,2023-04-09,Failed,JAY393,Jayanagar,Bangalore,UPI,Merchant_28,Clothing
+bc8ac5f2a134d9ebfe5a7dfe0433a8b5,161665c6133100d3885240a9209dea7e,636.46,2023-03-15,Failed,JAY756,Jayanagar,Bangalore,Debit,Merchant_36,Electronics
+46b07de720c70c372491284e418fe3a4,14eb81b039ba1461f63b1b0d772330af,477.87,2023-01-10,Failed,JAY494,Jayanagar,Bangalore,Debit,Merchant_59,Clothing
+9c56dd9e95e02b03828dbe3c55d252f9,487fe894735e43a15afc4272d100f2b5,312.43,2023-12-06,Successful,JAY775,Jayanagar,Bangalore,Debit,Merchant_51,Health
+4d0c0f20992aea8fe38239adaa4228a8,af29e0f3a1b95eccf462a62a3e8d03f5,765.4,2023-01-31,Failed,JAY130,Jayanagar,Bangalore,Debit,Merchant_13,Health
+a0b6335eb5ba948c388f4b967ad5db85,d04f254088ea807ea2481b3c3c41524e,478.96,2023-01-02,Successful,JAY332,Jayanagar,Bangalore,Debit,Merchant_66,Groceries
+f86800df9bfb3c11dbd9379f434234ae,7b4a192a232f849bf76be7a4390351ed,357.28,2023-03-23,Successful,JAY113,Jayanagar,Bangalore,Net Banking,Merchant_77,Health
+a1194fcd5bc33c1b5f8b65cb56179f9a,49bcc4b238271af74a1ed76c7a00c88d,499.06,2023-05-18,Failed,JAY706,Jayanagar,Bangalore,Debit,Merchant_63,Health
+76d14fd20c262b8afbcfc5711b1729ec,db39fb0c46aade8ee774af456d29dc85,366.19,2023-08-03,Failed,JAY110,Jayanagar,Bangalore,UPI,Merchant_17,Groceries
+2947af858ca87fdbd958e861d47fe21b,7ae5169b9f8925fd308c74f582d4f740,644.88,2023-04-08,Successful,JAY267,Jayanagar,Bangalore,UPI,Merchant_20,Clothing
+e34efbd0e8a633258dff144534e5ddd8,50d827f6b84d47bc5d7c4a66a0184e5f,740.23,2023-12-08,Successful,JAY587,Jayanagar,Bangalore,UPI,Merchant_53,Groceries
+363f162bf6da0ddc90d04d145b0db670,26a2ecb7d0c8b49890bc899b4534457c,799.26,2023-01-17,Failed,JAY273,Jayanagar,Bangalore,Credit,Merchant_70,Health
+ef1d3d8897e45345f656de7e65ac9285,61dcabcdecca573b919852fe7bcde8ff,609.87,2023-09-04,Successful,JAY586,Jayanagar,Bangalore,Debit,Merchant_80,Groceries
+87f0b5b8dafe4c81ba775c7465c404ff,55a4ef001b18c0a09f27e57ab43e14ff,370.9,2023-01-03,Failed,JAY175,Jayanagar,Bangalore,Debit,Merchant_40,Electronics
+cf05444b13f5dca48e9796590018326f,d00a5d6dc2314ea9cdb2e3e3cb961521,55.36,2023-08-27,Successful,JAY568,Jayanagar,Bangalore,Net Banking,Merchant_63,Health
+e809ae706d684f5ac502d4ad6407ebae,c0cafe7754442dc7a32ff02ad786a7ab,132.26,2023-12-29,Failed,JAY565,Jayanagar,Bangalore,Credit,Merchant_7,Clothing
+5ce013e6bb2911c4f39fdc3142a60030,d1e31a612d2af9b9031c36a8b4dd26f2,587.97,2023-02-09,Successful,JAY874,Jayanagar,Bangalore,UPI,Merchant_38,Electronics
+07e2b2ac8a0451d4a1be9692cebffeb1,0e6f1bd90a27de7c89acfe7a9690a329,900.76,2023-10-21,Successful,JAY642,Jayanagar,Bangalore,Net Banking,Merchant_82,Health
+ed83120c1f379d86bdcb535fb3e63c9c,bbe4713ca1221caab8cd72f800a72f3e,654.81,2023-12-23,Failed,JAY453,Jayanagar,Bangalore,Credit,Merchant_32,Electronics
+612182bfa683c177403e7080e9932f13,2a61e09587b9b03013ddebabd640290f,742.95,2023-10-30,Successful,JAY277,Jayanagar,Bangalore,Debit,Merchant_71,Health
+280c2a2442cf5c790284e4ffc95b1d27,30861328e275c781ad8d52c40b81368f,259.21,2023-09-28,Successful,JAY775,Jayanagar,Bangalore,UPI,Merchant_83,Electronics
+380f9da393ed96cab95a3e7226334db4,07c60466e022a32a415a428683c7b560,754.46,2023-07-08,Successful,JAY201,Jayanagar,Bangalore,UPI,Merchant_98,Health
+59a10283af1b0a984e0364b4125692fe,a29712fae50c130aace7ff9e786a086a,734.39,2023-07-03,Successful,JAY337,Jayanagar,Bangalore,UPI,Merchant_93,Health
+bd6c25c46e518fbca6f070e458de223f,de5b2b8385d60690bab31266d266815e,980.8,2023-01-10,Successful,JAY121,Jayanagar,Bangalore,Debit,Merchant_88,Groceries
+356b0ed0ee70457eba04f5c3e6350cb4,ba5e07fb214881917fbe06327936a257,363.18,2023-11-19,Failed,JAY540,Jayanagar,Bangalore,Debit,Merchant_16,Electronics
+212987bb19cb9c8556050d127a8e4b6f,dab92a07d33e6a1915102c470680b5df,167.49,2023-11-26,Successful,JAY389,Jayanagar,Bangalore,UPI,Merchant_88,Groceries
+20db6049d482c3bf432ff210f3ef6411,e2e66ecd93d7351871d323da2ffba3a9,780.76,2023-02-12,Failed,JAY540,Jayanagar,Bangalore,Debit,Merchant_30,Health
+36d6c3076d30d4465e52532282d82bfd,7621e14836fc3b54a300c437ec542932,204.44,2023-02-14,Successful,JAY366,Jayanagar,Bangalore,Net Banking,Merchant_39,Clothing
+5e69a03e874381360c31a205fab0b5d3,5b0245430abddd5224a45abb88522926,305.38,2023-02-12,Successful,JAY903,Jayanagar,Bangalore,Debit,Merchant_70,Clothing
+599a2468ab199f93ad119dcc33c09ad8,22d76694facf9ef364dbe91d0cec7946,653.97,2023-07-08,Successful,JAY666,Jayanagar,Bangalore,Debit,Merchant_17,Groceries
+9fdf2b42c03e47efc41719dc04f163b5,e7cfb924f579c827c54cf4032eabe1ff,715.46,2023-12-02,Successful,JAY622,Jayanagar,Bangalore,Credit,Merchant_92,Clothing
+cabce5311c437735d6d5785eb0f9254f,378f6372b03ef497008a9091e0356a0d,111.75,2023-10-08,Failed,JAY140,Jayanagar,Bangalore,Net Banking,Merchant_97,Health
+f3b055a209d4e81eaef449fdde448936,5a6223ad5c282edd75c167e634bbc935,725.89,2023-04-26,Successful,JAY741,Jayanagar,Bangalore,UPI,Merchant_39,Groceries
+528ac3b1bf8d76eb66e939f99986de80,d481b6914447db26269a7f2336b1db49,124.91,2023-01-30,Successful,JAY264,Jayanagar,Bangalore,Credit,Merchant_15,Clothing
+fbd807db6b9c67aca6a2ddebe87a0dcd,c958e1afb0fc629b28b3c5d31939184f,540.89,2023-02-25,Failed,JAY692,Jayanagar,Bangalore,Credit,Merchant_1,Clothing
+2c297f15074d56137cb5467e48cfd4ae,1a7b4f48be53432a4702609c25bfe251,281.3,2023-09-21,Failed,JAY426,Jayanagar,Bangalore,Credit,Merchant_1,Clothing
+d98f00ae62e9177f35af7305547e0825,2ca66bdfd3f08a945c87327e47b695d7,201.86,2023-06-06,Failed,JAY663,Jayanagar,Bangalore,Net Banking,Merchant_52,Clothing
+9dc2c2c30a2b97ea0ebec9605d62fd67,0ea57811107cc538b97152755de18c7b,549.28,2023-04-20,Successful,JAY250,Jayanagar,Bangalore,Net Banking,Merchant_76,Electronics
+dd4f7b9b63753bba9c6dbd3ce3fe3545,11d74dc764c1947c1553f6b7915cfb1c,723.8,2023-01-01,Successful,JAY431,Jayanagar,Bangalore,UPI,Merchant_94,Electronics
+a94c5e6e28baaaee769065b3119cfa8d,522a9f32ec7fa417b9a5bd2d66f04283,330.92,2023-10-09,Failed,JAY621,Jayanagar,Bangalore,Credit,Merchant_36,Health
+ed12907e96d36d38e1312dd6f669f8bd,eacce7af10bbd283dc411e9808975292,676.09,2023-10-02,Successful,JAY486,Jayanagar,Bangalore,Net Banking,Merchant_32,Groceries
+64158ee93e0bd080e3be645749efa656,2e9268421843b3a01bce7aee7b20967e,422.94,2023-10-02,Failed,JAY609,Jayanagar,Bangalore,Net Banking,Merchant_34,Clothing
+97b392f3c7c5f27b9c42727cfe62303c,52036637bd74fcafca7752627f7e1873,700.45,2023-11-16,Failed,JAY434,Jayanagar,Bangalore,Debit,Merchant_93,Groceries
+4af838fe41530f4a301656ee6c9ca67f,29f2127b1c8a8bab619303f6372f7e47,779.4,2023-05-14,Successful,JAY940,Jayanagar,Bangalore,Credit,Merchant_71,Health
+b51ee565a6b131683baf7f6f99c65712,03ca1a513844a2c0d7e29dd184e73d8e,224.66,2023-01-10,Successful,JAY223,Jayanagar,Bangalore,Credit,Merchant_81,Health
+4893ca2213e915058ef3bc74ac6a568b,84d8c23ef1e0236ac3c739a6c2f64de9,673.1,2023-11-26,Failed,JAY159,Jayanagar,Bangalore,Net Banking,Merchant_59,Health
+abd0da9474dc428eb0c9ee79f7c25f45,911a2a2c3fdefb1c28ad710adbc9f595,553.29,2023-03-18,Successful,JAY650,Jayanagar,Bangalore,Debit,Merchant_70,Electronics
+a275bd65f633bde4f4df538c82088e89,ef354e8336c1c78cb4cd85725bc1a156,101.44,2023-08-20,Successful,JAY584,Jayanagar,Bangalore,Debit,Merchant_3,Groceries
+792cf32fd7366116eb7e2f7c6c7dd4fa,d7afc08061efb6aad4282a9dde09d717,424.11,2023-03-17,Failed,JAY192,Jayanagar,Bangalore,Net Banking,Merchant_62,Groceries
+38861f32f8fb87d946fda35f5b936387,14f1bfa88fcb852a4d75b719c9a9f77b,368.59,2023-12-12,Successful,JAY783,Jayanagar,Bangalore,UPI,Merchant_54,Clothing
+8162e0b2b80f087e967e6aaee735992f,5f156296d8725d4a4ae861aeabfa48cc,327.07,2023-01-12,Successful,JAY475,Jayanagar,Bangalore,Debit,Merchant_62,Health
+cb1e23fe0d5e31d10087df2b6a3a0a6e,dab890c48ae33cf550ea09c09bfd3d1b,570.42,2023-07-17,Failed,JAY207,Jayanagar,Bangalore,Net Banking,Merchant_53,Electronics
+8a0ac321cab4df09c5177dc3be7736b5,75d153f1eec5b82bdd3a79e97ff40497,437.34,2023-07-22,Failed,JAY117,Jayanagar,Bangalore,Net Banking,Merchant_28,Electronics
+c8aa87e50b46c1647c05d265b698cf67,101fa2228294d1ea157efef1f448d6ab,419.46,2023-07-12,Successful,JAY499,Jayanagar,Bangalore,UPI,Merchant_96,Health
+bf09a7a8daa5d5ed5b2aa36d80baa0c9,da169b01c15824793979490f086e8c48,49.24,2023-07-22,Successful,JAY284,Jayanagar,Bangalore,Net Banking,Merchant_11,Electronics
+43932011857097438c7cea7dd742b53a,2e3eea197471bdef2f6742530468e725,648.07,2023-01-15,Failed,JAY328,Jayanagar,Bangalore,Credit,Merchant_34,Electronics
+d0f7de62ab17dc4e8625cf50a1957665,09e5e792f12dbe8f9fb3ce90c9ec42dd,774.98,2023-11-17,Successful,JAY288,Jayanagar,Bangalore,Net Banking,Merchant_35,Clothing
+e1f18e77a28890afb670bcf230105046,e48325092620b7b467c6f0ae4a32bbd3,392.3,2023-09-28,Failed,JAY514,Jayanagar,Bangalore,Credit,Merchant_98,Clothing
+c7ace78274f7e94311af28c76b8b63cd,16546eb09366e24813f2fa03730d95dc,716.67,2023-03-23,Successful,JAY963,Jayanagar,Bangalore,Credit,Merchant_83,Clothing
+8f37c8bf2c68e6d8a360e702a97f9243,e8273c7bebde2bf74a2cf48e8fa1ccaa,725.59,2023-12-31,Successful,JAY705,Jayanagar,Bangalore,Credit,Merchant_67,Health
+53d5c1c6d69ee747520112d5519401cd,c741f015a5fbdf3db0bc9c8a0fbe5e85,154.28,2023-07-21,Failed,JAY857,Jayanagar,Bangalore,UPI,Merchant_57,Clothing
+802b06bace36938014991e4bf162fbfb,b34542c3562b331ea8f09f371b2ab28c,255.01,2023-05-30,Failed,JAY516,Jayanagar,Bangalore,UPI,Merchant_18,Health
+7d9f4afa2c86b0764d6af474a7442218,f252d1c91ac5a1f459b9c4d6fbe7035e,795.03,2023-05-15,Failed,JAY656,Jayanagar,Bangalore,Debit,Merchant_74,Clothing
+c946ee137963bae156db6aa9012a06cb,9cfc63caf0fb488dde40adcd4f558a92,393.33,2023-02-20,Successful,JAY805,Jayanagar,Bangalore,UPI,Merchant_98,Clothing
+4c57e239fcab57e98e278cb91ecbf437,9d36707fa6bc0b3242c527c343e46e83,381.03,2023-10-16,Successful,JAY104,Jayanagar,Bangalore,Debit,Merchant_87,Clothing
+5ba047f8062de6fca8a145480590c299,f14be0b6aac9bf77e94dbb68139a4db2,212.34,2023-07-07,Failed,JAY640,Jayanagar,Bangalore,UPI,Merchant_55,Clothing
+44c0459d15b4c77cd5d172839d74e7db,60173180dd1bef8340e2cba834cf5aa4,987.11,2023-09-26,Successful,JAY675,Jayanagar,Bangalore,Net Banking,Merchant_13,Clothing
+fdf91602a335d99cf0a5dc98a31ea5b7,fb392570e3270a7e671e87de3510620a,401.92,2023-07-07,Failed,JAY509,Jayanagar,Bangalore,Credit,Merchant_25,Health
+11c968ab695da72fc2ef9b905c935418,f48d42be6870fbe42c226ee513d56724,907.69,2023-01-22,Successful,JAY369,Jayanagar,Bangalore,UPI,Merchant_45,Groceries
+69e5288f06422bab5207595de9804b8a,b761bf7a142122b46981d51b88c3c051,294.39,2023-12-25,Failed,JAY576,Jayanagar,Bangalore,Net Banking,Merchant_59,Electronics
+706b50ef1363774dc0cd7e483ab25c0f,f661a09ccb513414d85400ad494d00a7,350.81,2023-06-25,Failed,JAY841,Jayanagar,Bangalore,Debit,Merchant_50,Electronics
+4c3effc55535c1deef75a3a4b45e83cf,19a100cca83d1b00d9d22f0a3aa8aa08,738.09,2023-10-30,Successful,JAY687,Jayanagar,Bangalore,Net Banking,Merchant_30,Groceries
+066d1d5f2a5734781f4cf37ea5bfe9f7,56fcf80324047a6d602aa63228b6f443,799.29,2023-09-21,Successful,JAY249,Jayanagar,Bangalore,Net Banking,Merchant_4,Groceries
+79d8dbb8beeed0b7448f91959feb28d5,eb364aad166d773e4183f49c6d0cd3cf,957.41,2023-03-12,Successful,JAY377,Jayanagar,Bangalore,Credit,Merchant_28,Groceries
+5e36c1f80fc288745903e8a4b2fd0cfa,0060541a1bce5702f9a56d9e031737f0,620.31,2023-10-30,Successful,JAY784,Jayanagar,Bangalore,Debit,Merchant_13,Health
+f610866d2647bbda2dd1206559d8d38b,437eeceeca3818127001780a990e5d31,431.18,2023-06-20,Successful,JAY495,Jayanagar,Bangalore,Credit,Merchant_54,Groceries
+5606bf7906c6a8c24cab0595eeb8cbbf,bff76f4750c807060a71b9e3bea1b6ac,807.86,2023-06-16,Successful,JAY746,Jayanagar,Bangalore,UPI,Merchant_50,Electronics
+dfe2a4e3b17a4fb6c5dbb7840082820d,0d60a2908bd6b47c9405974dabf385cd,443.4,2023-11-20,Failed,JAY781,Jayanagar,Bangalore,Debit,Merchant_64,Groceries
+647865c152f67a3bb11f6e67ee507b2d,9a3d2f6387b70c351c3d5ae89ac49b93,612.98,2023-07-23,Failed,JAY915,Jayanagar,Bangalore,Debit,Merchant_30,Groceries
+bac215c98e73887d4f81d71be95d23a1,a3df9f5aaf97e4a75194e7eef9e39361,444.18,2023-03-28,Successful,JAY164,Jayanagar,Bangalore,Net Banking,Merchant_41,Groceries
+d6cb67d9f290778529f130b9248f98ff,c659ea9a8eb8d581064700a64c2ecc99,553.84,2023-01-28,Successful,JAY335,Jayanagar,Bangalore,Debit,Merchant_10,Electronics
+7563058da6610d9a4a9961ee8f85dd34,a4bbb620d58a527e9623f4d777a19007,189.26,2023-10-30,Successful,JAY848,Jayanagar,Bangalore,Credit,Merchant_47,Health
+040e1763a2b15450e0a12650e3d38bb8,e0a16256533731ab98d056489be98365,997.95,2023-11-30,Failed,JAY548,Jayanagar,Bangalore,Net Banking,Merchant_81,Electronics
+0dc9d2c2925c2fe03ce0f86aa7f97101,6edfe0323261fc46a8e2f94ef53382dc,940.63,2023-09-14,Failed,JAY722,Jayanagar,Bangalore,Debit,Merchant_60,Clothing
+55a3460861202780a400aa4e2c850fd4,6326b05314403f46b1fefa93994cbd9b,880.15,2023-09-17,Successful,JAY538,Jayanagar,Bangalore,Credit,Merchant_100,Clothing
+2ae0d90d2e9c81fbe8ba3ba5f3a17b16,5bbcf773fb67633ba14f7127dea89878,234.87,2023-05-23,Failed,JAY372,Jayanagar,Bangalore,Credit,Merchant_87,Electronics
+bd71a91017e10756ef5fd714dafb0b1b,da14027d1d3761721aa1f3ade81677a5,291.61,2023-11-03,Failed,JAY699,Jayanagar,Bangalore,Debit,Merchant_33,Groceries
+5d914dc65bc482b589b537833931acad,3546ef44831f650c27f023208b1eab31,904.63,2023-08-06,Failed,JAY434,Jayanagar,Bangalore,Net Banking,Merchant_1,Clothing
+cb5405612a73586c942327beeee88ab9,886f92ebca143cbd010522a1f7265e54,212.38,2023-06-26,Successful,JAY794,Jayanagar,Bangalore,Debit,Merchant_88,Groceries
+a8bd5f3002250050a7e508be8e29d627,e9b2ad941c9f249a830415b1014cc262,41.21,2023-02-07,Successful,JAY373,Jayanagar,Bangalore,Credit,Merchant_5,Groceries
+f099726e6c94d2bfe6353677a45fb4cc,637c93b095ff359674210be0f5f7979b,894.5,2023-03-16,Successful,JAY708,Jayanagar,Bangalore,Net Banking,Merchant_27,Groceries
+e9a61e179276ce89c915911031f65727,987e22ae4e1540fa24b3cd8a881a3f02,742.17,2023-06-26,Failed,JAY980,Jayanagar,Bangalore,Credit,Merchant_17,Clothing
+48c718a3c83db6bbc2d13b81e740cf46,29f72438fd4784fb2d2e781babc50cff,493.69,2023-01-27,Successful,JAY949,Jayanagar,Bangalore,Net Banking,Merchant_27,Health
+6deeb6fb9e78a4d698dc3efc9bf8dbac,5674af69425aceb080ef2c4daa3cb501,729.74,2023-06-09,Successful,JAY225,Jayanagar,Bangalore,UPI,Merchant_76,Clothing
+a9a2bfaba8d7660b3faa561d595afd24,adcc91483ce614fc70dd4f776750e796,261.52,2023-04-12,Successful,JAY622,Jayanagar,Bangalore,Credit,Merchant_19,Electronics
+085f7794788708f16a9cf3a7c7977533,bded816bdace6327c620174975c2bfd8,305.97,2023-02-03,Failed,JAY554,Jayanagar,Bangalore,UPI,Merchant_72,Clothing
+4dff49c5e51748718ac138ec3221c81a,ae4d7713a5821e4df199672e2e99f106,354.97,2023-09-09,Failed,JAY353,Jayanagar,Bangalore,Credit,Merchant_54,Groceries
+b967924f1d10af035aeb0c0266d7ec27,6d436ece041c885301b943c7714f5858,578.11,2023-02-21,Failed,JAY777,Jayanagar,Bangalore,Credit,Merchant_87,Clothing
+05a6ccf60eee72aa1c9dd9f5cb97595e,e20bb3bb450afd8ffa87feb191d31717,779.27,2023-09-12,Failed,JAY472,Jayanagar,Bangalore,Credit,Merchant_94,Groceries
+bb5d7cbe757f67019a4d1a0d55700a21,9a38ecd81b11e80505fd0a88f802fe34,83.77,2023-01-15,Successful,JAY397,Jayanagar,Bangalore,Net Banking,Merchant_28,Health
+811ef15717fd47e0fdedd8d370c4200e,bb67706f302e5911d342a549f615d450,960.73,2023-02-16,Failed,JAY514,Jayanagar,Bangalore,UPI,Merchant_68,Health
+d17847d7ed388bed9bea0bfff4245760,63a27d2c77f26a767bedaacaf8592f3b,575.36,2023-04-26,Successful,JAY735,Jayanagar,Bangalore,Net Banking,Merchant_96,Health
+7b72a5f9ec365f9a116284927c2cf796,34966b734dba0f3b256eaa9ae226bfc8,120.23,2023-01-22,Successful,JAY793,Jayanagar,Bangalore,Debit,Merchant_12,Groceries
+6f76855b7e4fa4e3139a3121aec55925,89c3a82907af9e6ce0a2813a08cd936c,971.85,2023-01-15,Failed,JAY541,Jayanagar,Bangalore,Debit,Merchant_63,Groceries
+a842bbb9827f96a33d468ab4ce28e675,f1388a445f3f02563dcfb9f02191b802,975.83,2023-07-05,Successful,JAY439,Jayanagar,Bangalore,Debit,Merchant_13,Clothing
+2e87f354fc539fe215a27ec1e057b1ea,9517e4bc3e8ad6d6cd93e0a237f5bc22,804.33,2023-12-10,Successful,JAY717,Jayanagar,Bangalore,Net Banking,Merchant_21,Clothing
+a1ba0dfcddd4819f98c201b2307fc1d3,cde2a13a9b48ae6705aff0f14bf42bb4,727.51,2023-12-20,Successful,JAY849,Jayanagar,Bangalore,UPI,Merchant_76,Clothing
+e0f44b03ab336cc6887cd9a7652460d4,ab5117c55a0402dc3aa406fac82f0c3b,85.17,2023-12-12,Successful,JAY533,Jayanagar,Bangalore,UPI,Merchant_49,Clothing
+6c0b4d4f2a9b8aa6e043d87f0812ca02,c03a58394702c8ea565f36e844497b98,870.01,2023-07-17,Failed,JAY501,Jayanagar,Bangalore,Credit,Merchant_89,Health
+622349286fae10b1995f8db44f167097,40e5987223fc8fd46ed0b628b245c4f9,461.75,2023-01-18,Failed,JAY311,Jayanagar,Bangalore,Net Banking,Merchant_5,Clothing
+a157f0aaffd812630a86e3374a243e58,86efc5b0bb43318128255b5fbbac26e8,184.36,2023-10-25,Failed,JAY693,Jayanagar,Bangalore,Credit,Merchant_39,Clothing
+9634e44c093b8118c7b83f3a4b379ced,192e3eea53d0568bbfff83c36d1c202d,209.33,2023-08-04,Failed,JAY610,Jayanagar,Bangalore,Debit,Merchant_11,Health
+6c2e563f899e86da1a40a5161c07c596,5db5e95518f87cac0876258a5cc14d74,508.81,2023-03-05,Successful,JAY545,Jayanagar,Bangalore,Debit,Merchant_13,Groceries
+f81e5b15f54d5170bd44951c60bdf6f1,83d35a0a3d19ffe801d96d090764fcf9,504.5,2023-07-27,Successful,JAY324,Jayanagar,Bangalore,Net Banking,Merchant_16,Electronics
+155e37e603c53f0bc8d76ddd6923a802,9131c2acb224c2ebb4cefd830fa3c5b8,22.22,2023-10-16,Failed,JAY432,Jayanagar,Bangalore,Credit,Merchant_58,Health
+a5fe8033478de4fca640bd5eeacb56f6,defd65a74373cfa524eb90b62110d6c2,403.39,2023-06-18,Successful,JAY431,Jayanagar,Bangalore,Net Banking,Merchant_66,Clothing
+4394ab7f53b454b0f79745a1995d9f95,3ee44d0f7ba0ee2d627d28fd79ad6412,721.81,2023-08-25,Successful,JAY229,Jayanagar,Bangalore,UPI,Merchant_73,Health
+fbb1c3de1374155c4d1da9114ad39284,86531690df0782b90f6509aa987eaadc,972.04,2023-02-26,Successful,JAY917,Jayanagar,Bangalore,Debit,Merchant_27,Electronics
+74f714fe1af6afc836c53c18f5c55d5c,e7d82a749da8093194f60f95a5781b36,311.79,2023-01-21,Successful,JAY369,Jayanagar,Bangalore,Credit,Merchant_40,Groceries
+673b35e7d0cee6b066a3c656f6eeeda4,37ef8f653f37d351544768322d762388,523.84,2023-10-16,Failed,JAY785,Jayanagar,Bangalore,Credit,Merchant_43,Health
+5c34cfd8e43cd6ed9bf3e0484e2bb2ae,d56436d42f1768a17fc2447804fa9bc9,72.81,2023-09-02,Successful,JAY679,Jayanagar,Bangalore,Debit,Merchant_69,Groceries
+5092b316f5cc32128f9ca68584448c27,4a7d030d2dcab6b7773b880772ac90bb,348.82,2023-03-06,Successful,JAY672,Jayanagar,Bangalore,UPI,Merchant_99,Clothing
+d5161d5d209a6455f59b4d8b5cf91bc5,2e613736d955b24b1bc7339225869537,448.6,2023-09-18,Failed,JAY192,Jayanagar,Bangalore,Debit,Merchant_95,Clothing
+6f21278476ece313d26032a7e63100cb,4b3468fff1e55a9f49ae6480d2642ca0,797.53,2023-05-20,Successful,JAY107,Jayanagar,Bangalore,UPI,Merchant_41,Electronics
+bab2b6f69791e74d8c0dc631f7826bb0,5c8e8075616fb62accbc3b4ecdb2ba2e,896.66,2023-03-08,Successful,JAY147,Jayanagar,Bangalore,UPI,Merchant_65,Clothing
+20b01448c5403caeb53e13c3fd03824e,890bd21c00057301dc0f4d29cb6f7297,690.17,2023-06-20,Successful,JAY729,Jayanagar,Bangalore,Net Banking,Merchant_13,Electronics
+419c79e42cf363d33e0e1ac564663ce2,3f0672c49a967f1cc030142dddda141f,226.85,2023-10-19,Successful,JAY622,Jayanagar,Bangalore,Debit,Merchant_41,Clothing
+0dd6217480f0688d7e9e7fce0bd47ed4,d0592708b81317410151b16c291cac6a,152.37,2023-01-05,Failed,JAY465,Jayanagar,Bangalore,Credit,Merchant_57,Groceries
+a5261c4bab84c686f146d3a5e72b5fb1,95abc81ebb258dd2b01f59ef5148d809,104.71,2023-07-29,Successful,JAY488,Jayanagar,Bangalore,Credit,Merchant_43,Health
+baf7299fc5d6b540ff0dd612eac59545,0c10b16bb6349f3a72e271d2ec7516bc,704.76,2023-01-08,Failed,JAY835,Jayanagar,Bangalore,Debit,Merchant_89,Clothing
+6dfa115200635caacf59fd03455cbd12,9ed5acd26ef74013f38c6196117935c9,121.53,2023-06-06,Failed,JAY110,Jayanagar,Bangalore,Debit,Merchant_59,Clothing
+38c367a63305494cc2db5491f0dcaad6,687dffa17d80124d459d7f9d324a5583,283.69,2023-09-24,Failed,JAY911,Jayanagar,Bangalore,UPI,Merchant_11,Electronics
+6edf84a9cabbdd312e5a4f7a8bb50061,74362e49cbab513e1a151c95970a807d,573.68,2023-09-26,Successful,JAY217,Jayanagar,Bangalore,Net Banking,Merchant_64,Clothing
+a897d8786d6cf3e689fea109872f7263,34091eead2c64c17f99fcb26b2579bd8,127.35,2023-10-14,Successful,JAY870,Jayanagar,Bangalore,UPI,Merchant_42,Groceries
+47344e833f218dec09396d44fb28950b,6d891d20cabf6c45924006892f01773a,782.67,2023-01-05,Failed,JAY875,Jayanagar,Bangalore,Debit,Merchant_96,Clothing
+fc20d4c9ef157b57b7997439b42e5288,f7948d311fd7ee4c6c8bf0c456d86768,600.37,2023-11-19,Successful,JAY763,Jayanagar,Bangalore,Credit,Merchant_59,Electronics
+7c0be1b7e2a36f204dbc3abd014063a7,4420924ddef4df63ef98e74ef36a1fb7,880.76,2023-12-22,Successful,JAY536,Jayanagar,Bangalore,UPI,Merchant_32,Electronics
+22039c19ee327fab0e4f47d4deb0ef7e,c954bd8e45af1b849dea359b26b855d2,582.73,2023-09-15,Successful,JAY707,Jayanagar,Bangalore,Debit,Merchant_71,Clothing
+d9552e99b0cdac1c9b1956b331819f72,8bbfd79d56185c11003c59a882482739,319.33,2023-07-17,Successful,JAY117,Jayanagar,Bangalore,UPI,Merchant_86,Electronics
+6d305a7d8984efe947988977083efa9d,602b5a53fffe1328589086405ce30d9c,948.31,2023-12-18,Successful,JAY825,Jayanagar,Bangalore,UPI,Merchant_83,Groceries
+fdf1dee391122fdd9b1d72b7c987d46b,91c7752788d7186e026564c49bf9e0be,116.9,2023-09-05,Failed,JAY504,Jayanagar,Bangalore,Credit,Merchant_74,Health
+937e3fe6e9185e53ab9b756799337f39,30a39e5fc3f4f7d2c6f8015485483c3d,964.07,2023-07-26,Failed,JAY466,Jayanagar,Bangalore,Credit,Merchant_69,Health
+a9a030cb6048ab9ec8950d19d2cb8688,cedb49cd39b5e4d63dba84e4094d4126,576.08,2023-06-26,Failed,JAY314,Jayanagar,Bangalore,Credit,Merchant_82,Health
+fa104bcba6c65a30562f733230b12cc2,5c6b2431fd334c199a931a2cfc7bde0c,906.49,2023-08-31,Failed,JAY638,Jayanagar,Bangalore,Net Banking,Merchant_11,Health
+af9a17250456d4ad9594e370c8ca2e40,7919e69feb27521853a4826f127d2d76,425.86,2023-09-20,Successful,JAY268,Jayanagar,Bangalore,Credit,Merchant_30,Groceries
+3ae375c6942a8ab594a10eae3924b328,8e4223321d0e52f7b5bfc039ce36c631,242.25,2023-01-27,Failed,JAY147,Jayanagar,Bangalore,UPI,Merchant_47,Health
+6b47c2173956018f63f108f1bf1ac8be,52a2130211586b1b6132e9c06c8f13a2,337.93,2023-05-04,Failed,JAY665,Jayanagar,Bangalore,Debit,Merchant_10,Health
+44191706d97c11762c0af15797c3c419,996ce88d2cff437c4dfc523f6188c4da,760.06,2023-10-27,Failed,JAY612,Jayanagar,Bangalore,Credit,Merchant_7,Electronics
+c97728015bdbb03cf958eb2f4c11a5ff,1e003bddafe253b84dd41fb9b80f8ece,439.99,2023-06-10,Successful,JAY870,Jayanagar,Bangalore,Debit,Merchant_14,Groceries
+e91022376efef1cdba3289a72d77c98e,981171ab7adbbda9d249e7c3285dda55,11.79,2023-04-22,Failed,JAY545,Jayanagar,Bangalore,Net Banking,Merchant_44,Electronics
+a96a9f95ee5be32c968c757b20ee15cb,b347406638d503b48b4b8acb8b89f4b2,776.79,2023-04-23,Failed,JAY260,Jayanagar,Bangalore,UPI,Merchant_65,Groceries
+2879da8c7aa47e55387d5b13a7663086,2163bff5218375196ada7ba1f50ad3b4,995.19,2023-02-28,Successful,JAY300,Jayanagar,Bangalore,Credit,Merchant_18,Electronics
+52375511d86c79ee2e7feef0061b4974,3ab71e685048a5f3af4256c68fd91c3c,755.13,2023-06-16,Successful,JAY220,Jayanagar,Bangalore,UPI,Merchant_53,Electronics
+263897e6b464705272b46649935876c7,9be465d6b2960a530faa6f1bf661658c,529.83,2023-02-04,Successful,JAY155,Jayanagar,Bangalore,UPI,Merchant_91,Clothing
+d9a58fc45e57628fc136e51e3c0ba6c8,0ccbf79255823d7eed9ed69dac0cb1aa,538.55,2023-01-28,Successful,JAY196,Jayanagar,Bangalore,Credit,Merchant_10,Health
+a84a14cd5bee65febe87b34118753c89,4ee203864fb7f1274d19138f217d3c2e,146.65,2023-02-11,Successful,JAY450,Jayanagar,Bangalore,Net Banking,Merchant_2,Electronics
+194c04edd2401d52243a4578a3cb8f31,ff302de5c95e48ab052b1240898fa03e,523.89,2023-01-08,Successful,JAY787,Jayanagar,Bangalore,Net Banking,Merchant_14,Electronics
+49c653dbb6fc3d06f92ec53b0dd76312,63717d583f7c13c65a3181c742445c54,77.83,2023-10-10,Successful,JAY817,Jayanagar,Bangalore,Credit,Merchant_12,Electronics
+9a6293b046a9eefcd7a3e7f0147a4793,8a831e7b187ad3c535485eca1f9c15cf,886.1,2023-10-19,Failed,JAY307,Jayanagar,Bangalore,Debit,Merchant_36,Clothing
+ee967ddc529aecb2eed83e3959ca34b2,cdbc2cafbf7ad06a3585cdf2d663144f,324.13,2023-10-23,Successful,JAY357,Jayanagar,Bangalore,Net Banking,Merchant_45,Electronics
+21119f4a3f3bc0a60604512539c7f2f2,e5834ff73b944b1d5b746ca0c6d7556e,308.75,2023-11-05,Failed,JAY745,Jayanagar,Bangalore,Debit,Merchant_10,Health
+4c7e607ae1a0ad76951ae1b24577045a,75fc944128cef95d44404cda1353c0fc,704.21,2023-07-10,Successful,JAY996,Jayanagar,Bangalore,Net Banking,Merchant_63,Groceries
+ff6f7ec771809560ce3a05814d90ddfa,dff211e7754ab25a3eeb50bdfc9e4d5d,512.53,2023-09-16,Successful,JAY600,Jayanagar,Bangalore,Credit,Merchant_98,Groceries
+126d74fd7faf19d06c3d55e167c4e07b,46c4a7fb5194f2d4f58395df627a6206,466.74,2023-08-13,Successful,JAY419,Jayanagar,Bangalore,Debit,Merchant_54,Health
+b46423bb4d2a4102a1f41637d8c04d03,ac6d04148ab53841c1232a1bcfaff229,20.22,2023-07-26,Failed,JAY931,Jayanagar,Bangalore,UPI,Merchant_55,Groceries
+0585df3280031aa55615b9d361e028e6,c4f61eebfc7ff82e4600ffb963529a5c,194.34,2023-05-15,Failed,JAY735,Jayanagar,Bangalore,Credit,Merchant_66,Electronics
+bfcdd22230137596d03fe6c72f5320d9,5930213c44ed0ecc75457a681a826320,22.26,2023-03-23,Successful,JAY451,Jayanagar,Bangalore,UPI,Merchant_36,Health
+94d4cae2534afcc64879895b6c8c0183,ba47fca5c7a8d9e8b83c587a02e62b00,951.21,2023-08-10,Failed,JAY113,Jayanagar,Bangalore,Debit,Merchant_3,Health
+d9542ea842c7372da4a31443481fbdf6,3d50b50adb7518683b68f6b194912fd3,303.35,2023-02-23,Successful,JAY397,Jayanagar,Bangalore,Debit,Merchant_59,Electronics
+b8603c789ae290ad9690a6afb810f39a,660fc91522a4b6dd930200edbb7044d8,41.83,2023-10-19,Successful,JAY694,Jayanagar,Bangalore,Credit,Merchant_22,Health
+b112511e0e8992d1bb0006d565028e23,a204f208d0b89917a1feda8d9398d673,782.35,2023-10-14,Failed,JAY461,Jayanagar,Bangalore,Credit,Merchant_19,Groceries
+333579abdd36830602fb7bcd625718b4,e31a84fa64a7a849923fd08bbf5dcfdb,579.45,2023-09-20,Successful,JAY131,Jayanagar,Bangalore,Credit,Merchant_47,Health
+18acd16846c8b48f74f2c9b5e091d1f0,98bc93714efcae65c19acbc737bde4a8,97.71,2023-04-09,Successful,JAY658,Jayanagar,Bangalore,UPI,Merchant_97,Groceries
+3d5ee58955d36b46c2f27f453ad952e2,e453a241ec9775297062a5d5b11fa767,700.47,2023-01-07,Failed,JAY535,Jayanagar,Bangalore,Debit,Merchant_2,Health
+249e0d3646c9e1fc933785536581c01f,aaa51ba25bf48da78cf384aef401b86c,92.5,2023-12-23,Successful,JAY280,Jayanagar,Bangalore,UPI,Merchant_96,Groceries
+ef1ce12ba18e1751a0a5de3217590979,15adb110a60da592c9b183713b366618,384.61,2023-12-18,Failed,JAY388,Jayanagar,Bangalore,Credit,Merchant_48,Health
+8a78d65e1f91b8eb46ae828353d14ed5,dfc587eb619c4829a4d2f87947cf871e,315.5,2023-02-11,Failed,JAY311,Jayanagar,Bangalore,Debit,Merchant_60,Clothing
+965d93be17ee40808823239ac4de47e8,53bfe1d35f42cfb9cb41ebaa395f6577,911.76,2023-09-12,Successful,JAY115,Jayanagar,Bangalore,Debit,Merchant_84,Electronics
+037d3677a4e1ee1a74c71d02f60f72c3,351b03ced117e0d16bb6f5ba88a72249,899.83,2023-06-08,Failed,JAY121,Jayanagar,Bangalore,Credit,Merchant_5,Clothing
+a982672931f0cadfebb98debc0925c21,a7ab2d9e2f6d5e77986cb29074d0cbc8,607.0,2023-11-06,Successful,JAY209,Jayanagar,Bangalore,Net Banking,Merchant_96,Groceries
+f77c9bb303e30ec61af0e549eb3cdce1,568a84a4543c808df21bd2e6cc81aee3,240.68,2023-01-20,Successful,JAY509,Jayanagar,Bangalore,Net Banking,Merchant_9,Groceries
+2ef63c326ecf8d1df4a01f038da4e3a6,3add3f9d89043404d9d8d6a9e5c3db4a,13.38,2023-10-24,Successful,JAY109,Jayanagar,Bangalore,Net Banking,Merchant_22,Clothing
+38f7b3942e56917db27962dfec20baae,4c51d95d920c51eca57b64a4e4225ed1,22.57,2023-05-26,Successful,JAY235,Jayanagar,Bangalore,Net Banking,Merchant_74,Groceries
+0bfa0dd09ce8f0549b43384fb4144d09,da6376277ea5a8ff89b03046118459a0,964.66,2023-01-16,Successful,JAY657,Jayanagar,Bangalore,UPI,Merchant_57,Electronics
+3f713762ba6ec232d8b11903d4de2e93,2bec4bc474e32c588e07d5327a163839,995.98,2023-12-13,Failed,JAY128,Jayanagar,Bangalore,UPI,Merchant_96,Groceries
+36d7a37e3e335b72a5fd87da8bb950f5,d323e421f9dbb6d2f0ebbaebd71eb6b9,446.45,2023-08-31,Successful,JAY375,Jayanagar,Bangalore,Debit,Merchant_45,Health
+8f9501cb08b37da2968c267fd607b502,bf5b15157a3e2310642c353aae299f2f,321.78,2023-12-08,Successful,JAY865,Jayanagar,Bangalore,Net Banking,Merchant_63,Electronics
+2661010e4930c407c6e2c75c98c1f57b,6a583b6c2eb8746aafa54cf819e3bbe1,602.75,2023-08-14,Failed,JAY525,Jayanagar,Bangalore,Credit,Merchant_11,Electronics
+7dc2616ab3bb7b5c1a30f92f05aa6172,2a33bb0d1c03a4a4b19b784d42fc82ef,519.56,2023-10-28,Successful,JAY695,Jayanagar,Bangalore,Debit,Merchant_51,Electronics
+ce71b22a664ee8dc99d48457ee64d707,6c0bd66e68a6ec44a761f0548fa54e80,592.96,2023-06-10,Failed,JAY375,Jayanagar,Bangalore,Credit,Merchant_83,Clothing
+003bc62f2767c58eeeed34fcd51985ee,ec78ce23ca08f9aa0b8e783ee5fea3fa,821.35,2023-05-14,Failed,JAY387,Jayanagar,Bangalore,Debit,Merchant_49,Groceries
+d45ca45a427d1893d2ed321143331363,c68c2300320dc1cdf20255b058d518cf,41.44,2023-11-23,Failed,JAY548,Jayanagar,Bangalore,UPI,Merchant_47,Health
+acc2f517375712dc2fe059d68193ff37,6326f883f652b6f2e0610e7cde3dfa35,565.21,2023-10-02,Failed,JAY261,Jayanagar,Bangalore,Net Banking,Merchant_42,Clothing
+3d531ae96553d81937e45b74a1f18e64,9a2b514c683d7e68652150ed512aebf3,536.29,2023-06-23,Failed,JAY811,Jayanagar,Bangalore,UPI,Merchant_57,Electronics
+9dde7c40338e8056b4615e9fa516b49d,f3ef69b33ef0146ea79f9986e6272a61,285.29,2023-02-06,Successful,JAY758,Jayanagar,Bangalore,Net Banking,Merchant_39,Clothing
+c5e363d3832f05d7b74c4a5ba9ae3897,09dc73812234e906b9a8b8108817b414,933.06,2023-11-02,Failed,JAY734,Jayanagar,Bangalore,UPI,Merchant_18,Electronics
+4e27b1d3e3f84ed002376ddf5a676044,4f57a5ac52a2dde8384b53a95df96126,23.6,2023-09-07,Successful,JAY630,Jayanagar,Bangalore,Net Banking,Merchant_58,Clothing
+c817197da61e401684e2e175b2dfc6d3,32b687d65bd689b87237c603320e0064,171.59,2023-06-06,Successful,JAY618,Jayanagar,Bangalore,Credit,Merchant_57,Health
+c4a86c6fb53f687e7c040d1423829a29,4387239f52fd0373b9b677af80112229,264.8,2023-12-30,Failed,JAY865,Jayanagar,Bangalore,UPI,Merchant_46,Health
+d46461935ce78a2d2cb9d6dec617c36f,21f613dd758011c7d33ae32ec953e546,357.78,2023-07-09,Successful,JAY406,Jayanagar,Bangalore,UPI,Merchant_72,Clothing
+ef3f12686dd483ca4dedf17173f2335b,4641a22301f15b8f396d0c6057f8084d,793.36,2023-09-16,Successful,JAY111,Jayanagar,Bangalore,Credit,Merchant_27,Clothing
+168bb65a27e63c0a73ded6d5646db733,e75850e54f6889752392df4e07e18da1,379.56,2023-10-30,Successful,JAY162,Jayanagar,Bangalore,Debit,Merchant_24,Health
+9f663de4b200a567bf3a18114a00b37a,4b3517d6929d458ea5a005d31f3cdcc5,628.12,2023-06-26,Failed,JAY452,Jayanagar,Bangalore,Debit,Merchant_21,Clothing
+39ca059586066df7cb93ffc1b3f0686c,5ca734907468852af9e762bc9d75e944,738.36,2023-07-23,Failed,JAY361,Jayanagar,Bangalore,UPI,Merchant_22,Groceries
+5ac1c8af8de9e02efdf5024a566f7f82,443142187a5b2beec9f0c624ebb45c7f,817.3,2023-05-12,Successful,JAY971,Jayanagar,Bangalore,Debit,Merchant_87,Clothing
+dc56d86f58d16400c8f2b016424e254e,a2e6b22aff129b72ba7e500c359cafcf,828.5,2023-08-14,Successful,JAY434,Jayanagar,Bangalore,Credit,Merchant_25,Groceries
+1915650d9c726263597b3b651c6d8ead,58abaf9d86459beaf628b5762e5dfad9,245.62,2023-06-03,Failed,JAY783,Jayanagar,Bangalore,Debit,Merchant_76,Clothing
+97383733613a2de196262c6f06d6de57,2722828719372cfb3d4433552e8b51af,421.23,2023-08-27,Successful,JAY791,Jayanagar,Bangalore,UPI,Merchant_56,Electronics
+d838dce827e5624f0682b547b2693516,9d46fcd8978ca6662cece1ac03b84271,782.54,2023-02-25,Successful,JAY938,Jayanagar,Bangalore,UPI,Merchant_22,Health
+156ef4fe945966d9cb6e7d898d5c80e4,e63bfbf0707128b7a8c063bee706ed04,851.35,2023-12-26,Failed,JAY290,Jayanagar,Bangalore,Credit,Merchant_52,Groceries
+24a02757a47ce00aae1d4c978f08bd8f,85a9954edfa289e299503d477b65b800,804.4,2023-02-08,Successful,JAY106,Jayanagar,Bangalore,Debit,Merchant_18,Health
+bbbcda936dc65a602ddb88ebca4013c6,8bf34f9cd35e47552523f4a45af9e650,92.71,2023-07-08,Failed,JAY938,Jayanagar,Bangalore,Debit,Merchant_33,Clothing
+d16543a004d8362fbc31fd6e3eb48160,ea9138d0acd7121c579e65a1275fc19f,531.38,2023-01-20,Successful,JAY566,Jayanagar,Bangalore,UPI,Merchant_90,Electronics
+a52d49cb02d1508e9f5b7d2e7edac4c1,b9954cab7bb244f9196b3cd43b7b5333,993.81,2023-08-03,Successful,JAY699,Jayanagar,Bangalore,Credit,Merchant_58,Groceries
+0c37dba9a4604ae98e3c7d4177f69280,3b180df1a45c08dbf6cb4a6c7952e970,856.15,2023-10-08,Successful,JAY812,Jayanagar,Bangalore,Credit,Merchant_32,Clothing
+7c3669e194cc7580d4ecd543bf602a6b,ba81fb0f72e4a0e29833cc80c20e5694,681.57,2023-04-28,Successful,JAY374,Jayanagar,Bangalore,Debit,Merchant_49,Electronics
+83807dc53cd042ff2084ed9ef93fc130,e512e549ca2626fdc319a114ec22a7bc,877.61,2023-01-17,Successful,JAY691,Jayanagar,Bangalore,UPI,Merchant_53,Health
+ccfaff858c04eb89bb527fb11af18660,5894bbde93e89ee39527972c3f1a5c40,506.54,2023-03-12,Successful,JAY973,Jayanagar,Bangalore,Credit,Merchant_55,Health
+b3b21df84d186cd38d8402e48fa723bf,bf5562b3e219dd3c7c4e96b3dda95ff1,281.62,2023-11-29,Failed,JAY751,Jayanagar,Bangalore,Credit,Merchant_73,Health
+792b3f5937319f1529a0acdf24775551,e74b84ea6ca3c96d22ddfa166fe125b6,797.7,2023-10-27,Failed,JAY469,Jayanagar,Bangalore,UPI,Merchant_26,Health
+1228c1742fb2d9c8ea791fe2d6d12a00,791c7e77ac6fcce509848e4391e9f1d5,275.28,2023-12-18,Successful,JAY876,Jayanagar,Bangalore,Debit,Merchant_67,Electronics
+3545f43be7288fbb2d38bd60a8aed49d,3e2533d8c1fd93f293d44c5793b3d61f,791.92,2023-09-28,Successful,JAY528,Jayanagar,Bangalore,Net Banking,Merchant_43,Health
+4e1162554a215c3d1d3a0d841a752ac1,d9b6575eb8017a277708e4aec450a335,652.04,2023-11-12,Successful,JAY308,Jayanagar,Bangalore,UPI,Merchant_98,Groceries
+ab83fe2dfbb2754325ba89eb4a028991,44832896d3eae071473ef62a35277136,671.84,2023-11-26,Successful,JAY740,Jayanagar,Bangalore,UPI,Merchant_49,Electronics
+e35242baff1fd4c62531081103d870ea,66ae1076d40b16a92be02acdcb12be66,139.07,2023-03-04,Failed,JAY332,Jayanagar,Bangalore,Debit,Merchant_83,Health
+1150738ed0c543063ef9d2c5a9c95933,ea8b89d8943e236d9f594bc5ae4ed6ca,55.07,2023-03-01,Failed,JAY123,Jayanagar,Bangalore,Debit,Merchant_70,Health
+e7f913013983c0bd8217eac3503cb7b8,c6eb355b28e54adf7016ffb234c6047f,849.49,2023-10-07,Failed,JAY359,Jayanagar,Bangalore,UPI,Merchant_66,Electronics
+b4ebb6066ddaa6373061154a20d329a6,c68ea6448b12767d8b046db23c3029eb,776.54,2023-07-30,Successful,JAY944,Jayanagar,Bangalore,Net Banking,Merchant_75,Groceries
+beab55bc024bcb7a869752204ec0b886,6ab5a38412dd9ecd45dad8e59128bea5,983.85,2023-08-23,Failed,JAY337,Jayanagar,Bangalore,Debit,Merchant_20,Groceries
+fb0a92b487ca78bd756385da3074f4fc,e72264d4198eeaff71bdc8a29ad1f4c8,122.44,2023-03-05,Failed,JAY997,Jayanagar,Bangalore,Debit,Merchant_10,Health
+72b637cac4357d45a1724872dd9149c4,10f0a41335a475394ed3bc0e4cc531c6,602.79,2023-12-20,Failed,JAY504,Jayanagar,Bangalore,UPI,Merchant_68,Electronics
+bd3e4818c1887cfc356506f2cc189bef,b1a98c303313c18f36fb5af6b515acde,301.57,2023-06-05,Failed,JAY850,Jayanagar,Bangalore,Net Banking,Merchant_16,Clothing
+e39f410a9109e097a4032cfe539315da,a86f9a7cc3f112963f848c4b66ef56c4,982.0,2023-04-20,Successful,JAY483,Jayanagar,Bangalore,Credit,Merchant_28,Health
+93a08f4ad7b95170ade29b493dd98de9,675eac41c7196c0e079f43889fd08227,763.4,2023-10-14,Failed,JAY640,Jayanagar,Bangalore,Debit,Merchant_76,Groceries
+aeb241210fc35761c87b5e70a8f9a259,5f496b2eea8fbc56ea13b1c9a6c00663,889.78,2023-12-04,Successful,JAY692,Jayanagar,Bangalore,Debit,Merchant_12,Clothing
+4f5bc166837abf1bda824e96e755356f,7ca4513cce8b11f2148cb51e0c8106bd,848.16,2023-04-03,Successful,JAY518,Jayanagar,Bangalore,Net Banking,Merchant_69,Electronics
+5363fe817624c2fba07af5371cd78b1a,c5d983b593bebd5475b14504a700979f,955.28,2023-07-28,Successful,JAY767,Jayanagar,Bangalore,UPI,Merchant_36,Health
+0704aaf1ef420cb8465a1a882da25e19,23d1670591c43d0c958981f060a56c0f,532.99,2023-04-20,Successful,JAY191,Jayanagar,Bangalore,Net Banking,Merchant_84,Groceries
+495149aceff5596f459518648e1ba3ab,ef91ca49935aede7ab08f9c72f3da652,714.59,2023-12-06,Failed,JAY598,Jayanagar,Bangalore,Debit,Merchant_57,Clothing
+460894d3ec6d611415ce3de68910727d,2f5f523a07a6c9864608f054a9d8c88d,586.79,2023-06-28,Failed,JAY219,Jayanagar,Bangalore,Debit,Merchant_12,Groceries
+09aa419a2ce90f7374a4857bdfdfad24,f01b3a362a33a2a4bf76adfd029385cd,77.54,2023-08-22,Successful,JAY371,Jayanagar,Bangalore,UPI,Merchant_69,Health
+0ec7721a0abc4a833dfb82fd38c1b3a3,e14d283cb8870031bf102dbabcd36812,680.72,2023-03-13,Successful,JAY445,Jayanagar,Bangalore,Debit,Merchant_18,Clothing
+860992380737649ed52d14b81e658345,2917e607e31deeb435346ff7092a6554,205.5,2023-11-11,Failed,JAY287,Jayanagar,Bangalore,Net Banking,Merchant_28,Health
+5719d397e0c1069bbe2bb6bfc3a9b6f3,8fae5e6e615a61bff33b00ebd29272f7,922.54,2023-09-20,Successful,JAY589,Jayanagar,Bangalore,Net Banking,Merchant_9,Clothing
+a921c63328fef93ddbc7af18a3e49b49,66cca75e901b2c2a45ef0dda86b3b685,884.12,2023-12-18,Successful,JAY214,Jayanagar,Bangalore,UPI,Merchant_12,Groceries
+19362e2d42a6541cda9603c1309483ad,c360bbbb7973d4e6c7a8c10b67e136f5,751.17,2023-07-19,Failed,JAY542,Jayanagar,Bangalore,Credit,Merchant_9,Health
+80a3284f834957bd9c60009a4180bff5,2d5177da3fbe744a4d8c8e168d16ef47,83.23,2023-09-03,Successful,JAY382,Jayanagar,Bangalore,Net Banking,Merchant_97,Electronics
+3f94d2b828489f70642728a3a026e3d0,15cf318693bd466845e7b444709566e4,83.8,2023-03-02,Failed,JAY343,Jayanagar,Bangalore,Net Banking,Merchant_82,Electronics
+b7c90fd9d21441eab920586e4548c3f1,19d326a1640d93d65063fd28065a48c6,903.16,2023-07-25,Failed,JAY599,Jayanagar,Bangalore,Net Banking,Merchant_77,Electronics
+09b9e996d15985343217a3c2c7938da2,fc3a2ba3e8e875ca53886848bedeefc4,934.32,2023-08-01,Successful,JAY584,Jayanagar,Bangalore,UPI,Merchant_56,Groceries
+d1a199307fcb8968fb0b790045aedf92,d48b9dc1c67e40c9e044933919bb659e,36.29,2023-08-24,Successful,JAY458,Jayanagar,Bangalore,Net Banking,Merchant_47,Groceries
+f50e722fc67aae362000ab20ca6ec58a,69bbc6ceeb4a0fe770e7a3e695ffdea0,624.65,2023-03-07,Failed,JAY768,Jayanagar,Bangalore,Net Banking,Merchant_62,Clothing
+6b86670e0e9f509a7bce949f12cb59a5,d15c269269627303667ac3324f913dc7,341.82,2023-05-25,Successful,JAY219,Jayanagar,Bangalore,Credit,Merchant_52,Electronics
+d08bf034261336059812fe6a917bb71b,e7fa3a7517424375ff11f48d6b48a6c3,312.09,2023-10-03,Failed,JAY352,Jayanagar,Bangalore,UPI,Merchant_57,Health
+db6b7b69721931689da624dfe2fa6335,d9ba8125d2cc2ecb3b57e4c68fbff719,516.04,2023-01-21,Successful,JAY254,Jayanagar,Bangalore,Credit,Merchant_86,Groceries
+e61b5389020beec1206dcaea82d1f95b,0bbc5df22089ee8b36e48c2587575875,92.41,2023-07-25,Failed,JAY913,Jayanagar,Bangalore,Credit,Merchant_68,Health
+1a158246a7681d7e41fe88bcbe65d53e,362a5e978387e46ae098da9c2ca998f9,334.51,2023-12-11,Failed,JAY112,Jayanagar,Bangalore,Debit,Merchant_75,Health
+5c171372e9d6c8e169ec343aa9434ace,c6dd899d5177eaf46dfd4738313ff115,401.35,2023-09-15,Successful,JAY747,Jayanagar,Bangalore,Debit,Merchant_79,Electronics
+615b5fa9eee0c5c765ba80af24fb0161,f28b2a366ba39a6994f011db9427e3c5,676.87,2023-10-20,Failed,JAY325,Jayanagar,Bangalore,Debit,Merchant_16,Groceries
+443c646e51a88347b96edb45e77e0a2d,1808d2013eb0828ddcf8daaaa9889508,844.23,2023-07-16,Failed,JAY992,Jayanagar,Bangalore,Credit,Merchant_39,Health
+3d0f659cd098daa04fcb6d01dd26799d,ed959e4fbf585e7421ff114e9e71a0ec,545.83,2023-10-28,Successful,JAY896,Jayanagar,Bangalore,Net Banking,Merchant_32,Health
+da86a969defb2d4f3c0b9ddf69a5e4c4,a510b51940ddad4a04767df0a98d7982,716.74,2023-03-01,Failed,JAY601,Jayanagar,Bangalore,UPI,Merchant_27,Health
+e5c795179b3261da80d1dcb644672b1e,3ea8c090435230808621da7650d778c4,555.22,2023-03-18,Failed,JAY349,Jayanagar,Bangalore,UPI,Merchant_22,Clothing
+bfdcf55536623b8470ee0499751d3584,2cb2613868053e9689aa2e0a6a326154,926.93,2023-04-08,Failed,JAY803,Jayanagar,Bangalore,UPI,Merchant_28,Clothing
+b9e34cd8540706068ca59d43de7d250a,e7f31395aae3218650d20a0fa177c976,939.53,2023-06-17,Successful,JAY705,Jayanagar,Bangalore,Debit,Merchant_98,Electronics
+5b73f898bdae1d5e1a3d645766190a6d,60bb92102833da053a130d11da474cd7,641.24,2023-12-01,Successful,JAY773,Jayanagar,Bangalore,Debit,Merchant_27,Clothing
+e9ff72ff9b382d8ffd2b2263ce162970,e22d2f5ea7938f7a95bbdd1cd5d5d4c4,930.56,2023-02-27,Failed,JAY394,Jayanagar,Bangalore,Net Banking,Merchant_2,Groceries
+7a74774362e34047dd8cbd56f5f4afbe,990bb4c88bf670e27914d7338ddd0e2a,140.84,2023-05-08,Failed,JAY366,Jayanagar,Bangalore,Credit,Merchant_36,Clothing
+8225fee374c13515f2f5f1a58ea76884,6a340fc41cabc9a7e444f4ba668a449c,39.6,2023-07-16,Failed,JAY176,Jayanagar,Bangalore,Credit,Merchant_70,Clothing
+a57f0bd6550e2bca6d32761c3e21376b,7b81a7bc7f2add2b6a6ad48b1da458f2,458.07,2023-05-16,Successful,JAY746,Jayanagar,Bangalore,Credit,Merchant_88,Health
+55c80817fd533ce858077bd4b6fc296a,a66ab6b4ede3b35f5f082afb4f15d5f7,495.97,2023-12-01,Successful,JAY825,Jayanagar,Bangalore,Credit,Merchant_70,Groceries
+72c4b2e74e262a0040e60629038a4aa7,52eeea08279afc77e2d750ebe83cd934,499.91,2023-12-02,Failed,JAY820,Jayanagar,Bangalore,Net Banking,Merchant_40,Clothing
+d74495aeb4e79fc5cf5ae9648ed6cf3f,70560fe041306fb6ced753650da56203,301.65,2023-06-14,Failed,JAY474,Jayanagar,Bangalore,Debit,Merchant_94,Groceries
+32cf4a46a04f28c08f728dbc9be024ad,c62647b798e2eadea6ca0c253f2e3f6d,591.29,2023-12-21,Failed,JAY728,Jayanagar,Bangalore,Credit,Merchant_49,Electronics
+8913918d0a7a1a26605b4f366f1fad62,4297bb543d0239c673c60b17016fa4cf,602.59,2023-04-09,Successful,JAY170,Jayanagar,Bangalore,UPI,Merchant_98,Groceries
+4ebc0d36dcc58d004baa48f14752ee94,be4e69412d071f30502aa459ef2089f1,462.75,2023-04-13,Successful,JAY921,Jayanagar,Bangalore,Net Banking,Merchant_70,Health
+9ad64c6281b838a880642c9f9f69459d,faef85e03465f9c0d4f4c82ff9b83249,280.75,2023-06-04,Failed,JAY460,Jayanagar,Bangalore,UPI,Merchant_1,Clothing
+939120ae5ed1f3318ca78a500ec0a7c8,27fe0065cbc13d461b0fa9d181e1829e,107.15,2023-11-14,Successful,JAY914,Jayanagar,Bangalore,Net Banking,Merchant_94,Health
+27f443bb78fcd162c0a33a579d56a2c4,9837a57d48d694c8f4b83544c2e76009,439.23,2023-07-29,Successful,JAY124,Jayanagar,Bangalore,Net Banking,Merchant_32,Health
+6ddee121f2441e494f3750396a2ff2f0,687e4bf880071499fdb4deccf13946e7,424.73,2023-03-21,Failed,JAY954,Jayanagar,Bangalore,UPI,Merchant_72,Clothing
+d649444b29be79c19ef1798a1a501074,d959fa3d5e7939077f9bab6ab1675730,749.12,2023-07-09,Failed,JAY984,Jayanagar,Bangalore,UPI,Merchant_78,Clothing
+a523b4fbd813490d3c0854243b0dbb65,86ddfcc5cad1093ab42c16619b9372b4,958.5,2023-01-16,Successful,JAY899,Jayanagar,Bangalore,Credit,Merchant_74,Electronics
+9638aa970b5a0f1322145f2f6376b0bc,595e5fc4a700d1a08c0894db7cdce256,945.73,2023-04-15,Successful,JAY687,Jayanagar,Bangalore,Credit,Merchant_29,Electronics
+44c03a1e6a20c9d8ae3f274eb6709db8,aecc990897ef27fab169d62f95876da2,429.35,2023-03-14,Successful,JAY948,Jayanagar,Bangalore,Credit,Merchant_24,Electronics
+ea690ee7ce8f62aae79dd4781fdb3030,0f8c07c672d21d3d7902a81a23daa780,95.21,2023-07-20,Failed,JAY388,Jayanagar,Bangalore,Credit,Merchant_96,Groceries
+76decf2b75abf8e80d40e092df2313b0,9934e8ff89deccebbd2044c0fa555c23,481.67,2023-08-28,Failed,JAY205,Jayanagar,Bangalore,Net Banking,Merchant_28,Groceries
+6e942282361504d047ed91cd5435d85f,8b77804efc42fb7d33e65d3685d6976a,121.75,2023-03-07,Successful,JAY940,Jayanagar,Bangalore,Net Banking,Merchant_85,Electronics
+1365cb54c7b59f948f24b6387c3c8e7e,a77b2057edc419b651589aaa6f376568,398.5,2023-06-01,Failed,JAY407,Jayanagar,Bangalore,UPI,Merchant_96,Electronics
+7054965daf4b5830b27d961e700281cb,d1f2062ef84434214d19fe5b3fd95d7b,65.51,2023-01-03,Successful,JAY650,Jayanagar,Bangalore,Credit,Merchant_15,Clothing
+a8586af31075348bacb94ae91720abf8,8f7e1e62bbc26aff006f4a189f839548,665.16,2023-02-12,Failed,JAY939,Jayanagar,Bangalore,UPI,Merchant_11,Groceries
+f69c8f448697af6078ff20aecf1c4215,429252300b186e9337973a5b31abf952,776.89,2023-09-12,Successful,JAY918,Jayanagar,Bangalore,Credit,Merchant_64,Groceries
+cfb1570c261a6d97eaf3f925859ee048,bdcbb66f7f4862ec3673e05dcc793d41,144.11,2023-03-04,Successful,JAY362,Jayanagar,Bangalore,Debit,Merchant_29,Health
+88c3f56b79cd78c588ab823ddf00dcda,8418af250640a72e1e858190fe2d4e54,904.88,2023-02-13,Successful,JAY416,Jayanagar,Bangalore,UPI,Merchant_3,Clothing
+2b837412ea846582b181a6189b13d348,b92f09cb016d4eb6006c5e94ae130d0b,174.57,2023-06-16,Successful,JAY721,Jayanagar,Bangalore,Credit,Merchant_17,Health
+92bf78c008e0e1ec22a3fe8fb0d854fc,df968aa13a389b14aebb706c64898bc2,499.69,2023-07-25,Successful,JAY507,Jayanagar,Bangalore,Credit,Merchant_55,Health
+5b943653e97cdb812d3ed3e4cfcd1a06,cc6d40ea6e9160a8132ab25df3772d20,437.88,2023-03-05,Failed,JAY905,Jayanagar,Bangalore,Net Banking,Merchant_68,Health
+8e7a8cf8411f0cbba61a3e96428feb6b,f36d13fc4ade383dbbe293b23afcfc42,588.02,2023-06-20,Failed,JAY498,Jayanagar,Bangalore,Credit,Merchant_25,Groceries
+4814054dceaddf4d0cc375843b3d235c,3b4efd2ccfaca02bbfe47f06206e04c7,194.0,2023-08-05,Successful,JAY118,Jayanagar,Bangalore,Credit,Merchant_87,Groceries
+5475fdad1ce5bbc8654136b3f9aa1cbd,d62482aa7f93d2d1ab451c5bc3e43b88,588.41,2023-04-21,Successful,JAY680,Jayanagar,Bangalore,Debit,Merchant_83,Health
+69aa91fbb027066c1099e2e514f9a736,d3ac32b7bf7d01fdce6c94dac2aada1f,873.81,2023-06-22,Failed,JAY329,Jayanagar,Bangalore,Credit,Merchant_26,Health
+18928c5ac1648a0d38ce74b9b1ca0acf,941a734689c0a622e6dc6a492e873301,170.5,2023-10-29,Failed,JAY923,Jayanagar,Bangalore,Net Banking,Merchant_19,Health
+b76f331ad235ebec6fdb7a60acc8b77e,336f6f147d30e1df675db2e6293a073b,677.03,2023-04-08,Successful,JAY336,Jayanagar,Bangalore,Net Banking,Merchant_46,Electronics
+7aebaae267b1a4d8d88c1b100a4dec53,0686ae3d35d95d8471abe1f9e675c8d8,181.6,2023-04-12,Failed,JAY226,Jayanagar,Bangalore,UPI,Merchant_15,Groceries
+c0d7d0ec13b61d3174e88f6b74df94ca,682b2793ec901f17a7d30f3139d6ca4f,603.37,2023-11-08,Failed,JAY772,Jayanagar,Bangalore,Debit,Merchant_9,Health
+5dcaa7dea32299644a5a6c220b48f818,759d72d7158b64631d5285df457ca896,840.28,2023-11-19,Successful,JAY209,Jayanagar,Bangalore,Debit,Merchant_90,Clothing
+76c8e8d215c89b7d0ce23ab381fb07b9,c0cb9ad92811b645b26edd0a7e20c63e,252.8,2023-04-25,Successful,JAY141,Jayanagar,Bangalore,Net Banking,Merchant_39,Electronics
+9d0287a17a4382ab8f8fcb73610f8eee,39a53794f365f8f79e3bf482caa09f73,600.05,2023-09-03,Failed,JAY876,Jayanagar,Bangalore,Net Banking,Merchant_17,Health
+4ba4a4550b40e532581aec9e7bae305a,2910e8a47cc1604f7f86da94ce757b8a,742.11,2023-03-26,Successful,JAY888,Jayanagar,Bangalore,Debit,Merchant_9,Groceries
+4ab217ea08d8574a3c8d01328c8365b3,d73df4a7b4884749a0adfd73d83ce63c,560.89,2023-05-25,Failed,JAY423,Jayanagar,Bangalore,UPI,Merchant_26,Groceries
+58f3f2bbdf63e2f73c149e9b5b189198,e62ddc097cd835ab01a129a13c6b9469,522.32,2023-06-19,Successful,JAY583,Jayanagar,Bangalore,Net Banking,Merchant_61,Groceries
+18b43e517807bf437aeb574be4fe538b,93991f552ed81533ee2a0678daf3df7c,999.11,2023-09-28,Successful,JAY699,Jayanagar,Bangalore,Debit,Merchant_50,Health
+17c430fda28360d68c45aaf64e2d1bd0,6f1757d2465a7efd7243de92abf46116,394.37,2023-02-14,Failed,JAY531,Jayanagar,Bangalore,Credit,Merchant_100,Health
+d8837e61ecfa71460351829d48e911c5,1504b74c42be21b6c412598df57488ef,294.07,2023-08-08,Successful,JAY344,Jayanagar,Bangalore,Credit,Merchant_20,Electronics
+6a9d1d56ebc7dd4d6e53999317225549,fd00eafd03b8fb0770490bbb0fa7aba8,296.32,2023-08-03,Successful,JAY759,Jayanagar,Bangalore,UPI,Merchant_25,Groceries
+63c6fd278f5ab6d0bcb0d72f4364075c,c1334f71ce261e07e961feb5cebda534,217.94,2023-06-30,Successful,JAY611,Jayanagar,Bangalore,Debit,Merchant_82,Health
+d65765432451e8c22510f871e3d66d33,13ce5616c8506576d492068b4cea2683,327.43,2023-05-31,Successful,JAY837,Jayanagar,Bangalore,Net Banking,Merchant_5,Electronics
+27bee2b134a6582f68bb9b64eeac2574,03d2b6914feefd99b33c6c3139919672,719.33,2023-05-10,Successful,JAY818,Jayanagar,Bangalore,Net Banking,Merchant_32,Electronics
+ecdee09dff9cb5ffe1b66071932bd584,40664aab90dadf452b86b6a96362514c,747.3,2023-10-16,Successful,JAY713,Jayanagar,Bangalore,Net Banking,Merchant_62,Clothing
+e844745a5145c081fcde1042055b1c8e,ca42e44528a4721faeb93586c6aeebca,201.58,2023-09-14,Successful,JAY355,Jayanagar,Bangalore,Credit,Merchant_90,Health
+e4d488efee40b817fe39c6fe3e2ac8f8,72d2b17a6be44a39ec49996d159c15a7,265.84,2023-11-01,Failed,JAY237,Jayanagar,Bangalore,Credit,Merchant_37,Health
+6406da1fcf24b258ada300e100ff9e92,f880412deadd3d61dc16e3931308a95e,140.09,2023-07-17,Successful,JAY429,Jayanagar,Bangalore,Credit,Merchant_8,Groceries
+66159e809abe44cea09fa2512f120a62,3ced7d6721e1626b184f3450687a1880,390.83,2023-12-13,Successful,JAY295,Jayanagar,Bangalore,Credit,Merchant_19,Clothing
+0bffa33e63b238c14d0db34234eaf20a,8a5df63c5cb6e75537734c48f83cef37,645.56,2023-03-25,Failed,JAY242,Jayanagar,Bangalore,Net Banking,Merchant_4,Health
+99511d02eeba0957f60b7b851377bb99,68c9d1448a1b308d6144ca11868cdec8,44.94,2023-10-23,Successful,JAY397,Jayanagar,Bangalore,Credit,Merchant_98,Clothing
+cfcb8ec8d682e8e9485571013eb27906,58b43de02513e15a4fa70ceaec4d507f,874.44,2023-06-02,Successful,JAY205,Jayanagar,Bangalore,UPI,Merchant_35,Clothing
+0fbf6026335d986b1e8cbf4491329036,b3c9061415f131ce009a68960237bccf,610.28,2023-05-02,Failed,JAY913,Jayanagar,Bangalore,UPI,Merchant_31,Groceries
+020a90edf7825a5ca9a29f4684c3b00f,b8877d8c191101184a926bbbdddf23c7,463.31,2023-07-24,Successful,JAY868,Jayanagar,Bangalore,Debit,Merchant_18,Groceries
+b2d465fdb8cadbeac9e9a2bb22bbdd99,5d6b48404d64314d64f78966a08d3777,995.08,2023-11-06,Successful,JAY310,Jayanagar,Bangalore,Net Banking,Merchant_84,Clothing
+69b26a362f3f3017cc34eed3c5ffdcf8,ba71231565915dffe198fb6e01ea493c,37.44,2023-05-26,Successful,JAY684,Jayanagar,Bangalore,Debit,Merchant_66,Electronics
+82ceb010ee149b2384a38f61bd80bb4a,0698c70b727d11fe7646cef74ebcb7aa,656.33,2023-06-11,Successful,JAY995,Jayanagar,Bangalore,Debit,Merchant_32,Electronics
+ee91922df95b3f321a401389896d159f,51302a092ddacd84d22118cbe7aa0f5a,877.77,2023-06-22,Failed,JAY588,Jayanagar,Bangalore,Credit,Merchant_93,Clothing
+3d9ebd77027d273540f162d456adf5c3,9ae4fe4a309c4ffeacf2007c3b8f290d,574.09,2023-06-09,Failed,JAY299,Jayanagar,Bangalore,Credit,Merchant_44,Clothing
+ee3e1f339ddedf5a1ff1e9fbb43b898f,f7e8524195cda9078b085d6f46f0438f,106.79,2023-08-15,Failed,JAY980,Jayanagar,Bangalore,Net Banking,Merchant_76,Clothing
+586d84e6189f0b2a20d6acc45d104fa0,2b327964ea05ff4d2db49942a2da9615,677.98,2023-03-22,Successful,JAY753,Jayanagar,Bangalore,Net Banking,Merchant_75,Health
+2da7a15439beadce54d56d3d6a916847,bf7fbf83e5a4a73e38e2c2872549b0ab,631.19,2023-11-18,Failed,JAY569,Jayanagar,Bangalore,Credit,Merchant_39,Electronics
+62d20f021e0a84c463f914049ca4219c,5acbb88c0c9db6bece3bbc97555e85ac,618.41,2023-04-30,Successful,JAY404,Jayanagar,Bangalore,UPI,Merchant_92,Electronics
+e46f39047ef27f53a6cada35bacf105b,ac77f32b74db134f2acd9e2e72b0a435,426.46,2023-03-23,Successful,JAY162,Jayanagar,Bangalore,Debit,Merchant_5,Clothing
+f4ea0260abbf6c50eb4daec9d9f403c4,bc6c00855d8a6f0cc66a2a1b481c648e,441.39,2023-04-11,Successful,JAY687,Jayanagar,Bangalore,Net Banking,Merchant_96,Electronics
+67698eea4d4abd5c25f5c74e1030fbfc,1c9b2b48f706b785f888d06824aad546,489.91,2023-10-23,Successful,JAY906,Jayanagar,Bangalore,Debit,Merchant_90,Clothing
+e1b5bf4a76f6af9aeba3d19f5b993328,8f3644bf89e2800e739b6d594e2db2fc,584.77,2023-09-01,Failed,JAY398,Jayanagar,Bangalore,Debit,Merchant_15,Health
+d8666c50d93cecef00223e2346675ff8,3ffaf17702cc9b53c1670628ba6ed614,216.01,2023-04-28,Failed,JAY546,Jayanagar,Bangalore,UPI,Merchant_32,Health
+86e164a0ae82def743d6bcf147d1fa37,86e22deaff2cb79851f3f741e472a64e,917.37,2023-05-31,Failed,JAY861,Jayanagar,Bangalore,UPI,Merchant_53,Clothing
+0d4ef5b17bfd140f2460cf19cba1d2bb,8c021dbe7ce2c543be18e2c4a2dbd2de,821.24,2023-10-10,Failed,JAY688,Jayanagar,Bangalore,Credit,Merchant_60,Clothing
+72cbd305ab70fa1753f18ce5eb8bc6a4,09338986bd3104507a971f8277f16048,52.47,2023-08-26,Successful,JAY448,Jayanagar,Bangalore,Credit,Merchant_16,Groceries
+12a1be80d6cef011d55b329660cb1e1a,509a7208db547c4032517baf2acc34fc,387.38,2023-06-02,Successful,JAY368,Jayanagar,Bangalore,UPI,Merchant_94,Electronics
+7cede7095bca97b910f289ff9feaf049,7e954078dfb728fa838a51cd84c1df4b,666.76,2023-06-27,Successful,JAY593,Jayanagar,Bangalore,Debit,Merchant_91,Clothing
+6b13d687267e6f5f3bfbebffb9f20978,858bc4ab838934645c52bdcec73f1a65,535.05,2023-03-03,Failed,JAY625,Jayanagar,Bangalore,Debit,Merchant_41,Clothing
+a68a1ec3e467d5f37a4b6a64a8adb57d,460524a47049f900d91da19e6b8c4a16,994.44,2023-06-09,Successful,JAY528,Jayanagar,Bangalore,Debit,Merchant_46,Health
+ce6e20449ec866028cc9db14348737d3,00ea75ae4c42d3acd19da405c1598aef,354.84,2023-03-28,Successful,JAY670,Jayanagar,Bangalore,Credit,Merchant_59,Electronics
+f6196c212837325e4d4bded42fe3b4d9,4a241a17e55e0922cdde2d53c3182f07,136.13,2023-12-29,Failed,JAY305,Jayanagar,Bangalore,Net Banking,Merchant_37,Health
+d2df49d137af361f183d321ffd44363b,21bdf2e072f58edb21d8caf263cc5fdb,324.46,2023-04-04,Successful,JAY484,Jayanagar,Bangalore,Credit,Merchant_71,Groceries
+a386bd051fd9e55e8faa76dae62f78e6,37541bfc1f32923b2178650d79fd6899,614.87,2023-02-18,Failed,JAY891,Jayanagar,Bangalore,Credit,Merchant_98,Groceries
+c2b4985ad75b2804930428bd190eb85f,4c8b9418e4571c6aa3e1767616023450,259.46,2023-01-19,Successful,JAY549,Jayanagar,Bangalore,Debit,Merchant_1,Clothing
+d6457ca1455d2123609e885819aa927b,02f82309a5943056ed49b8015261bccc,796.35,2023-01-02,Successful,JAY357,Jayanagar,Bangalore,UPI,Merchant_49,Groceries
+17537901c160a2cc4667492add127407,2eda024dcf1cd1a7425355e7fe529141,768.94,2023-02-09,Failed,JAY233,Jayanagar,Bangalore,UPI,Merchant_63,Clothing
+2e09b24180199b2e09894862ddf176a3,f6742bfa8feed815ac8df8d0fb79b0f9,746.5,2023-08-30,Failed,JAY978,Jayanagar,Bangalore,Debit,Merchant_30,Health
+3835813c040c13da1fe7add638ed490e,a485b68e1fd550f5278a9cf48448d569,739.52,2023-05-25,Successful,JAY154,Jayanagar,Bangalore,Credit,Merchant_85,Electronics
+0ff312f6b49f5ef6f8a266d34934d599,fc8eebf9f46bfb1159f8dc9eed0b0da3,172.53,2023-11-08,Failed,JAY214,Jayanagar,Bangalore,Credit,Merchant_13,Groceries
+4fd581524fd0179ab266eb5483854429,752ced2d7b2d9d92cfeb05369d574b54,237.39,2023-05-21,Failed,JAY615,Jayanagar,Bangalore,UPI,Merchant_67,Electronics
+58f4a3f54d42d229983bdc4c6734409c,f050ffd7aee94739cb7d152930ccb062,664.7,2023-03-27,Successful,JAY272,Jayanagar,Bangalore,Debit,Merchant_85,Electronics
+034b72f2e9ef04a5abd6b96aa91dc0e7,18fd5cd15c1dfd83749c8fabd5b4854c,612.37,2023-12-01,Successful,JAY360,Jayanagar,Bangalore,UPI,Merchant_29,Clothing
+3ca73a0af72e1d5ca80114bdeb1d32fa,fd48a821d97a8590e1b11bedac4513d5,915.89,2023-01-17,Failed,JAY600,Jayanagar,Bangalore,UPI,Merchant_22,Health
+18b78d5cff6924cfd6d201fccec2b3a2,d4c8ac133ffb647965a255e032896a19,740.32,2023-05-23,Successful,JAY986,Jayanagar,Bangalore,Credit,Merchant_44,Health
+2774a5f0df9c5ef95f776d75c23707d5,1e953b2eec8252ec4e7396292cee8a7e,237.51,2023-07-11,Failed,JAY557,Jayanagar,Bangalore,Credit,Merchant_46,Electronics
+b284f365f67215aee2340983faf3af7f,2ada03ed9d3c4a2823e82b5e8bb534b2,146.03,2023-12-20,Failed,JAY397,Jayanagar,Bangalore,Credit,Merchant_76,Groceries
+4bb9d1fab6fd86e22e39d7bb1d1b393b,8a08fbf937fe9b7a27084d2a2bfa50bf,916.21,2023-01-08,Failed,JAY334,Jayanagar,Bangalore,Net Banking,Merchant_62,Electronics
+f121bd6094234f700b73c81d68a94f7e,fe4d836b966599da043e0692eb98fc88,904.41,2023-10-29,Failed,JAY548,Jayanagar,Bangalore,Credit,Merchant_60,Electronics
+8e57eccc379b663040c5ea6ad73d3fd5,580a781443211933b94489a3e8e2fb5e,62.89,2023-10-20,Successful,JAY973,Jayanagar,Bangalore,Credit,Merchant_86,Health
+1a5a9357bee5c79a047cd4580d278962,355ca367c7db14e700e7a1e3ed6a27f9,700.31,2023-12-29,Successful,JAY245,Jayanagar,Bangalore,Net Banking,Merchant_10,Clothing
+81a28991c39f4658aee8a5b88c096e67,06d4f6e2081bdfe3b0e5b784b1350cbd,609.51,2023-04-29,Failed,JAY612,Jayanagar,Bangalore,Net Banking,Merchant_49,Clothing
+fbc6873d15767d500ee88141a2339d0b,c918f291c9fb7ddd3a1cd643482ebb8f,12.25,2023-12-29,Successful,JAY110,Jayanagar,Bangalore,UPI,Merchant_74,Clothing
+f9867da9c8fc805d78ae6063230b6af5,8f64d82f1d67095fc76878b4aa85442d,278.2,2023-10-04,Failed,JAY111,Jayanagar,Bangalore,UPI,Merchant_25,Electronics
+7dae75df9545a7291be7a4e73ff12028,0daf95f70b218c35017c721f007bdc4a,299.16,2023-01-24,Failed,JAY748,Jayanagar,Bangalore,Debit,Merchant_68,Electronics
+e964aa81083598c33bc4b68ceadbc950,bf4d2c9c5d30e09faafa77ca27d63982,75.23,2023-04-16,Failed,JAY535,Jayanagar,Bangalore,Debit,Merchant_15,Groceries

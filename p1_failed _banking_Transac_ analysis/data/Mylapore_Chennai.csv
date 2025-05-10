@@ -1,0 +1,401 @@
+Transaction_ID,Customer_ID,Amount,Date,Status,Branch_ID,Branch_Name,City,Payment_Mode,Merchant_Name,Product_Category
+076ab7430d592edad99c39eadb6b3b3f,0f43b801bb8f34753e556151177b170a,829.7,2023-03-01,Failed,MYL827,Mylapore,Chennai,UPI,Merchant_61,Health
+5ea34c702ffc8613a0f3898b6e69d2f9,47d394e42adcd65ea491ce3fa8c87de9,453.26,2023-07-20,Failed,MYL104,Mylapore,Chennai,Debit,Merchant_3,Health
+354a84f6dc392bda648d2f0bf37295be,abd7e10179bca94b112ec252d2c486ae,96.77,2023-11-18,Failed,MYL572,Mylapore,Chennai,Net Banking,Merchant_64,Health
+d588925eb68eca4af30fbe96f876a5b0,c6399347b40fdb5d8f6a41d109ca5358,389.14,2023-09-06,Failed,MYL461,Mylapore,Chennai,UPI,Merchant_94,Health
+b701079a2704b10f5eb69d69d0179e38,b7613cbc4d81e09d1ff79c6eaa43efd5,961.44,2023-08-24,Failed,MYL796,Mylapore,Chennai,Debit,Merchant_1,Health
+11e3c0cc1ddc2e82c58ebf3542f95769,951e2717c8a41b36066ba3cbbf7d0f77,12.6,2023-08-17,Successful,MYL309,Mylapore,Chennai,Debit,Merchant_76,Groceries
+a652ebf74c5e50dad5eb56a46f713f5e,b1d072aa3303a0b3ff4fa517bc25379e,565.56,2023-01-18,Failed,MYL452,Mylapore,Chennai,Net Banking,Merchant_97,Electronics
+51a81edd2cfbd2a653a8a57ad5b1e60e,6e00b2c36d6a96938b552148c9aca174,126.32,2023-09-09,Failed,MYL776,Mylapore,Chennai,Debit,Merchant_45,Clothing
+ad190e3288b13ad49b6a5092c7e84d7c,ace2d170b5fb382499c352102b8112cc,829.76,2023-05-15,Successful,MYL821,Mylapore,Chennai,UPI,Merchant_12,Electronics
+d81d515fb077139aad2e532df6dbebb0,aac9be5a50ecffe9306ac56fc178cc47,767.25,2023-06-28,Successful,MYL471,Mylapore,Chennai,Net Banking,Merchant_57,Groceries
+fee90dbc30bd3f18bc5a4562583e651b,d15fc7704dd02e96e81c71ee23d0431a,197.89,2023-11-21,Failed,MYL570,Mylapore,Chennai,Debit,Merchant_44,Electronics
+1b07fea9828bb2ecb33ce00570edee60,f2a606be0a11909faf28a9032bfe5a9d,498.56,2023-08-16,Failed,MYL711,Mylapore,Chennai,Net Banking,Merchant_97,Clothing
+7dfe56ec91094673f22d874b31dde869,6f329ed6ded6b59e422826835ebfbf4d,720.77,2023-02-01,Failed,MYL337,Mylapore,Chennai,Net Banking,Merchant_43,Health
+f49a361f4b1bb988b71dd4b8e2d7c848,70eb6601069fd8d5b08696d1a76ab033,916.58,2023-08-06,Failed,MYL280,Mylapore,Chennai,UPI,Merchant_86,Groceries
+ce32ef3716d1a20b385b1249ea62ca2c,2beca3a940441d2d6ee5a3980d6079fd,807.02,2023-06-17,Failed,MYL610,Mylapore,Chennai,UPI,Merchant_77,Electronics
+fdfada5130f459f8065c2abee71b2b03,07e2e86ce27e6378312aebcc13d8ec5f,177.99,2023-11-30,Failed,MYL884,Mylapore,Chennai,UPI,Merchant_6,Clothing
+410bfba2546e6f58cef428daac5ff8fd,aa782e2d120d8265cce5de9ba7df51ef,374.07,2023-12-02,Successful,MYL456,Mylapore,Chennai,Debit,Merchant_22,Electronics
+11b0aae287ca88fd3763b68a0c8c8f5e,d40f0b7bc0f4a6c03552d1e213fcc8d9,597.32,2023-06-06,Successful,MYL657,Mylapore,Chennai,UPI,Merchant_99,Health
+e090ca58bec9648518a927eb1f3e14e5,28c587be15c239d555e181d986fae074,572.73,2023-03-03,Failed,MYL532,Mylapore,Chennai,UPI,Merchant_43,Health
+22c538c6d26a9438f206fa62717d0e8d,2433fc42891cf9b33c98c406b5fb0ea6,82.99,2023-06-06,Successful,MYL881,Mylapore,Chennai,UPI,Merchant_17,Groceries
+1c2c9c405e91f5eac1e33df61ccf442c,5cdc9184b356c6ce80981e2df96c3390,24.67,2023-06-06,Successful,MYL750,Mylapore,Chennai,UPI,Merchant_31,Electronics
+166608fa67cbc091e278c0c93c5ca39f,719056c16055a898c8bc1d6fb072370d,456.22,2023-04-23,Failed,MYL987,Mylapore,Chennai,Net Banking,Merchant_91,Health
+a00211a8996276e2401393c3506baced,306591cd7f71cd54828ada7aa3c16904,819.76,2023-08-07,Failed,MYL172,Mylapore,Chennai,Net Banking,Merchant_75,Electronics
+43bc5b48c813e0de0dcbd99eeadf0709,342eb7b9062108f5d12cbfafdb239f5c,915.03,2023-06-28,Successful,MYL237,Mylapore,Chennai,Debit,Merchant_16,Groceries
+5573201fbee5db983d70444a5b6eb4ec,c22714d895eecd55ee2141b0eb86aa4f,825.0,2023-12-09,Successful,MYL230,Mylapore,Chennai,Net Banking,Merchant_87,Groceries
+c2aaa840ff6e3f4c31aaa1fdaf9bf666,aa3a4aacb26a2f7cb107b8b0d0e86573,557.99,2023-09-17,Failed,MYL570,Mylapore,Chennai,Net Banking,Merchant_96,Health
+c65566e459fec63cbdf9e6d327c9ff03,8fdff74090bac61bac5646a65b0e083b,218.96,2023-04-23,Failed,MYL261,Mylapore,Chennai,UPI,Merchant_45,Health
+49ad5a27f91b5e3e143ca93ea5839a84,8d628b015acbe2d41de74814fc763337,441.52,2023-01-12,Failed,MYL500,Mylapore,Chennai,Credit,Merchant_47,Health
+7dddaaff14ea5e3eeff849149a9bef8d,cb7719793deaabdbbcb70c2510a71199,320.31,2023-04-21,Successful,MYL698,Mylapore,Chennai,Net Banking,Merchant_91,Clothing
+7d4c7d460ea2b8ca40288b4eee00afe3,7bebe906796ed36f12316b946acb1098,906.12,2023-06-24,Failed,MYL228,Mylapore,Chennai,Debit,Merchant_91,Health
+143e9b73b7cd12c0164eecef98163e5c,fcdef39a69db359488756d5c69688631,243.41,2023-10-29,Successful,MYL184,Mylapore,Chennai,UPI,Merchant_69,Health
+291ae50140c5cf68a6ff9705cc594398,ea01f4f957f86273684493e76af8da5f,662.28,2023-03-01,Failed,MYL344,Mylapore,Chennai,Net Banking,Merchant_17,Health
+ed3ba3cbab2d98181480b1a140aef2b5,c593362822e671b5175367a898d2b00c,190.0,2023-08-20,Failed,MYL891,Mylapore,Chennai,Net Banking,Merchant_39,Electronics
+4888d80b7ab542cfabf061dac309398c,3d0dca0ac13c5b7f6f4489727fbe78f0,149.71,2023-11-11,Failed,MYL917,Mylapore,Chennai,Net Banking,Merchant_1,Health
+9a79cb0d366a4f37173b8d2665d9e65a,41cd2ec2a8621bf03730fbfd336e68db,611.6,2023-06-21,Failed,MYL207,Mylapore,Chennai,Credit,Merchant_66,Clothing
+2a2c5dcb6d27ff1d5f98bc8cdce23bb7,e9a9a97a1dade27b2e794f33aaab918f,381.49,2023-04-18,Failed,MYL936,Mylapore,Chennai,Net Banking,Merchant_2,Electronics
+fd600994452a67b81d383ff5593b0873,7535797fa580eeed1fb884d1792327f6,577.24,2023-08-14,Failed,MYL346,Mylapore,Chennai,Credit,Merchant_82,Groceries
+8286351d011d1499d25da621b0f5d701,8e4806f638d90959acfbd9c5bc0bfd7d,494.04,2023-05-19,Successful,MYL999,Mylapore,Chennai,Debit,Merchant_63,Health
+4f45664c8ff61f315f02d8397798e09b,9c98237c3e73656d2530e11ff80d1af1,982.36,2023-02-16,Failed,MYL684,Mylapore,Chennai,Credit,Merchant_80,Clothing
+1e3747333e5aab5f5d77967000737ba1,4bce3d463c2b44d344eed072b59e340f,769.89,2023-10-26,Successful,MYL463,Mylapore,Chennai,Credit,Merchant_45,Clothing
+c283a622eea042b739d55fbf234ccfab,3699c0026dbe994d3990b3a368872c3a,914.61,2023-05-19,Successful,MYL310,Mylapore,Chennai,UPI,Merchant_32,Groceries
+68acb609317074f37f0a57e1d1abe1f8,a080eba3ff87999905064fe22c26ec4b,404.9,2023-10-15,Failed,MYL848,Mylapore,Chennai,UPI,Merchant_9,Clothing
+548ecdb16e79fdc4d1329a718eb9c4c5,218a59671edd9551f1f02220a73d3739,333.21,2023-05-28,Failed,MYL341,Mylapore,Chennai,Debit,Merchant_98,Groceries
+61be208d374659f3f53d473b6b718346,d562d2f66ca31143b954761d1d80a7fe,265.8,2023-06-20,Failed,MYL969,Mylapore,Chennai,Net Banking,Merchant_81,Groceries
+3532dc5832737b26f922736007fe00d6,07843ddeddb4e634787011135b339f0d,448.12,2023-02-25,Successful,MYL435,Mylapore,Chennai,Credit,Merchant_47,Clothing
+7319d102cbc1e6d9e627b81cc31773ca,d748fe900db632c8b2bfc9402173cdde,913.53,2023-02-14,Failed,MYL769,Mylapore,Chennai,Net Banking,Merchant_24,Health
+56d47e748b4938419a099d5fb445ca8d,4d193bec3ca8e25654a07f96006cdc9d,912.25,2023-08-30,Successful,MYL559,Mylapore,Chennai,Debit,Merchant_38,Electronics
+c6eddd04ad019f0e47bfbf7f19da95c6,2a707e84368b7e02493a8295ddac0450,84.68,2023-06-26,Failed,MYL690,Mylapore,Chennai,Credit,Merchant_96,Clothing
+73d5e490d8067bd39ec624fbe328c368,377146624dbbec941a0368902191af6c,313.6,2023-11-25,Successful,MYL161,Mylapore,Chennai,UPI,Merchant_43,Health
+050af89b0ba9aef61ad43b1fb3030bfa,8ea7b24ae142d4b0613c6d6c4c9021ee,162.94,2023-05-04,Successful,MYL613,Mylapore,Chennai,Credit,Merchant_39,Clothing
+fbc6124c0e496090f625b1ec892a550f,25792ae55f15962d922f477e0015516d,396.57,2023-12-08,Successful,MYL417,Mylapore,Chennai,Debit,Merchant_17,Clothing
+a393a9e601b9090ebe7ede7e47bda1a7,cb7414e203e386b57874ac4561309e15,531.53,2023-04-09,Successful,MYL736,Mylapore,Chennai,UPI,Merchant_37,Health
+1d24fe22c264d0365ceb11ab4d925dea,0bfdbe612d6a39c1b3acb0da4ee36d10,213.26,2023-08-04,Successful,MYL870,Mylapore,Chennai,Credit,Merchant_85,Clothing
+eecfd51881ad4b6d30a824f0a5f49bbc,5533178a785f747d19b888dd508f6fc1,400.73,2023-02-20,Successful,MYL400,Mylapore,Chennai,UPI,Merchant_24,Electronics
+28c13e315810eb6d1ec48ffaf6e6b58b,e7c73e2dcf16ae96995d00036402e3da,52.62,2023-12-06,Successful,MYL909,Mylapore,Chennai,Credit,Merchant_95,Health
+cdf450e1dec8c6d55a1404ebc8c49b85,334d6c3dfa78e42f561b9a7248d384aa,421.92,2023-03-02,Successful,MYL627,Mylapore,Chennai,Credit,Merchant_80,Health
+66fa6bf3932902bedeae47e64dc72364,9738c57cfedaf123bba7ce1fd41d40db,103.77,2023-10-27,Failed,MYL873,Mylapore,Chennai,UPI,Merchant_65,Clothing
+cbbe3f89efc16b65c1cbcbbdca9ad4d0,92b80b2971ddfe6b8229770fe24afcb3,527.62,2023-02-11,Successful,MYL392,Mylapore,Chennai,Debit,Merchant_18,Health
+3b61ef826c88183e788a8e49831d068e,51b5f96f1f95cf7bbd179a4721e5d118,491.77,2023-08-03,Failed,MYL649,Mylapore,Chennai,Credit,Merchant_20,Groceries
+9ff1de20061f64eee67fbcb8a552a347,11cf54f0caccbef26d93c81cee125e57,34.54,2023-06-11,Failed,MYL951,Mylapore,Chennai,Net Banking,Merchant_20,Clothing
+e7d25ef25e0a27883d0c85d0373ff724,69cdde29939ba07fb3f837c27897200b,479.92,2023-06-21,Successful,MYL118,Mylapore,Chennai,UPI,Merchant_15,Electronics
+29e44a075e5ede1da58a4f0cfc13ad00,28302c76453be10229ecbd4ce8dde824,724.51,2023-12-28,Successful,MYL414,Mylapore,Chennai,UPI,Merchant_13,Health
+ff5840d2c06eb4252a64d85b326e1d78,88a30810476702c12c634326a0da1356,84.86,2023-06-26,Successful,MYL566,Mylapore,Chennai,UPI,Merchant_82,Clothing
+cf76a569499960033262b8e23600d94c,ff262a9aefdfa819baadc44850a45259,798.38,2023-11-03,Failed,MYL153,Mylapore,Chennai,Net Banking,Merchant_20,Electronics
+d0d88ed5eb7b3156228b9935188dd851,030c4ec75dac872863d59b6572f35d40,551.36,2023-11-04,Failed,MYL466,Mylapore,Chennai,Credit,Merchant_65,Electronics
+7a4cec100456f678146750042502e4c4,d1c18d85fe3e5d3f45a355b1415e391a,428.64,2023-05-10,Successful,MYL321,Mylapore,Chennai,Credit,Merchant_50,Clothing
+8676357a209809492f4a481c5d3640f2,51af528ca67737455aae4349a93a7000,444.46,2023-05-31,Failed,MYL548,Mylapore,Chennai,Credit,Merchant_67,Health
+587c56074662bf987ecaea09c319b8d4,e1640ab78b25f46819baaa2368c6f53c,528.43,2023-08-14,Failed,MYL899,Mylapore,Chennai,UPI,Merchant_90,Health
+2188d490b7cc2f305852348d277ee638,2debf99e180f1a74d64bc654594c7097,904.49,2023-11-20,Failed,MYL576,Mylapore,Chennai,Credit,Merchant_60,Health
+41721c6441482375bdda49e31439daa4,c2500580eba2f049cd7f454df3608fd4,470.31,2023-04-11,Successful,MYL727,Mylapore,Chennai,UPI,Merchant_37,Health
+a19c557d4c39f4d444992d5a5558a46e,01b1415c742964bdb2ba7415a368efbf,706.8,2023-09-12,Failed,MYL154,Mylapore,Chennai,Net Banking,Merchant_74,Clothing
+2a22572c32b043165a707ef3ed1ab16e,8c025594595b86832c143f92d4eaed5b,775.89,2023-12-21,Successful,MYL608,Mylapore,Chennai,Credit,Merchant_44,Groceries
+9bf2a703d396a44316811b723aa11f09,7c26b7d817a2b25c0de703552b7902a5,689.4,2023-06-26,Failed,MYL993,Mylapore,Chennai,Debit,Merchant_78,Electronics
+bed7203dd1d3ddb78215cbbef29b870f,b5335e1ba52df339324987362d90a2b7,531.93,2023-04-17,Failed,MYL844,Mylapore,Chennai,Debit,Merchant_99,Clothing
+a2798482bf580fa5ab43f842ed15401c,8c23e013ef3c160d64e2a6b9f6ee4ea8,893.57,2023-08-02,Failed,MYL171,Mylapore,Chennai,Credit,Merchant_74,Clothing
+659b86b7918070a582d64ee277e3a7ac,3de4fc659ed0e96320ac8bfdbaf4011b,602.82,2023-06-17,Successful,MYL180,Mylapore,Chennai,Debit,Merchant_38,Electronics
+688f58f15c08b6a6cea672dd78deb436,54a4b6161494d078ecb8e59eda69f196,136.13,2023-11-04,Failed,MYL921,Mylapore,Chennai,UPI,Merchant_56,Clothing
+2e9951dd60a2713cc1834d4dec9f8e6d,845c402787f0ef405063833be85498b8,212.42,2023-05-18,Successful,MYL844,Mylapore,Chennai,Credit,Merchant_96,Groceries
+86e57ba52e52416830de6c0eeffd9d82,3d93a76691f0d85a85ef8cb240a2ef54,508.2,2023-10-06,Failed,MYL356,Mylapore,Chennai,Debit,Merchant_22,Health
+c03d2d67563449c3feab5902cb2ad225,602c65cf623537736850387c4a0848f3,689.31,2023-03-06,Successful,MYL358,Mylapore,Chennai,UPI,Merchant_57,Clothing
+95ca8480075e17eb263fac2e93cee5b2,8069a2983e609c0f7f6e15a3ce9f0ead,832.68,2023-08-02,Successful,MYL529,Mylapore,Chennai,Debit,Merchant_38,Health
+308c3ae3ac6bea95e1ff3c4fdd73763e,8e22155d4691c7e4b93a8f6091a04fe7,856.18,2023-02-13,Failed,MYL320,Mylapore,Chennai,Net Banking,Merchant_96,Groceries
+c6d3b3f03e2809cf84e96474f365fae9,b5feb9ef01032dcdb2f8d89c9c13e511,963.18,2023-11-21,Successful,MYL796,Mylapore,Chennai,UPI,Merchant_69,Clothing
+296a620853ae053d51e088098723d704,7bf648773ec42d456bf9dde662a4db91,920.41,2023-12-02,Successful,MYL378,Mylapore,Chennai,UPI,Merchant_56,Groceries
+b73ac3c440545f172ec1f84926d7cde5,51d2164f9676920a54002ae34add86f8,430.12,2023-01-16,Failed,MYL738,Mylapore,Chennai,UPI,Merchant_1,Groceries
+0cd8b0654c3f8ba1dd6964fc9a47635f,21146bc2292b4730b0635d804ebd7afd,761.84,2023-06-16,Failed,MYL452,Mylapore,Chennai,Debit,Merchant_19,Electronics
+1e37d11045c6b32b2626bbdd6b307997,34739413df4b1a1233cd5d6cce57949f,609.13,2023-12-26,Failed,MYL473,Mylapore,Chennai,Debit,Merchant_54,Electronics
+761455af67b8611538849babb5e352f2,257cffd08f9c1c614c67e199d452e8ad,182.83,2023-06-15,Successful,MYL762,Mylapore,Chennai,Net Banking,Merchant_25,Electronics
+ef14c1e69668304568e689fb594eeb73,f14299d9ac03168975c34650dd3f0ef4,915.76,2023-11-27,Successful,MYL243,Mylapore,Chennai,UPI,Merchant_86,Electronics
+d3b229e96a44d8deb62fe51a5f28d77f,15af694b296baeff0f91b5149a26da6a,457.06,2023-12-08,Failed,MYL423,Mylapore,Chennai,Net Banking,Merchant_13,Groceries
+4569df357ef4784b7cedb74b7b92a96e,4e19c3434e2b9eea8fa0c15745464361,317.94,2023-07-22,Successful,MYL916,Mylapore,Chennai,Credit,Merchant_28,Electronics
+d1d0355db8c03a4d472fb1c9e44b25a2,29e3e82bb5c12f96bf4baf78a5947d2e,990.61,2023-02-26,Failed,MYL628,Mylapore,Chennai,Debit,Merchant_19,Health
+39682ad72fce0effc6e6b9ec31ca1c9e,157f9836053a16df5bf57c7920e47614,935.26,2023-03-29,Failed,MYL473,Mylapore,Chennai,Credit,Merchant_78,Clothing
+8fdd565fb0a1745275a32c61dac44226,f6d64a0ef50f4d80928531e8adf52750,80.54,2023-06-06,Failed,MYL224,Mylapore,Chennai,Credit,Merchant_65,Electronics
+9f88ce256eff3890ff908553aa5b600e,d9f977a34b24bf30dbcd9713ceae7cef,47.61,2023-10-23,Failed,MYL689,Mylapore,Chennai,Debit,Merchant_99,Groceries
+ffbf2bd244af69f620f0544d1fce4217,4fde8d20e0d17ffd4bd2ff88d246c205,975.73,2023-11-10,Successful,MYL807,Mylapore,Chennai,UPI,Merchant_50,Clothing
+dd2fd3a3265c5643d8232e23f8448779,bfc34f9dc1123c186bc7d16618a5f85d,606.63,2023-02-13,Successful,MYL427,Mylapore,Chennai,Net Banking,Merchant_51,Groceries
+5fb89e88d1279f764e5b390e3d323bcf,5298aaf90cb8adba02310f1f72f4892c,288.4,2023-03-15,Successful,MYL839,Mylapore,Chennai,UPI,Merchant_53,Groceries
+f34d672011553568e413fa6a8e1d22a9,2ae161a3f006a19abcbe98ea9a12b89d,130.41,2023-02-24,Successful,MYL759,Mylapore,Chennai,Credit,Merchant_96,Health
+3f64af84b76935828b1ae9f457d472c9,5e0b53d21b4a5f97ee1ee6f3e3f01eca,276.53,2023-06-18,Failed,MYL601,Mylapore,Chennai,Credit,Merchant_40,Clothing
+0773dcf69b253e6167c32df2c8e04d9a,4156767b5f42cb4de8270b9da9ceee7a,192.57,2023-07-27,Successful,MYL523,Mylapore,Chennai,Net Banking,Merchant_86,Electronics
+131a407c751d8355eab3e45d679c8f41,d45ff2da43c05b6512cbeedb3f26f053,842.81,2023-11-18,Failed,MYL928,Mylapore,Chennai,Net Banking,Merchant_81,Health
+ef4d8bb4cef872bb5f4f618621d0fa3e,8c13d0f7ec4f0a3cb9debc491f2b73ab,140.32,2023-06-27,Failed,MYL397,Mylapore,Chennai,UPI,Merchant_24,Health
+a191bd16446cde427bafd3b68a210dc7,77b3aa4b754b9a84c5cbd10ae60a3dc9,135.43,2023-07-25,Successful,MYL162,Mylapore,Chennai,Credit,Merchant_66,Groceries
+c2a6f394209c719f4bff829a44ad3ba9,0c2d4911f91f11332c469d1535de9897,383.98,2023-04-29,Successful,MYL686,Mylapore,Chennai,Credit,Merchant_98,Clothing
+5378586b26094f2b76b2a062e8d9f5d9,4ace7fd308f47d64f103ec2c59fffa47,617.69,2023-07-29,Failed,MYL436,Mylapore,Chennai,Debit,Merchant_24,Groceries
+227d2308a49408796b6c0d31d80f48d5,7e0a11bb8ccfe22b7bb6dd94e4d9802e,596.19,2023-11-17,Failed,MYL355,Mylapore,Chennai,Debit,Merchant_38,Health
+53b70c1b574ac29f392e3de435a9b507,35f5710b26dfb3921637682b0002fe94,169.06,2023-01-01,Failed,MYL444,Mylapore,Chennai,Debit,Merchant_60,Clothing
+3375f6519bd829462e82063df0d6d53c,85aba1edd87a8209f48e8c9d2757a9ce,977.5,2023-07-25,Failed,MYL363,Mylapore,Chennai,UPI,Merchant_57,Clothing
+e8067ad1d2d1d7ab856520d76d53d604,40124a46ce156b70cca3df47820b9fad,918.76,2023-11-03,Failed,MYL880,Mylapore,Chennai,Credit,Merchant_24,Groceries
+1030f156483d1c42c94f7fdced522e62,87b28ce463000cf59efef17bb3a6116a,994.9,2023-05-10,Successful,MYL949,Mylapore,Chennai,Net Banking,Merchant_40,Groceries
+faae38939da0b9b491840db34f0b7061,64bd798bd434cc2deacdcf0bafd42df9,312.49,2023-07-17,Failed,MYL927,Mylapore,Chennai,UPI,Merchant_9,Health
+2d2af99b9729e2c2e9d836f7c67fee86,6ca131f365d97cf293b1f29a8bc24a50,882.1,2023-09-26,Failed,MYL211,Mylapore,Chennai,Debit,Merchant_26,Health
+2f7a1e93d257bcbd4224c87daeb2947c,afde37ff45e37e84fb78553d9bbba571,285.37,2023-03-16,Failed,MYL373,Mylapore,Chennai,Debit,Merchant_82,Clothing
+11a4bf20898652b0935e4021ce4c0811,4ccab2d417bf352ee2eb78fd825c4917,277.68,2023-10-09,Successful,MYL956,Mylapore,Chennai,Debit,Merchant_54,Health
+116cbad4a9dbeb3cd858fb551a39ecdb,d5e8c03b63d095ee717ced4698474bce,344.72,2023-09-24,Failed,MYL755,Mylapore,Chennai,Net Banking,Merchant_52,Clothing
+c99d46e1fbfd50d5d0e75f3ece066576,79ab8dbc638bfeeca703182689ee4179,909.21,2023-04-26,Failed,MYL272,Mylapore,Chennai,Credit,Merchant_86,Electronics
+b5adb6ebc72cad6acd735d1fbadaa4a1,ccdad3ce7dd5c7b307ee5e3b94d59a8a,967.17,2023-10-10,Failed,MYL166,Mylapore,Chennai,Net Banking,Merchant_9,Groceries
+53ed8e9e96e7d8ec1dd3277c8a019d4a,5ca6d52be079a9d5f780351554be4efc,733.72,2023-08-18,Failed,MYL148,Mylapore,Chennai,UPI,Merchant_38,Health
+5eb97a94a24a747daed95bb3ad9b9199,7cd8d5f90d626b91f56ba9e9f4ed1c83,58.51,2023-07-25,Successful,MYL662,Mylapore,Chennai,Debit,Merchant_44,Health
+f367f538009d44ff866e4cd1d175f91f,1b0e669c145b0884bafff6b93404785a,886.31,2023-10-09,Successful,MYL661,Mylapore,Chennai,Credit,Merchant_11,Clothing
+1f29cf5496c1be73077204a0d7629d88,75f59411f3e836f963dc0afc57cf5626,430.56,2023-03-23,Successful,MYL523,Mylapore,Chennai,UPI,Merchant_2,Clothing
+091195b9bea7ff72547566ef4baa43f8,957c91ad9fe29941847354b7940ff7f1,820.25,2023-07-26,Failed,MYL106,Mylapore,Chennai,UPI,Merchant_75,Clothing
+fc4f0b614ed336eef479f3b0b2793590,9517d367118db2ff676cabaf8dada0ef,244.97,2023-10-13,Successful,MYL947,Mylapore,Chennai,Net Banking,Merchant_100,Clothing
+349abcc739ab0f212e731a386ed1d7ae,52fefa62190a42e1cf362a53e5d52942,259.98,2023-12-24,Successful,MYL747,Mylapore,Chennai,Debit,Merchant_88,Electronics
+741599ed332cdf7508b80afd67bc750c,239d09e6fd972d6edb6aebbe666cbf9e,599.83,2023-10-02,Successful,MYL665,Mylapore,Chennai,Credit,Merchant_49,Groceries
+8a2b4062b629a16f4ce3e4355e4f9220,40ce96f21faebc9bb60bec8bced0ddaf,193.48,2023-12-13,Failed,MYL287,Mylapore,Chennai,Debit,Merchant_35,Electronics
+a0a4a0e5cdde324e245e090b7f2263c6,94834c68817cc103456f007a4075ee07,851.17,2023-04-25,Successful,MYL162,Mylapore,Chennai,UPI,Merchant_61,Groceries
+cb82cb2d2c83bd7edfff4cf9e8cf347f,8192241edd942cda8124205007b76564,440.93,2023-07-02,Successful,MYL524,Mylapore,Chennai,UPI,Merchant_5,Clothing
+15c9518c1e436d9df7a1897f20a8de25,966ca6066dd818442d677838a40785ca,341.7,2023-12-31,Failed,MYL850,Mylapore,Chennai,Credit,Merchant_42,Electronics
+fbfbae492ee4decd31939232e9345df0,1c4de082af5b46a28b9d157367e3420b,261.7,2023-07-23,Failed,MYL237,Mylapore,Chennai,Debit,Merchant_52,Health
+15eb8a96271a025bd586f437c34c677c,2c631ffb09b80f82e9356b60b8472cfb,664.89,2023-10-19,Successful,MYL126,Mylapore,Chennai,Debit,Merchant_60,Health
+28f482005212820db09925f81175b828,b1c5ad5a08d5dbc38e15ff4daffe699c,487.32,2023-06-10,Failed,MYL848,Mylapore,Chennai,Debit,Merchant_91,Health
+ccb15d19b89dbfacf9060fe86cf93977,c6dc057d71d28d94ec82aae3dc3360e9,520.34,2023-09-26,Failed,MYL234,Mylapore,Chennai,UPI,Merchant_29,Electronics
+5e822a9fa7c6803163f09d55418e99e1,74d3100ee6a0a926f7dbf876d261a16d,392.26,2023-02-18,Failed,MYL824,Mylapore,Chennai,Net Banking,Merchant_6,Electronics
+aa76ad4adc4e5437c8d2de55bfaa2228,fc14abb4466a71f5d8fbfb1ab539e3e8,76.9,2023-05-14,Failed,MYL196,Mylapore,Chennai,Net Banking,Merchant_18,Health
+9e0723b2c1e8963fe742b12fc9249dae,e758c4bc421611b851057785dec17e70,180.38,2023-03-13,Successful,MYL779,Mylapore,Chennai,Debit,Merchant_28,Electronics
+1bd833517853d30d90f38898e150e63b,7ede061d1f1b4f6f4baf8d419f6806dc,181.35,2023-12-01,Failed,MYL552,Mylapore,Chennai,Debit,Merchant_9,Electronics
+7eff6cf634d3c41a62c32ed842b158c5,d8ab56a6f360342f99a681f551fe7222,352.48,2023-08-19,Failed,MYL503,Mylapore,Chennai,Net Banking,Merchant_75,Health
+7b95f636818eddb802c87c2d997b9c62,8f96dfd30def1d0a1c6005d3e55a21d9,802.67,2023-03-20,Failed,MYL429,Mylapore,Chennai,Net Banking,Merchant_17,Groceries
+566b862bef659e706377039c1493b393,de8807c526c42d837a79bb66386c4dd2,299.98,2023-05-22,Successful,MYL207,Mylapore,Chennai,Net Banking,Merchant_32,Clothing
+d2794973061b55c97d27076d60078bd5,b28c0bfdf1c174ecd74716e6c07456c9,184.42,2023-09-05,Failed,MYL759,Mylapore,Chennai,Net Banking,Merchant_90,Health
+f1bce017620998bde92d1c3065c94633,96d15bc519172abb0b8e51c7a5420ce7,278.31,2023-06-11,Failed,MYL239,Mylapore,Chennai,Net Banking,Merchant_31,Health
+1119a50f083f790abd9af1954592f9ca,aac32e69ab5deb8bafac82e5b4c59d5a,620.86,2023-04-22,Successful,MYL183,Mylapore,Chennai,Credit,Merchant_18,Clothing
+c20ca064964e782bf7918d4b50a4cbe2,a2c4f9c67b44359770645152bdde6476,462.24,2023-04-19,Failed,MYL882,Mylapore,Chennai,Credit,Merchant_58,Health
+c2a53bcdcb2b40304b9112277cbf68af,cea1cadd08ba6aa2b0cc5e7772ed04bb,757.75,2023-11-29,Successful,MYL381,Mylapore,Chennai,Net Banking,Merchant_44,Electronics
+e2465804bae99677dd614848562b3864,6a6426215b87989ad550024d367e0db5,976.16,2023-11-17,Successful,MYL793,Mylapore,Chennai,UPI,Merchant_46,Health
+b691447d0d9555990314be04190cb078,595d18bb1a29f06513cc3b4727a9cfb6,884.41,2023-12-03,Failed,MYL170,Mylapore,Chennai,UPI,Merchant_100,Health
+303dd216c8c0603869dc9c5aa5d4d665,f0cc80978c61394fe2ab2afccbfbe54f,116.8,2023-02-24,Successful,MYL492,Mylapore,Chennai,Debit,Merchant_33,Health
+e66da2d277dcb7c813c0618eeb6110ea,8ee08f822f8f80e15e31db91c907a6bd,512.31,2023-03-19,Successful,MYL557,Mylapore,Chennai,UPI,Merchant_93,Electronics
+5a21fac92636e23c7d920b5232b22011,dd700be538c711c71ff94c4819490f4d,917.22,2023-08-20,Failed,MYL809,Mylapore,Chennai,Net Banking,Merchant_94,Groceries
+668534a05ddc3db404469ce0ca9d7632,1005ba35bf558ab76f66b127566e3253,284.38,2023-04-26,Failed,MYL454,Mylapore,Chennai,UPI,Merchant_88,Clothing
+b851cc2e309196e96f077e38bfcd3c3a,785295e101d412dafabec90650ab5f6e,304.44,2023-06-28,Failed,MYL131,Mylapore,Chennai,UPI,Merchant_57,Clothing
+4a41dc08372eed122c1948b3be0f962b,0cfc1d558e4ccee2b2ac1e09dc72885f,775.49,2023-06-18,Successful,MYL388,Mylapore,Chennai,Credit,Merchant_25,Groceries
+d7fc2384d477abec9445bfdc48830b25,7791cfd1efaca756169cf202a94c0947,88.86,2023-10-01,Successful,MYL505,Mylapore,Chennai,Net Banking,Merchant_34,Health
+728c37e543039102c51ab880a3446134,f1ce6b8e51bf31c3f340d8c7e2f93f8e,635.8,2023-12-22,Successful,MYL724,Mylapore,Chennai,UPI,Merchant_74,Health
+6a8dfce820a6837dc15fc8b812532ff3,d421bbd9add794c6594c1fccc64332df,595.01,2023-12-04,Successful,MYL439,Mylapore,Chennai,Net Banking,Merchant_59,Groceries
+60592b16fec38f611a6e724601bbe61b,d27544a7894bab9cbad997dd872cfadd,104.59,2023-09-18,Successful,MYL814,Mylapore,Chennai,Debit,Merchant_11,Groceries
+93b1944ecebdad3e7353bec6f0528473,54330b9f63e1ba1e5f28c3e922903655,998.5,2023-10-29,Failed,MYL406,Mylapore,Chennai,Debit,Merchant_85,Health
+bce3b5ed271e2e0e40e2a21b5f09627f,14ce16d7544dec1874a248386c748c9a,801.35,2023-10-25,Failed,MYL889,Mylapore,Chennai,Net Banking,Merchant_72,Health
+51a2b133a763df546d51201f8fd02cdb,597fbc1b56a45e38c652d9362c2352c5,288.85,2023-01-22,Successful,MYL706,Mylapore,Chennai,Net Banking,Merchant_38,Groceries
+59bc05f282d28e6e124dcdfbb0157cd1,d2a4a5ddbde095c58d314bac7950fa29,972.14,2023-01-25,Failed,MYL979,Mylapore,Chennai,Net Banking,Merchant_71,Health
+953e23310a301c22c96a95004794ba96,516faad82116462e6685c6e3cf82bb71,192.77,2023-11-09,Successful,MYL452,Mylapore,Chennai,Net Banking,Merchant_80,Groceries
+e0212cf747691ba69d0483c8f5c32a32,0e308136785b1028fa73feeeda241125,114.31,2023-10-22,Successful,MYL391,Mylapore,Chennai,Credit,Merchant_43,Electronics
+e1fd94cc46de0ee9f1f1f698a01725d5,e87cdbcdf01b48c06d6478f24db983da,114.0,2023-02-12,Successful,MYL316,Mylapore,Chennai,Credit,Merchant_30,Groceries
+33914dae9c1429a3e6ec6280e78c0d38,c3e0bf1d15b4fd349ba33d704953940d,91.61,2023-01-16,Failed,MYL738,Mylapore,Chennai,Debit,Merchant_75,Health
+82b22b7e830be0ff124055f04c23d019,9e7771a1dd786099e50d26c1f669ff70,787.45,2023-08-04,Successful,MYL937,Mylapore,Chennai,Debit,Merchant_4,Clothing
+64be1a1f8cc9dc867e7416d1a149d860,d6fe81a53121eeab30d0c08963f557dc,769.62,2023-11-14,Failed,MYL515,Mylapore,Chennai,UPI,Merchant_89,Electronics
+6a50d0b50162951c0ee7b1e89eb2faf2,1793abfdbac35d2b433daa95a0cdad34,412.97,2023-07-22,Failed,MYL907,Mylapore,Chennai,UPI,Merchant_77,Health
+72316d22daa127af131822fe97bb76a8,a1834893c1a87577d67d2eea248ac233,83.92,2023-10-02,Failed,MYL107,Mylapore,Chennai,Debit,Merchant_29,Electronics
+6f30f55ea5d05efeeb35e11caf747e1a,20cb1983e3db0ec323dfa5ab3e18b41e,254.31,2023-04-09,Successful,MYL282,Mylapore,Chennai,Credit,Merchant_38,Electronics
+a625b70e87cc0ec3345d6bb5f78fb75d,eb6e0792748ede2b3190115cd542d4c9,581.19,2023-02-22,Failed,MYL227,Mylapore,Chennai,Debit,Merchant_66,Electronics
+b070e75b50de570959f150a354bcb6b9,71cf8733d66e391dc928796fa141cd18,853.82,2023-02-12,Failed,MYL257,Mylapore,Chennai,UPI,Merchant_69,Health
+15d05962dc8620ad2a616526e2b2b850,b6ca5e3458193b527105d8e50d39f37e,495.96,2023-09-09,Failed,MYL794,Mylapore,Chennai,Credit,Merchant_35,Health
+dcb437ee463d41fea1f53cce15261549,f35ede97eae968642f3aa036a333d535,524.75,2023-11-10,Successful,MYL747,Mylapore,Chennai,Credit,Merchant_98,Groceries
+df06e2c024054a45eaec6f13f784211d,904133eda0dfc8b57970c207fd99b25d,261.63,2023-02-19,Successful,MYL711,Mylapore,Chennai,Credit,Merchant_92,Groceries
+ec9682c0b45b32bc9243df695d03276e,14d5ba985c3aa5dc500d9188ec6d38ea,720.25,2023-09-19,Failed,MYL108,Mylapore,Chennai,UPI,Merchant_35,Clothing
+6fd55eb4949a05b5c31ca1b648cacc40,959acb43b3b5490ed1ad6c3ab358be8a,991.29,2023-03-27,Failed,MYL263,Mylapore,Chennai,UPI,Merchant_97,Groceries
+4a2b8c5ebe9a4c7f8d7ae7c02d3493cb,53914225326c6a098e25d723e0dcc47a,539.1,2023-01-01,Failed,MYL448,Mylapore,Chennai,Net Banking,Merchant_79,Groceries
+c18b277c9d46da787dbaad990c92c337,4bc455b3bd67d48103834c6627275265,742.5,2023-04-24,Successful,MYL662,Mylapore,Chennai,Credit,Merchant_17,Groceries
+0e9eee792e3d26c8e4ac42ce31d23a8d,2c0475a240d58c9fff2316a701e3970a,10.04,2023-09-13,Failed,MYL468,Mylapore,Chennai,Net Banking,Merchant_91,Electronics
+2a10a4436d30c1c32ae83fb16d22dcd5,c30f517cd59c8d2cc8a3b31cdc171668,22.01,2023-12-21,Failed,MYL516,Mylapore,Chennai,Net Banking,Merchant_58,Clothing
+6990d1ebed4cd59af17a4dad9ed048d4,89185d18b8427e62144e24b105f158cd,128.02,2023-06-22,Successful,MYL959,Mylapore,Chennai,Credit,Merchant_70,Electronics
+0f9920328b6b05aa16463708218e2e17,cd25a0c2724f6f4d291b9ecf0f488166,398.37,2023-10-14,Failed,MYL572,Mylapore,Chennai,UPI,Merchant_3,Clothing
+5471827f0ce854e27c1ec9e0a8bc9632,93f17025762ad3281d3ed6e9768dc032,90.53,2023-03-09,Successful,MYL568,Mylapore,Chennai,Credit,Merchant_33,Electronics
+fed4a621fa6f5df691443bba75d3b0a1,bff663c472579b0e0f13f237b63eef58,117.9,2023-09-24,Successful,MYL864,Mylapore,Chennai,Debit,Merchant_96,Electronics
+c3f1ea3c55d716d8713d7d4f916a5476,52048706d7c1bc96fa8f4069f1897f6d,83.66,2023-10-24,Successful,MYL366,Mylapore,Chennai,UPI,Merchant_66,Electronics
+da2f3484e03a9359dec3dd81437f0229,86395ecaffc530e32dad60a978d244fe,996.96,2023-01-04,Failed,MYL417,Mylapore,Chennai,Net Banking,Merchant_26,Health
+0fb830dcbf14dbcf19525524d9baffd2,177247ad0fb06d5e39add1e10fc870d8,177.04,2023-07-14,Failed,MYL702,Mylapore,Chennai,Credit,Merchant_41,Groceries
+e9498d9b488c26b807eb091663d81ed9,1d2e12ce53d7119f6e1fa65a7932b8f4,710.05,2023-08-05,Successful,MYL254,Mylapore,Chennai,UPI,Merchant_26,Electronics
+a9d0c177aeb6109d8e01407b80f010df,5821d61be2b8a1c6a15f3b06e51eddcb,813.05,2023-04-08,Failed,MYL439,Mylapore,Chennai,Debit,Merchant_77,Health
+a9c3173f064b45fe99c10d9ec3983ce6,1c56fdb9e77d5a9e0641bd9dbbd21ff6,163.13,2023-04-12,Successful,MYL512,Mylapore,Chennai,Credit,Merchant_89,Clothing
+797e99d157a638de60fbb2d65c3fc673,402a5a80a02ade5cacd930ca0faca08d,833.46,2023-12-11,Failed,MYL742,Mylapore,Chennai,UPI,Merchant_61,Health
+61d72e0b4ed7e71dd410e696d1f0bfa8,c30f84d4020582baf3551020675b8e08,857.87,2023-08-18,Successful,MYL505,Mylapore,Chennai,UPI,Merchant_85,Electronics
+4561c4921bc5fce86e7633495e3f54ee,3b4f3ebcf8a4371688f9d13a57f8c43e,83.35,2023-08-28,Successful,MYL645,Mylapore,Chennai,UPI,Merchant_45,Groceries
+595409798aba76e69cd9d48d16e8e397,de49036e94e0d8dc71b00ec0cbe72280,721.26,2023-10-09,Failed,MYL537,Mylapore,Chennai,UPI,Merchant_50,Clothing
+7bf31c1e2a6da6a117e402509dafbf48,99fccd282d21338b6b7cb685ebdea261,725.87,2023-12-27,Failed,MYL159,Mylapore,Chennai,Debit,Merchant_90,Groceries
+58630b4b34face950f84feb339b3b86b,0f2c7c78f7faedde5d4c7c9e60af984a,938.76,2023-09-22,Failed,MYL447,Mylapore,Chennai,Net Banking,Merchant_58,Groceries
+2c614356e2f954f11af8f76f20a64439,9bfc5267899c3c39c7fbec07d2329fde,209.79,2023-07-18,Successful,MYL507,Mylapore,Chennai,Debit,Merchant_49,Clothing
+c41f8d47fe8e4b4a3435578317712ef2,46ba98f9173d8e9c817836cfbb32cd44,199.41,2023-03-28,Failed,MYL689,Mylapore,Chennai,Credit,Merchant_10,Clothing
+a578ef26744b0bcddd1c303edaacf8be,7a8409896cd3cee16613180ac261cd1b,472.84,2023-01-21,Failed,MYL259,Mylapore,Chennai,Net Banking,Merchant_37,Clothing
+2a130c976bc17acff2e42578da238759,cdd4b603fcba773168cbe50ef3e91fd0,580.47,2023-10-12,Failed,MYL410,Mylapore,Chennai,UPI,Merchant_86,Electronics
+0887294f20f923ed11b68250c5dbef07,5b4e04c8886fbd740afee42b2f491e3e,349.27,2023-06-17,Failed,MYL128,Mylapore,Chennai,Debit,Merchant_18,Clothing
+66a1d74c8593fa03d40ae8ab70915654,404714f0e63a338b3fb91e0bf08490f0,278.46,2023-09-07,Successful,MYL851,Mylapore,Chennai,Debit,Merchant_46,Electronics
+07867d0211702aaa991c0e78ba503d78,b55ff304873060355f967525bd29215a,695.86,2023-12-05,Successful,MYL496,Mylapore,Chennai,Credit,Merchant_35,Electronics
+e251e7c740ce22b2ce4ba759a0ecfd8c,33589a24d5669eadc17f209be594bae6,668.8,2023-09-23,Failed,MYL937,Mylapore,Chennai,Net Banking,Merchant_43,Health
+ee4c693c4accef686a44e14e5102a846,203d06a904945c23928cd4297bdd5467,353.88,2023-05-23,Failed,MYL594,Mylapore,Chennai,Debit,Merchant_87,Electronics
+6020ce438b1525fceb61a704581f25b6,01ee76d57b6ed47aac09d792251b6970,164.66,2023-09-09,Successful,MYL368,Mylapore,Chennai,UPI,Merchant_35,Clothing
+04ea4a7017cceab0ab661ed68657879e,5a8ff6d52ace0334c801238e5450172f,300.33,2023-02-18,Failed,MYL787,Mylapore,Chennai,Debit,Merchant_11,Health
+a673190128b2f57387d5b3802f424f24,38b35ed209f6c3bf4f32a3656a00f801,77.39,2023-07-29,Successful,MYL386,Mylapore,Chennai,Credit,Merchant_77,Health
+b95282de8db92b70760c605b5e3f17f7,90e9fabff57c09bdb66392dff3a8f93b,865.22,2023-08-17,Failed,MYL530,Mylapore,Chennai,Net Banking,Merchant_93,Clothing
+69d06a98d466fa5a190bae15a50a0525,7b2215a266e6a9c0548939060b533625,653.41,2023-12-07,Successful,MYL720,Mylapore,Chennai,Credit,Merchant_66,Clothing
+69f5e2b242e7114be278865c99530ea9,d8b92bb03dfafc4b39aafe7aa9135a84,787.2,2023-08-26,Successful,MYL105,Mylapore,Chennai,UPI,Merchant_99,Electronics
+411e3de31196e5b8032a9c1dc3e491a8,8facc4c60010f804a45ac4cedadeea21,529.95,2023-02-02,Successful,MYL632,Mylapore,Chennai,Net Banking,Merchant_79,Health
+dc82fadef9ee71bdfaf4da3562b66dec,575edee1a12dbb645017fe6cfe9fc424,488.26,2023-11-16,Failed,MYL862,Mylapore,Chennai,UPI,Merchant_28,Electronics
+9157a0794562119dbf904b565e68c1bf,48e1041867820313296ef867410d79de,70.1,2023-12-24,Successful,MYL850,Mylapore,Chennai,Debit,Merchant_7,Electronics
+ff202656a55b8b9da01a6566a973afec,c8c2383bcb240d627d5adc0c0a562e48,872.59,2023-08-26,Successful,MYL154,Mylapore,Chennai,UPI,Merchant_77,Clothing
+cae7340e03b391879cc488e924844a91,593f9ff860f243cf1ea81e626d873c26,178.52,2023-07-18,Successful,MYL597,Mylapore,Chennai,Net Banking,Merchant_63,Health
+315d7f0dd7322a4be1c52a2c0aac0841,4f2cb94294fb860b1b35fe948a6fd38c,589.02,2023-05-02,Successful,MYL579,Mylapore,Chennai,Debit,Merchant_65,Health
+ac114a46e79805208d2f15d4defda10f,5695252b7f0f7fbde1293fa5cc278eb1,968.87,2023-05-07,Failed,MYL780,Mylapore,Chennai,Debit,Merchant_68,Groceries
+80d473f97f78c70cf4edfe501f10d8fe,32db3bf207d13e1f6b0fe4c24c0328e9,609.07,2023-03-01,Successful,MYL431,Mylapore,Chennai,Debit,Merchant_83,Clothing
+13cc468ed7fd60f52ed734f44d3952d9,7bed5bfb5d9972fdc60a85d07c77806e,311.71,2023-10-31,Failed,MYL315,Mylapore,Chennai,Debit,Merchant_45,Electronics
+fdae82a5230c9b1bd2ce1044a5f2541e,c5b68836ee8fcb60a81d95c4081d9f92,661.18,2023-04-30,Failed,MYL761,Mylapore,Chennai,Credit,Merchant_6,Electronics
+6f4b8a817b6406c875302e46edcbe46b,0c094b54167f308bda7dddf785c17908,448.51,2023-12-18,Failed,MYL811,Mylapore,Chennai,Net Banking,Merchant_67,Health
+8bd123a83130e27b8923c8e216955973,6d97e088c07018f3e5c004abe6edca9b,166.0,2023-03-22,Successful,MYL673,Mylapore,Chennai,Debit,Merchant_75,Groceries
+4e136dba7fcd1df9e684100a7951d88f,f504d060d3ba170849c7992558c941b3,378.71,2023-02-27,Failed,MYL146,Mylapore,Chennai,Net Banking,Merchant_93,Electronics
+2c9cc3ea4f1c96c45784946e61543565,cc12d907e84cfc96ce4ea9a09bc7cd8c,407.98,2023-07-06,Failed,MYL701,Mylapore,Chennai,UPI,Merchant_37,Groceries
+0cf9c59fd6a379ebfc4efd89d1366b15,4d790eb0ebabd389cdec709133ee7b13,725.46,2023-03-29,Successful,MYL589,Mylapore,Chennai,Net Banking,Merchant_3,Electronics
+da5fd8becb04392fedf1f14870909be0,c87c33d7985cda3d759ed733031961dd,713.49,2023-10-06,Failed,MYL560,Mylapore,Chennai,Credit,Merchant_78,Groceries
+2873a20f79b99111ac7de0f42bb64ac5,cfc36e5227c8f8f428b7e71fc11d0083,744.16,2023-02-12,Failed,MYL615,Mylapore,Chennai,Credit,Merchant_32,Electronics
+e7ec95df2ed7be80ce3fced1f3e6a44a,26d9864eaaf7ae42ba57685065bcc81a,891.0,2023-02-20,Successful,MYL274,Mylapore,Chennai,Net Banking,Merchant_71,Clothing
+9c5b66f11dc18010e0cb44f80169c260,dd3522842504d263e7af7a02f2db4053,751.92,2023-07-13,Failed,MYL301,Mylapore,Chennai,Net Banking,Merchant_17,Clothing
+38fdfaf1bff744e3682712f94cc66b9f,ae53c3d63ba4f1fcac16311dda8b6dd8,35.63,2023-11-12,Failed,MYL699,Mylapore,Chennai,Debit,Merchant_18,Health
+ae71f6a8ee5fe5e68df6bc488587e69c,aff5f5f462dee2f5f0a20875087e9716,340.35,2023-06-22,Successful,MYL462,Mylapore,Chennai,Debit,Merchant_23,Health
+0166790dd5211ec6b22e979835df9c7e,ae49bbb3e4bf132f27fd82db09d94a2d,72.8,2023-09-25,Failed,MYL821,Mylapore,Chennai,UPI,Merchant_80,Groceries
+ee522605a7a946c6a0e7ac69e0defae5,404240faad1492e7f3e4c961d4929b50,211.03,2023-02-09,Failed,MYL791,Mylapore,Chennai,UPI,Merchant_48,Groceries
+417bffb5c2c7488cb4db3ceaa64ffdb4,0cfc2946e2f0d5c9b8d6b3524b95bbf9,161.29,2023-08-14,Failed,MYL639,Mylapore,Chennai,UPI,Merchant_87,Clothing
+2a30e6a6140b34ebe2a25bee31f3f8b2,ae8735b02607a1d5cd91d51e6bdfdfc1,94.53,2023-06-28,Successful,MYL310,Mylapore,Chennai,UPI,Merchant_78,Electronics
+747c5c1e7a72de0f1d087a46bd7479b5,5ed7c0d73a7cff62d71a5eb8995ba993,490.49,2023-10-27,Failed,MYL651,Mylapore,Chennai,Credit,Merchant_66,Groceries
+184cb808a7ec49d9b85cf54337b878b2,572243fb55a67444ad0d06ec35429d11,306.46,2023-10-07,Successful,MYL137,Mylapore,Chennai,Debit,Merchant_99,Electronics
+6bc65dc680458997f18a5e9100491701,dcb79622555ed6e975933e15d92cc9ee,371.44,2023-12-17,Failed,MYL376,Mylapore,Chennai,Credit,Merchant_12,Clothing
+c9b2e6ccf82cf820b58c8321b8e27667,f33ae0defe739f03008aefea27935a31,664.71,2023-08-18,Failed,MYL719,Mylapore,Chennai,Net Banking,Merchant_78,Clothing
+054625214f9e9321b564062aca368284,f9e86d56b0dc0d001ba0c0638702f7ac,217.24,2023-12-10,Successful,MYL280,Mylapore,Chennai,Net Banking,Merchant_38,Clothing
+b28fec658755af21ad61ffc8dae4edf6,455c23653d337b0e4079b75077ba2dce,869.94,2023-05-09,Failed,MYL486,Mylapore,Chennai,Debit,Merchant_35,Groceries
+6a8101cac91747206eea4e099ce7e58a,beecb421645482767ddd797e14db2620,172.48,2023-12-03,Successful,MYL455,Mylapore,Chennai,Debit,Merchant_84,Health
+c09f121ec0d25b87e034f5386ee83570,13f04c09540d887ff1fc4f797d99dc7f,651.71,2023-09-04,Failed,MYL161,Mylapore,Chennai,UPI,Merchant_72,Health
+ebd6002020b53a70284ae4ed87db074e,e75b011111db9d2814020ab8b2a4dba5,606.92,2023-03-04,Failed,MYL413,Mylapore,Chennai,Debit,Merchant_3,Health
+610dcf53917e7467c9c6c0bc5b83da8d,446cb58c2a4b30fb8684654203833e85,920.37,2023-11-28,Failed,MYL664,Mylapore,Chennai,Debit,Merchant_96,Groceries
+7944f593c47f38a393997aca3f112beb,5d310549e21dab72bb89a98c949fa4e9,103.41,2023-04-16,Successful,MYL895,Mylapore,Chennai,Credit,Merchant_95,Electronics
+325b7ef5efd6f7d4d5736514f936df46,28de6f592760602395fe29cfd411f9b7,26.57,2023-11-12,Failed,MYL376,Mylapore,Chennai,Debit,Merchant_12,Electronics
+140598b4e6c8c8c03336c6982f3442eb,5d267f7c8009b5b773da7c981a19c7ac,720.45,2023-09-25,Successful,MYL432,Mylapore,Chennai,Credit,Merchant_74,Electronics
+30bd604e91d5a2304038b4930f04520b,15be3c80bdfed40baab1558d301fde73,302.98,2023-10-31,Successful,MYL308,Mylapore,Chennai,Credit,Merchant_25,Groceries
+d85ab92011bb25bebf48aa27db7a90b2,07ba91bfa9fadab37fedcdad1266f9d5,181.37,2023-11-19,Successful,MYL229,Mylapore,Chennai,Net Banking,Merchant_29,Groceries
+7c9e1131bf7d55c0fe680933ff803571,fa5fb3375dcc4291e336c99fa36e8666,407.42,2023-07-19,Failed,MYL779,Mylapore,Chennai,Net Banking,Merchant_17,Electronics
+c40ae7887707de26515d6e0bf7e6def8,4d2c0d855ca14f9229a94ad5855ad810,195.19,2023-09-26,Failed,MYL783,Mylapore,Chennai,Credit,Merchant_42,Groceries
+e085b4357bf6c5c15b66e016d6e2f9af,759e69d6c931d9a84ac4a7e429a25274,281.94,2023-07-03,Successful,MYL721,Mylapore,Chennai,Net Banking,Merchant_100,Health
+841bf7bf5a5667ea7f0f97cc503fa698,390189c9f9d7486b65d1fd38367c150d,176.48,2023-07-08,Successful,MYL918,Mylapore,Chennai,Net Banking,Merchant_56,Health
+06562726dcf10969de9196e40517bfab,df57752b40390b28881057c2468955a8,832.76,2023-03-27,Successful,MYL172,Mylapore,Chennai,Credit,Merchant_21,Groceries
+f6f0d9167ea24abbe023555d85bbed04,c83e8f47b5e260c43ea128c8d00eb562,391.38,2023-08-31,Successful,MYL780,Mylapore,Chennai,Credit,Merchant_16,Electronics
+77c44b19e04911a5e332bd5ab46e1ced,94591e7dcf5995f215dcd468ff3f8934,260.62,2023-12-26,Failed,MYL938,Mylapore,Chennai,UPI,Merchant_77,Health
+db09c69005c6aa18db9cdbc8057eea75,6175e5fe824eda812e3e56593a4fabdf,902.04,2023-11-11,Successful,MYL891,Mylapore,Chennai,Credit,Merchant_99,Groceries
+bdbef7695f88baf2f6eec7ca2bd29718,4b3a54c07b562c615813d8cf065f38a5,595.63,2023-02-19,Failed,MYL555,Mylapore,Chennai,UPI,Merchant_6,Clothing
+fd31f9ba054bc4652d19936af6cd8979,8718c228eca1dccd9e3974b66e48ddf1,800.15,2023-04-05,Successful,MYL636,Mylapore,Chennai,Debit,Merchant_72,Health
+a54ed90422d864561c9853733e3075d8,0cf973a070da3fb2841dc67917f38bdb,274.54,2023-10-09,Failed,MYL417,Mylapore,Chennai,Credit,Merchant_15,Clothing
+e163f0a8d6c2088c65b23c358b94c21f,965ba18803ca83e3cf594c7f11d9667d,44.66,2023-01-04,Successful,MYL997,Mylapore,Chennai,Credit,Merchant_48,Clothing
+a36391908ece9881652e05f6f0910128,d733e5cfd6fa91be7096024e3511db52,924.61,2023-01-15,Successful,MYL684,Mylapore,Chennai,Net Banking,Merchant_72,Health
+77fe5bc6c42761e5fb3c44021d595694,7d4961dbf9577624a20987d9f92736c1,550.82,2023-09-30,Successful,MYL140,Mylapore,Chennai,Net Banking,Merchant_100,Groceries
+148d20c9f46e8c75f92e9213596b61dd,f5543b3f3280de28c097861c9b508a02,67.73,2023-04-11,Failed,MYL785,Mylapore,Chennai,Credit,Merchant_46,Health
+e85e8a484297fc30bc88021e4c0a6089,bd1361d1a8e74e8cc1e7ba64e5cead06,767.15,2023-04-04,Successful,MYL285,Mylapore,Chennai,Net Banking,Merchant_60,Clothing
+fee1e3bde5c342468888924a6d2a5422,6c287dec1fc4669fbaf64c68ae448c12,479.18,2023-12-28,Successful,MYL453,Mylapore,Chennai,Net Banking,Merchant_54,Groceries
+54f5d17fdb94074c1722d065a196d01a,66d1a90a4e43ec42e0e3c7ef965e2dda,248.94,2023-03-02,Failed,MYL275,Mylapore,Chennai,Debit,Merchant_47,Electronics
+fcfd606d08be720c41482137178ba216,b269b967f9951955faae4ee8a2febe45,295.62,2023-12-08,Successful,MYL297,Mylapore,Chennai,Credit,Merchant_99,Electronics
+3c89404fdc8c05dd1c30f922d25a9b3d,1602bcad621516f858ea62d14104eeb6,742.21,2023-09-29,Successful,MYL722,Mylapore,Chennai,Debit,Merchant_31,Groceries
+181990075d0487b832445df1c2d62c2f,bed5aae92088051f3bb44e28d4eda104,345.84,2023-06-26,Successful,MYL576,Mylapore,Chennai,Debit,Merchant_74,Groceries
+357c187eecbbdd1ed0675ab3e97e7051,22f4c31c535dde67399309e45120d35b,54.63,2023-05-16,Failed,MYL768,Mylapore,Chennai,Net Banking,Merchant_20,Groceries
+3ee9cba6e04a506dd275fc4c8888520f,d5247cefae75c64bbbb41190ceeac1cb,246.87,2023-10-24,Successful,MYL412,Mylapore,Chennai,UPI,Merchant_32,Health
+7616b21d75d90f690f12ca62c304c055,639b33da4fd748f156ec33b10d198150,659.56,2023-07-16,Failed,MYL380,Mylapore,Chennai,Credit,Merchant_45,Clothing
+ee0403840eeb4d0b2e1afbbb061f9ae6,0cddf2c53b531e9222f03324c7e89d30,125.6,2023-04-26,Failed,MYL237,Mylapore,Chennai,Debit,Merchant_61,Groceries
+6c2d0d2d7aa1f8a470885daaa2b547bb,cf5ce329427522710bcccffa1173dbeb,958.21,2023-06-03,Successful,MYL888,Mylapore,Chennai,Credit,Merchant_40,Groceries
+005343fc3baa898e620756a93683116a,f095ed873784bead6eea0d0a992a3bd6,147.76,2023-03-08,Failed,MYL564,Mylapore,Chennai,UPI,Merchant_44,Electronics
+563770fd2ad8e27ee36c628ae1599f08,371532c1c668a60fe89ee732830d0e51,790.84,2023-03-06,Failed,MYL843,Mylapore,Chennai,Credit,Merchant_62,Clothing
+e2c3b8f0c1a7c032124c5257dc78636d,52906ca56c50eedfb4e18637ead5369d,768.58,2023-08-06,Failed,MYL868,Mylapore,Chennai,Debit,Merchant_24,Clothing
+813ef61d8e6417f17463a9ebfd581af9,b076971b99f80519de1d56d8dbbcb2ba,325.07,2023-01-28,Successful,MYL824,Mylapore,Chennai,Credit,Merchant_41,Electronics
+fed5363c7bda92b6dccf99faf8fa2192,8436261dcc9a0abad37eb1dee10834fa,129.8,2023-11-15,Successful,MYL334,Mylapore,Chennai,Net Banking,Merchant_31,Health
+e724bf3adfd0ba64a52f3f394c67e2ae,79edcbea6aabf04642c446401f7b3fbf,772.82,2023-07-25,Failed,MYL728,Mylapore,Chennai,Credit,Merchant_71,Clothing
+e585a7dc239598a5448157de5b3d8925,9b08cd77a53b6244441079427d813e3c,421.39,2023-07-22,Failed,MYL418,Mylapore,Chennai,Debit,Merchant_14,Clothing
+3e2a8e163b6edaa0d0e48c94835bafc7,1d14e0772ec2e59dbb2a77e0dcbc3632,705.94,2023-05-06,Successful,MYL509,Mylapore,Chennai,Credit,Merchant_67,Health
+394436937e0d312ba05b238996c6050c,16c136973f5239c8c5bee7b3e1a0a29b,561.51,2023-08-20,Successful,MYL173,Mylapore,Chennai,Credit,Merchant_6,Electronics
+8d4de0801ed73f897d61773a051db1eb,b0e153b94330fd100a7ca0089b8b9e43,108.08,2023-11-06,Failed,MYL886,Mylapore,Chennai,Net Banking,Merchant_15,Health
+0c2329497077d5bfa165edffa006da19,90a0466073a8fc883ddc8fd0cce6f65e,103.2,2023-04-03,Failed,MYL286,Mylapore,Chennai,Debit,Merchant_26,Electronics
+a667d8f711c3e7293eee8fa4a254dd32,83c940dd2d95d0eee68586b2f9ac4fd3,616.45,2023-05-25,Failed,MYL398,Mylapore,Chennai,Credit,Merchant_72,Health
+734ac8d37c742bf2cc10db3c7be05781,eb62778a4ad9509e99e43521f4be90f6,248.93,2023-09-16,Successful,MYL463,Mylapore,Chennai,UPI,Merchant_10,Health
+11e06da1bc242791dda32f91537dd70e,008b02875f09165fced076576766dd80,133.2,2023-07-15,Successful,MYL118,Mylapore,Chennai,Credit,Merchant_83,Groceries
+3900412ab74a7c1c159d5fde1552dd60,20ef602788888dbbad1c3c64d71f7b52,325.66,2023-07-14,Successful,MYL514,Mylapore,Chennai,Net Banking,Merchant_79,Electronics
+09b049b9f8d2a1b4710b5c5433335f95,2b4b95fcefc08f58142441e8cbeb1250,55.19,2023-07-04,Successful,MYL348,Mylapore,Chennai,Credit,Merchant_90,Health
+3ec242f69147a1711dcbd7ecb8377eb2,b98b886310d9b8534a3ba7cecc31fa64,466.09,2023-01-28,Failed,MYL331,Mylapore,Chennai,UPI,Merchant_11,Clothing
+4824b5543580aa28b9f93b83db7c29dc,8663ad05fa33c2c83411cd413454c912,829.89,2023-02-24,Failed,MYL697,Mylapore,Chennai,Credit,Merchant_6,Health
+1a7cd96e9dab2763cbe3707eabbe0148,0ae987e6eaf018caefbb619d5a4db9bf,796.06,2023-01-19,Successful,MYL744,Mylapore,Chennai,UPI,Merchant_53,Groceries
+73ed2f3a425eab5e1669354ab7d06c5d,3ade78eb627a70b87159b8e80ad6af90,579.36,2023-10-06,Failed,MYL666,Mylapore,Chennai,UPI,Merchant_16,Clothing
+00eaf9d28ff52214dd4ad3ca026e7219,21ea2b4470a936dc664c04b9006f4e77,252.34,2023-09-06,Successful,MYL181,Mylapore,Chennai,Net Banking,Merchant_69,Clothing
+1ac6f4dd0d124d48f3794ffa97d06deb,0a534b643190cae1c0f76e21a1a91af1,687.12,2023-04-13,Successful,MYL554,Mylapore,Chennai,Credit,Merchant_67,Health
+5cf7a17460055f3cf0514b7add2d2ad3,01108bc8ecfc67b0df20fe916ab1bd72,871.09,2023-04-22,Successful,MYL160,Mylapore,Chennai,UPI,Merchant_71,Health
+74a660642b6a84205c9f7d143422952c,7738ee8709a3fbf47ccd27ac5e0c10a1,185.71,2023-12-08,Successful,MYL942,Mylapore,Chennai,UPI,Merchant_25,Clothing
+2eab1a26ed096688b8bdca0dd40d009a,290dc613d182da2f61ba4a500c548a9b,623.51,2023-09-13,Successful,MYL456,Mylapore,Chennai,Net Banking,Merchant_1,Clothing
+e0cb06cee580f0671ba038ee599d2645,0049a1cefd0931f5f40a28d131d9ca42,432.26,2023-08-16,Failed,MYL289,Mylapore,Chennai,Credit,Merchant_30,Groceries
+a5b16205472c095f3b171d46be8c51eb,0aa4d06b46160b1b62cadb2040aef57e,692.32,2023-10-21,Failed,MYL151,Mylapore,Chennai,UPI,Merchant_33,Groceries
+5b3b3544b721b6fc35a7743eec294d62,7857a0eda157f5018f53f2ae5e7df306,993.14,2023-09-16,Failed,MYL202,Mylapore,Chennai,UPI,Merchant_31,Electronics
+d8a99df0cb58e9d51acad1269753d256,75f77b945f5520ba9a079d16e24be320,566.46,2023-11-06,Failed,MYL547,Mylapore,Chennai,UPI,Merchant_35,Health
+2863349d8e079f8760d00b9ce1b3d72c,57f127df398c54110c255a0d09f86baf,810.95,2023-10-08,Failed,MYL768,Mylapore,Chennai,Debit,Merchant_79,Clothing
+feb98c6d892a85922cdd30db94bc468e,0414086c7ca3e3e86e823ac298f9763c,411.9,2023-01-23,Successful,MYL515,Mylapore,Chennai,UPI,Merchant_82,Electronics
+4fcf648571d7cb28a89da7e7ad8eeca8,d53706fb98598e4b966b0038655b4e77,921.85,2023-07-15,Successful,MYL705,Mylapore,Chennai,Net Banking,Merchant_72,Electronics
+7658fd50fe5fb5a0c6fa549b6a8fe1bd,497d648917e60a4a5ddaebc5b2d13f22,15.82,2023-12-21,Successful,MYL845,Mylapore,Chennai,Debit,Merchant_89,Groceries
+14fcd5d4a01d9d5529789ad6d93fd668,797436137e23182d5b4f9c878d8d0a65,98.4,2023-12-20,Successful,MYL285,Mylapore,Chennai,Debit,Merchant_30,Health
+b4108adf347c843e43ef1349ea7cdcdc,9f5412834945cba2799ff88d1fd0cef0,234.93,2023-06-16,Failed,MYL122,Mylapore,Chennai,Debit,Merchant_13,Groceries
+6b25f2aff4e13a1421159381c4b012d1,ca0235b4fe067228a97da6e1fd8d0811,273.41,2023-09-28,Successful,MYL556,Mylapore,Chennai,Credit,Merchant_76,Electronics
+7fa58b7d029381d93a7d2856272c04ea,778f031019bcdedb050ba6385a04a5db,888.17,2023-11-24,Successful,MYL567,Mylapore,Chennai,UPI,Merchant_64,Groceries
+02b5b5dcd4bc6d307bc22100b48a95c7,ba1dce8ab52be6e380a1fb574aaa12cd,161.7,2023-08-07,Failed,MYL503,Mylapore,Chennai,Debit,Merchant_72,Health
+154ae82151d0eae26568955c0f972128,f74e33464d32afe2da94e6bd774facf8,868.02,2023-06-26,Successful,MYL219,Mylapore,Chennai,Net Banking,Merchant_83,Groceries
+019d3e683f92629ecb97b4cade273d0a,b58860f58c62a4baa4e0b356e47861c0,42.68,2023-02-19,Successful,MYL915,Mylapore,Chennai,Net Banking,Merchant_35,Groceries
+c92c12557cd68e951b5c7a366477ca48,fc56e5a9105ddc8382e7dbcdef7237d9,279.77,2023-09-19,Failed,MYL640,Mylapore,Chennai,Debit,Merchant_39,Electronics
+49bf020e3a4b4decda4aaf246b047129,3a70a0250123c8305060478b2a12bd00,702.47,2023-07-03,Failed,MYL936,Mylapore,Chennai,Debit,Merchant_18,Clothing
+8d7f9d4eb14d27f2f0c1dfdd1d707ea9,38f94cccf5933f0614e92114a464eac3,85.97,2023-07-09,Successful,MYL272,Mylapore,Chennai,Credit,Merchant_65,Clothing
+d1b2703574a15aabf2cbbfdda5e751f2,eb05bc824f70c81b285018a10fd61dba,916.37,2023-07-02,Failed,MYL493,Mylapore,Chennai,Net Banking,Merchant_53,Health
+b3956e79a0ed6b8dc6e937553cbcf200,7a08bf37edf7b27962860c549f4e5324,67.2,2023-03-26,Successful,MYL344,Mylapore,Chennai,UPI,Merchant_85,Clothing
+518d706c392ad0b9532fb90557acaa0a,f0a033911230d2cab1d1cf84ccb81288,420.36,2023-10-17,Successful,MYL884,Mylapore,Chennai,Credit,Merchant_56,Health
+e2576ce4dcca37f5144c04cf2e6ce729,e5009c44342eb8791f43ef6dfcba7501,10.4,2023-01-03,Successful,MYL609,Mylapore,Chennai,Net Banking,Merchant_60,Health
+0eb47c14c5369449011985d0f4d4331e,7a97bf1ab0d3947abd876a65174a0774,827.4,2023-02-06,Failed,MYL917,Mylapore,Chennai,Net Banking,Merchant_13,Electronics
+835c8a02103ed79a41b9f64d51ddcbb9,7e34b063a8c7d8d8c348b6de7f87af9f,614.0,2023-10-01,Failed,MYL300,Mylapore,Chennai,Net Banking,Merchant_84,Clothing
+bdf86189f3f584e18a41761806597022,afb755b3cf0266e07199c622d2cc93a5,628.68,2023-12-28,Failed,MYL103,Mylapore,Chennai,Debit,Merchant_38,Health
+9dc3a7187dd55251c8516870b7b0ccb5,d18a9969f012692fc7aa240f38b7c4cf,830.69,2023-03-20,Failed,MYL332,Mylapore,Chennai,Credit,Merchant_8,Clothing
+f9b4dc2640887d250db9e208f35de646,0fc082cacd442f0e2141c4d76e5d99f3,439.61,2023-12-11,Failed,MYL903,Mylapore,Chennai,Credit,Merchant_64,Clothing
+08f617e705ea9cf13edbeb880a905224,6204fe1eadd60221e48862920f525e79,564.61,2023-04-26,Failed,MYL899,Mylapore,Chennai,Credit,Merchant_35,Electronics
+71b9d9c82faaa00b0a5165dfa5e08776,ed8b715832999f046a3afd78c0eb3ace,987.31,2023-02-01,Successful,MYL604,Mylapore,Chennai,Debit,Merchant_38,Health
+60569a76c4c4670fe1d07ceb126e804a,4cd55b5b8ca08df016848c7fe95763e2,446.37,2023-11-29,Failed,MYL106,Mylapore,Chennai,UPI,Merchant_85,Health
+a7cef727a58a40c99480a44494156fbb,7b075eb84a3eba9ae3ed178563c3b18f,255.98,2023-06-30,Successful,MYL346,Mylapore,Chennai,UPI,Merchant_9,Health
+8d9c9f4a47f8245ea276e4c36729a866,0157de3c4fccfa91f144a2f6059927b8,188.98,2023-09-26,Failed,MYL920,Mylapore,Chennai,UPI,Merchant_9,Electronics
+9d84da356e429c2f145e08b0f0e16b78,8c6803dff4a6cc86cfee56db690563d1,252.36,2023-11-23,Successful,MYL431,Mylapore,Chennai,Credit,Merchant_44,Groceries
+0f81e5a56b4e1304ae55df0dba778114,c33884ef099c2b168f2aa45392d01c53,113.97,2023-09-01,Successful,MYL349,Mylapore,Chennai,Debit,Merchant_38,Health
+538d01f81e65b5a44c01e9dbbf7c841a,181b16c1a4133d908f1eeb9d964d2d3c,903.38,2023-06-12,Failed,MYL540,Mylapore,Chennai,UPI,Merchant_26,Clothing
+1abe7c772192dcaab8fc4c00cce43138,f3272f94fc44c54a8d67525d587cd264,417.64,2023-02-19,Failed,MYL161,Mylapore,Chennai,Credit,Merchant_18,Electronics
+b661043711f7d870377f7dd7e24b6583,877aefb68d7df682e9b83770c1be8299,841.95,2023-01-08,Successful,MYL591,Mylapore,Chennai,Credit,Merchant_57,Groceries
+f862213df59c33673597e140fd98ba31,b133ba26038a25f9e77d2e860c02a71e,181.62,2023-05-12,Failed,MYL772,Mylapore,Chennai,UPI,Merchant_49,Groceries
+e85f92090ae0010166be7076d861241d,9358f5119611197ea9830a67f347a5b9,416.8,2023-02-23,Failed,MYL150,Mylapore,Chennai,Net Banking,Merchant_37,Clothing
+81eda8e7f8d1c627f1fc33f9f617baff,a4606f3e70dedcccbc9f4fe7eff9ca1f,768.24,2023-03-20,Successful,MYL557,Mylapore,Chennai,Credit,Merchant_18,Electronics
+13149e3347832d841c08f62491dc0ee3,6a4bdfc2924d2c2d5aaa0a1000779853,906.71,2023-06-03,Successful,MYL387,Mylapore,Chennai,Net Banking,Merchant_48,Groceries
+0758a8e21a0f4689c7d51150d2ff521f,917ff1c7f2945baff5c0f18bcae3fef9,728.07,2023-06-28,Successful,MYL852,Mylapore,Chennai,Credit,Merchant_69,Health
+976d594d6ea85bfe5814299c7a45d638,f3a1dc8e8ceeafceb8950ea2608e00d4,943.64,2023-08-19,Failed,MYL266,Mylapore,Chennai,Net Banking,Merchant_72,Groceries
+4663e214bd991e6fada84e1d5c830786,0bd898767f3df898b6e199497ab8485d,378.61,2023-10-17,Successful,MYL444,Mylapore,Chennai,Net Banking,Merchant_84,Health
+86a9ed6e22a1800492e0776c2f07cb26,93f3281dee618068c982ba17f1180dd8,941.54,2023-08-17,Failed,MYL655,Mylapore,Chennai,Net Banking,Merchant_34,Electronics
+cd644fce488fa0f45c874e630318c110,4dda720079e645eb48131c441fcc82f3,601.21,2023-03-06,Failed,MYL123,Mylapore,Chennai,UPI,Merchant_66,Health
+e1255485b23703d5cbc8f0cd5a657378,1744cb3f3ffa4cbea67b221c0db87208,688.81,2023-01-09,Failed,MYL929,Mylapore,Chennai,Credit,Merchant_85,Groceries
+97d20e74332fa72f1cbb8cedb8f483de,7c0dff272d62200ba0506bad67432701,367.9,2023-10-14,Successful,MYL778,Mylapore,Chennai,UPI,Merchant_22,Clothing
+3f37401ed2f78ab39c4e275bf0df56df,54bc113a305d594ba498d4ae88afd685,636.18,2023-06-06,Failed,MYL980,Mylapore,Chennai,Credit,Merchant_58,Health
+0398d2257e37cca51790c64fdf24611b,013b27998020dd0aa6e18dd5fd6b58fa,212.02,2023-11-25,Successful,MYL961,Mylapore,Chennai,UPI,Merchant_88,Health
+c49211483751468511a2707e63e3f140,1d551db3f93987876cf00d3715c9d7bb,950.8,2023-10-10,Successful,MYL488,Mylapore,Chennai,Debit,Merchant_53,Clothing
+0128d508a87d95b28e823cc93e10a20b,6a108ca71f7f6dfb55056bc11b20bb05,674.48,2023-01-30,Successful,MYL909,Mylapore,Chennai,UPI,Merchant_17,Health
+2d1f1c89bc27eb126f0857883059d6c7,9f311ace4c100e7fe9e4746735cde925,59.14,2023-03-11,Failed,MYL705,Mylapore,Chennai,UPI,Merchant_85,Electronics
+2660426bb949140bc099b9a6d24364c2,90f459981c5de8fecd5233807ac121bb,733.15,2023-07-12,Successful,MYL303,Mylapore,Chennai,Debit,Merchant_99,Clothing
+978792ba0e6f853565be363e59b96215,f2b5fc26b1949b071b991a0c1d333850,954.79,2023-08-25,Failed,MYL792,Mylapore,Chennai,UPI,Merchant_56,Clothing
+6025574aede50206ef77dafe9eb4358b,28e157bfa20c94fb822f0d7e7c3f865f,438.68,2023-03-05,Successful,MYL169,Mylapore,Chennai,UPI,Merchant_12,Clothing
+c7f7c5be8a71a1b8ce72b8d1b6f3ddf6,4dcfd942541a2dbc97c74ca659942040,511.75,2023-02-13,Successful,MYL381,Mylapore,Chennai,Credit,Merchant_54,Health
+4901778226635837b8cd4a75b6285c8e,072772fb8f58619d33b0755f44a0a6af,981.12,2023-03-13,Failed,MYL675,Mylapore,Chennai,Credit,Merchant_31,Groceries
+49c31183f67b6babe83acd13abdabe8f,8e2c0701247620a228b18b0f370792f4,647.44,2023-04-18,Failed,MYL709,Mylapore,Chennai,Credit,Merchant_59,Groceries
+fc6787c7d18698f55e183f182bc478f3,365f4f1f922e26547eb006e490dfc0cf,158.31,2023-12-27,Failed,MYL211,Mylapore,Chennai,Debit,Merchant_25,Clothing
+afe2ad5e29f84e4af1000479a6670ef5,255ce3ef2ea2e52399a76d6d6e0b7633,243.18,2023-11-29,Successful,MYL406,Mylapore,Chennai,Credit,Merchant_68,Electronics
+3efbbb209f880f56fb146220352b0c52,b61e996548bf5f6df0ea116ec7430b16,21.49,2023-12-01,Failed,MYL725,Mylapore,Chennai,UPI,Merchant_93,Health
+c7c074bb7ae2c07423b4dfebd9ea2721,e2f9c270ecbc2e4b599b4864c7c71ba2,271.69,2023-12-02,Successful,MYL414,Mylapore,Chennai,Debit,Merchant_93,Health
+14ad5f913e6271f1a6f1b2ba81348d80,c76cd44bc6eff421db0d01f68327be1d,260.47,2023-09-20,Successful,MYL469,Mylapore,Chennai,UPI,Merchant_13,Clothing
+066eb9edc1ba9544abb64ac5e9d9248b,0e99f86a0865152db39fa65371dacd5b,688.46,2023-03-27,Successful,MYL183,Mylapore,Chennai,Net Banking,Merchant_71,Health
+29fb92fdfbad9fcdf5a5b5cdac1e0cba,d33c494d29e6bd7c311ae8ad58d2475a,914.15,2023-09-08,Failed,MYL176,Mylapore,Chennai,UPI,Merchant_36,Health
+39190d3a6414e21032c1dd17c8438259,bf7ae5cccba29e00e895c73085fb6950,438.14,2023-10-15,Failed,MYL222,Mylapore,Chennai,Credit,Merchant_64,Health
+a1c3595bf27a8bcf27a55b18d1ee1d0a,257e9ebfe8201842b14178e3d01310e3,507.72,2023-09-24,Successful,MYL175,Mylapore,Chennai,Net Banking,Merchant_32,Health
+2eb0a74d66a051c616ea0e437f822049,6cc9a574e6272b33f9af845755c1e7a6,619.5,2023-09-20,Successful,MYL151,Mylapore,Chennai,Debit,Merchant_4,Health
+c25023a7aff7e55b10e38dd5da2ce33d,5ad085824f513ed7b64322a067292f72,237.36,2023-09-28,Failed,MYL993,Mylapore,Chennai,Credit,Merchant_65,Electronics
+3b5b763ac91294db676e9e76308711c8,76638c00e1e3f425b1604df76e35c437,879.05,2023-04-03,Failed,MYL297,Mylapore,Chennai,Credit,Merchant_22,Clothing
+3442ce4c13347e1582e79b1b2307c814,5c661ec1c331dba0cdd396e3e19d8ed0,655.47,2023-01-19,Failed,MYL255,Mylapore,Chennai,Credit,Merchant_35,Electronics
+c456dbf58bfaa916671c725d0529d2cf,b2581d777ab5373ecbe27734f0be7117,279.25,2023-09-16,Failed,MYL639,Mylapore,Chennai,UPI,Merchant_68,Electronics
+23e499caa8f2910e74d3c578cd58f7b6,ba48e3282b4caa729a2c7cc06b02d116,913.93,2023-07-06,Successful,MYL569,Mylapore,Chennai,Net Banking,Merchant_17,Electronics
+89c4cdd5e9e364ca42df9f148a4ae03f,f999c3899efa92d5c6208caf6b4868aa,993.09,2023-04-29,Failed,MYL676,Mylapore,Chennai,Debit,Merchant_28,Groceries
+40aba8bd8b213beb3cac049cab88296b,c901715a0feac645d00075dc63c191f6,703.39,2023-07-13,Successful,MYL982,Mylapore,Chennai,Credit,Merchant_16,Health
+b6fb86c765201297e2204744fce92dee,c15078c158dfddc485f2b58ff9542128,950.68,2023-09-16,Failed,MYL978,Mylapore,Chennai,Credit,Merchant_5,Clothing
+7e33cc93ae46072a9b624088db25fd2d,61d0914e740ebbaeddf45be3be6acec7,583.29,2023-06-30,Successful,MYL922,Mylapore,Chennai,Credit,Merchant_28,Health
+25ec71c3f328479220d8672e7d1b4687,cc67c60af57df9d4f4897d6c15360576,560.3,2023-12-09,Successful,MYL240,Mylapore,Chennai,Net Banking,Merchant_83,Health
+23fbe8be6edfe24d8ff65c3e969a1853,13007ac45d8e86699a90262a701e1185,736.22,2023-01-21,Successful,MYL639,Mylapore,Chennai,Net Banking,Merchant_100,Health
+c594816a0eeeb4aee531269cf21d0771,1bf4f4cf096040831531ce2c8528bfe0,531.47,2023-12-25,Successful,MYL587,Mylapore,Chennai,UPI,Merchant_94,Electronics
+09d937c2129ef450fdf3c9b74b784a24,eac50ccd48677a76528534247d2e7a12,93.13,2023-02-22,Successful,MYL277,Mylapore,Chennai,Net Banking,Merchant_22,Electronics
+ea725c877b0b1cbb9a14ce801ab6e611,76780078d0cee409011547baf57c2282,276.47,2023-05-06,Successful,MYL512,Mylapore,Chennai,Credit,Merchant_11,Health
+0d3089249ab32fc0427cd528d09b678a,0fa13d1ef7cd02a298e5f520613302b1,806.49,2023-05-28,Failed,MYL327,Mylapore,Chennai,Credit,Merchant_24,Clothing
+ce0fa5e3a46c070e2361ded9f25cf1e8,19544358b25ea246ee39075e3e7aee55,86.46,2023-01-23,Successful,MYL593,Mylapore,Chennai,UPI,Merchant_42,Groceries
+c13354c7c8e6592676725ed81370e1a9,7782cb6aa3e69ca2e00654ca414049b1,471.81,2023-04-19,Successful,MYL772,Mylapore,Chennai,Debit,Merchant_15,Health
+90b4d43e1118e3606cf65697fa2b9aa8,a748e4f68bb8c0b7ffb5864cb4a71104,402.7,2023-06-23,Failed,MYL903,Mylapore,Chennai,Net Banking,Merchant_87,Electronics
+e900a8ca2c174b003cecd1e04c00546d,ef0bea7287f1ca4c5d442eff95f00670,603.97,2023-04-09,Successful,MYL469,Mylapore,Chennai,Credit,Merchant_60,Health
+9fa8140ab8f4eac3eed0c2bf339d83b1,692ec84b0f7a080b4e955e27174f1529,402.54,2023-08-16,Successful,MYL170,Mylapore,Chennai,Credit,Merchant_30,Clothing
+8d8000d74baca8ee874c2de3696755ba,8be79ec0202b4301fd1e71c0399d8d6b,747.26,2023-10-23,Successful,MYL580,Mylapore,Chennai,Credit,Merchant_96,Clothing
+3be3c08c40dde574a4c114ed20603bd3,b159a9346e84c903de3e5f0d72d8127b,159.24,2023-05-26,Failed,MYL262,Mylapore,Chennai,Net Banking,Merchant_52,Health
+9826bb58452cafbeab41419552c119d8,ef06023737a73a1acc712f13343a5c3a,100.09,2023-11-22,Successful,MYL295,Mylapore,Chennai,Net Banking,Merchant_10,Clothing
+72b2c1b171f5301814567dd41603aebd,e9019050ab6d318e5c65111fdf313422,899.75,2023-12-27,Failed,MYL817,Mylapore,Chennai,Credit,Merchant_57,Clothing
+77e00b3b5328e0ee5d19be57a68857d2,a32abb83b07c617d2a9f87a2a97877b0,755.3,2023-03-24,Failed,MYL485,Mylapore,Chennai,UPI,Merchant_2,Electronics
+70c9c25c358d0d9f46b2cf59721b4b56,ec2a2a53a64eccf971a3bb8b1e4e0c8e,726.6,2023-01-05,Successful,MYL891,Mylapore,Chennai,Credit,Merchant_99,Clothing
+caf87c6b6f2f16b0d5a607d8ad6b859e,be48004a96c814c049ac9a4f36184be9,208.93,2023-05-19,Successful,MYL174,Mylapore,Chennai,UPI,Merchant_48,Health

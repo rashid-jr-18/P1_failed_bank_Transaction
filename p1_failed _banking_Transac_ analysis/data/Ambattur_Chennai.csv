@@ -1,0 +1,401 @@
+Transaction_ID,Customer_ID,Amount,Date,Status,Branch_ID,Branch_Name,City,Payment_Mode,Merchant_Name,Product_Category
+a3ba9a88c32c41e03f4f2683ddb89df8,b36be8ee214a45fe41d02c4b8a6a425a,642.01,2023-11-04,Successful,AMB445,Ambattur,Chennai,Net Banking,Merchant_16,Electronics
+2082425fbfbbb1ece001fe3651fb6445,8fcd5ebf421baddc3354b77fdff25920,982.96,2023-04-11,Successful,AMB881,Ambattur,Chennai,Net Banking,Merchant_11,Health
+740b455d3af34e276197c1ecbde38946,234bfa0ae31374a35d03762fc8e24917,589.25,2023-10-20,Successful,AMB392,Ambattur,Chennai,Debit,Merchant_49,Clothing
+e1c85d74b087f75429d11042531de021,0702f9fba217d8d32a20594cd14a50ec,254.77,2023-04-15,Failed,AMB179,Ambattur,Chennai,Credit,Merchant_48,Clothing
+990782052487f30a5d37539f3fb95e62,fd8fdb6d6f3a74bef3c825e5c89474ec,665.34,2023-02-16,Successful,AMB544,Ambattur,Chennai,Net Banking,Merchant_49,Health
+9b0c1118fc0f4d2771027bedd656cb03,4d7ede093779879efc80e9e46f36eac4,73.36,2023-08-16,Successful,AMB461,Ambattur,Chennai,Net Banking,Merchant_70,Health
+5fbf464ad67abba78d9df9fabc9492c3,513a6e9ac58bc557989ef16a2481a577,406.96,2023-11-23,Successful,AMB709,Ambattur,Chennai,Debit,Merchant_90,Electronics
+156d81c53d607beda0ef92e0d90c8dba,9d6b89e18b8bf70e86ad627dfeb49771,682.68,2023-01-21,Successful,AMB348,Ambattur,Chennai,Credit,Merchant_39,Electronics
+ff61e73425b59d8e7afaff4aba087e08,b079073bab988318e78158e3ee7d3ff2,175.34,2023-11-30,Failed,AMB915,Ambattur,Chennai,Credit,Merchant_10,Clothing
+618696cd6a52b44a151f3ac77ef27f37,2a50c38a689074f4a08b3d93f825afc9,77.18,2023-07-02,Failed,AMB384,Ambattur,Chennai,Net Banking,Merchant_93,Health
+693b487a2a4fb8e8e5b192f1eae5d3ce,9ef13c1d2ce1b87eff339ee7422325b5,535.79,2023-10-20,Successful,AMB493,Ambattur,Chennai,Net Banking,Merchant_28,Groceries
+05805c48d948e4745387bf84302a6754,4bc0b38891a57fcc5dbd93f74ca7487c,422.72,2023-01-08,Failed,AMB282,Ambattur,Chennai,Net Banking,Merchant_14,Health
+a17a222ecb9c3a3d1c9db23ed6941ac4,971e9779c1c60f107264d939eb872565,182.03,2023-04-04,Successful,AMB549,Ambattur,Chennai,Net Banking,Merchant_55,Electronics
+77c32fd0b2228aaa3a41b5c348db0f17,001398479ab8ec7a0dbecaa42f94a58d,635.33,2023-11-18,Failed,AMB451,Ambattur,Chennai,UPI,Merchant_86,Electronics
+2e5031595de6723333a76eebcf694c90,110b8c783f7f4fdfbc81a23b0f52a3ca,926.22,2023-01-12,Successful,AMB329,Ambattur,Chennai,Net Banking,Merchant_68,Electronics
+8bd5c1fccaeecdd83f94b1657b9d02b1,8f6df3ce6a9008ebcabadd017b4b5da2,194.58,2023-04-12,Failed,AMB387,Ambattur,Chennai,Debit,Merchant_53,Electronics
+f961e7f4d5153a0732d45a7965a83f53,955e4ba70f122f41b12325b94aa5203e,622.75,2023-08-19,Failed,AMB172,Ambattur,Chennai,Net Banking,Merchant_2,Clothing
+9850e5fe6ddf44894c21f6d38e6fb17d,2572bdc6f4569f3af5ca54b5db49fe61,272.85,2023-04-15,Failed,AMB350,Ambattur,Chennai,UPI,Merchant_38,Electronics
+2a70e1e3f5a1deed633b6aebda453b7b,567042532053715e2c95b992bb21eab8,655.0,2023-12-05,Failed,AMB900,Ambattur,Chennai,Credit,Merchant_24,Clothing
+ff96740c5498840bd77f749e338bce69,c8e841c04946250dbe443337d3ec5cf6,728.86,2023-07-31,Failed,AMB425,Ambattur,Chennai,Net Banking,Merchant_23,Groceries
+a2d6f740bd3c592a68fbc24d6b04b679,e8a68e57ab1683d95ca21337c0f71c9e,914.55,2023-03-22,Successful,AMB121,Ambattur,Chennai,UPI,Merchant_56,Health
+d32034ebadb543a10b0f1568e6afa90b,9ce9d28f0ab4d7864a0acadc558ccbf6,127.09,2023-11-21,Failed,AMB171,Ambattur,Chennai,UPI,Merchant_45,Clothing
+caaefb7915ae746905a495037550cce0,b7fd0fd0b8fec0370ca2b777365c7ff0,828.99,2023-03-07,Successful,AMB474,Ambattur,Chennai,UPI,Merchant_15,Clothing
+0aaaa150c22c25086491efa769b37a2a,864f9f750aa442a0b7b92eff3a40e1ed,472.56,2023-02-18,Successful,AMB773,Ambattur,Chennai,Credit,Merchant_65,Electronics
+2d9aba2d1353af4abb63ba8787489f06,eb11aaad9e34750a9e051cf861f9a080,562.23,2023-11-03,Failed,AMB335,Ambattur,Chennai,UPI,Merchant_15,Health
+c02e06b853bf64aef424f34875ebe83c,8744a56f26bf6f51c5bef0efdd2b0928,963.66,2023-07-29,Successful,AMB986,Ambattur,Chennai,Net Banking,Merchant_28,Health
+6703a276776c32b1a30ede03343a284f,884991a29a484140c7a05acf880e16c8,295.02,2023-01-28,Failed,AMB182,Ambattur,Chennai,Debit,Merchant_56,Electronics
+80ff959ab0310c04ac6db4b76e8ad5f6,69e6e4c3cc1b61d868e00ce82b979a4a,961.89,2023-04-20,Failed,AMB546,Ambattur,Chennai,Net Banking,Merchant_4,Groceries
+bbefbf58f5eac166632ab9de28301ece,4358bbaaca79beb9bccf8b1f53357bd7,918.81,2023-04-26,Failed,AMB213,Ambattur,Chennai,Credit,Merchant_49,Health
+3252315f1e2f258748d7fdf762f1d8ce,3529cfe09e34c9bc94671be0c08d7fad,35.6,2023-08-12,Failed,AMB139,Ambattur,Chennai,Net Banking,Merchant_42,Health
+5589824a175eb50346a62803b8081b82,78899b6d4dd594fd468c8f4b6f589e87,309.44,2023-04-09,Failed,AMB526,Ambattur,Chennai,UPI,Merchant_21,Groceries
+a2c055bdfb14731309ae0c88f87bde7a,7f9e067ca030d08262254f67b98ef8b1,993.01,2023-06-09,Successful,AMB567,Ambattur,Chennai,Credit,Merchant_73,Groceries
+914a5c5b22ed0edf273088bfdaace27e,46f230250465244e7cdd55b0f5798fdf,766.87,2023-01-15,Successful,AMB969,Ambattur,Chennai,UPI,Merchant_45,Health
+b4674754ad85903e19312e95b1cd62b2,9e5c08e5191ab5c52123427d1b4669ab,426.96,2023-03-13,Successful,AMB489,Ambattur,Chennai,UPI,Merchant_93,Groceries
+b2f2a2c8edd031790c818cbf6767deaa,11779bd49918e53928a98e4b819eba58,816.16,2023-05-03,Failed,AMB546,Ambattur,Chennai,Net Banking,Merchant_30,Health
+ccc8a9897d260e8e38ff1d077a7ed66b,870d07915aedd94e51688d987e223eec,201.19,2023-12-29,Failed,AMB260,Ambattur,Chennai,Debit,Merchant_81,Electronics
+12c10a62e11e372fa2a68442c7947ca7,c906b2692210f0e616fff6865d52e3d2,57.47,2023-10-04,Successful,AMB105,Ambattur,Chennai,Debit,Merchant_23,Health
+d5f6f35a43c00e592ebeda32a1131a54,ed3eab21fa27f3b7429814845e07551c,254.21,2023-07-31,Failed,AMB645,Ambattur,Chennai,Credit,Merchant_6,Groceries
+c4fd68cdf8bf54c5b2b5a6f9a1b8089e,267d0c1466f70327a21da74d5837cb46,492.81,2023-01-17,Successful,AMB318,Ambattur,Chennai,Net Banking,Merchant_68,Health
+a3caf42617ccedf6039e57dd81f7eb69,d53f754c9e1a13f691c61fb8bfdb4565,134.24,2023-09-05,Successful,AMB701,Ambattur,Chennai,Net Banking,Merchant_3,Clothing
+e9a1dccb1f7e3d8a69e4507951c18156,25865cd247a81044118ffe8482259e5c,988.05,2023-02-04,Failed,AMB172,Ambattur,Chennai,Net Banking,Merchant_81,Electronics
+69d6bf3e4ad76cd1a9eb86034d44fda9,5a7212c6010c9afd2252444fdfaa9a7f,558.08,2023-05-24,Failed,AMB865,Ambattur,Chennai,Net Banking,Merchant_86,Groceries
+8d39de4191a59ef3dd59aef457b6f518,3c99edb1637dc55c05e8419d8f34e558,442.71,2023-03-15,Successful,AMB642,Ambattur,Chennai,Net Banking,Merchant_36,Electronics
+f13b48b13df80e92d30b975d68e4fe04,3de93d12da41ef1fffaebf6a7b98b225,291.19,2023-07-08,Successful,AMB146,Ambattur,Chennai,Debit,Merchant_19,Health
+722bf6eb6023845a8718a95bb470fc28,2a35a229fe33d677bb7d226fa60b42c7,409.76,2023-09-29,Failed,AMB122,Ambattur,Chennai,Debit,Merchant_96,Electronics
+e3474da98bd0737d283aa14d8fc64472,422679f65f532d2c837f581347d1382b,534.23,2023-11-08,Successful,AMB400,Ambattur,Chennai,UPI,Merchant_46,Groceries
+3723b08c59925ff3bc417a2a996771cd,166ea8f63190eed9499149c25b619a26,417.58,2023-06-25,Successful,AMB351,Ambattur,Chennai,UPI,Merchant_28,Electronics
+c21edbdace8b6d3f30a18ffec37940d6,b5d89583e58eb850b45b73b61559bd26,336.74,2023-08-24,Successful,AMB128,Ambattur,Chennai,Credit,Merchant_2,Clothing
+e42afd4e0c337c02c1027bf6ae37d748,e89891f54d30343feef0aba475933472,244.78,2023-02-14,Failed,AMB727,Ambattur,Chennai,Debit,Merchant_86,Groceries
+0c0fa4bb69e78bd7075af0d2cef43bf8,3d03827a72a7bf91a724f529170c67ab,206.91,2023-10-26,Successful,AMB473,Ambattur,Chennai,Debit,Merchant_21,Groceries
+6d88bb68d855da23c3d340ada1ba8a22,0bd2ecfd63a962c21fe9485ec0f143c3,712.87,2023-11-02,Successful,AMB589,Ambattur,Chennai,Debit,Merchant_42,Groceries
+95897fd8f8fb6e1f6498d3d37e7cf191,073005edb512e38c104e8eece7ca687d,220.02,2023-11-23,Successful,AMB931,Ambattur,Chennai,UPI,Merchant_36,Health
+6470274d1ccc0bba84525c5bef6c6667,517dfd9260222e473b53112e85612c63,714.8,2023-10-12,Successful,AMB307,Ambattur,Chennai,Net Banking,Merchant_54,Groceries
+298ce74982e9475f0a2062d561983171,e15babaaa5882cb419a4c46548f5e2d7,402.8,2023-11-23,Failed,AMB660,Ambattur,Chennai,UPI,Merchant_81,Clothing
+7e13b379e89da3f2d07b369bcaca4b29,b1d85a17d760a423db0f2391fcd66eab,287.94,2023-06-25,Failed,AMB954,Ambattur,Chennai,Debit,Merchant_10,Health
+c0544770e18c86666277f846db43afd5,84609d5a8f51000126651276b3411816,681.84,2023-11-19,Failed,AMB993,Ambattur,Chennai,Credit,Merchant_89,Health
+6c7dbb30ec745c9c31d1559c77ca2bf5,2402d91e910e22976197674e539acda0,406.75,2023-03-18,Failed,AMB456,Ambattur,Chennai,Net Banking,Merchant_50,Clothing
+1d35c6c7f542894104db63acbf22ae14,867fedb52f553bb3b59bfc5780b5c338,469.58,2023-11-20,Successful,AMB908,Ambattur,Chennai,Debit,Merchant_34,Electronics
+9f05fb2320bcff200d71110c079d6bc1,db4148515177641b90460bf3afb744d4,859.55,2023-11-10,Successful,AMB685,Ambattur,Chennai,Net Banking,Merchant_62,Groceries
+20c235b45df0faee739150c4f1e77410,4e741796964376a53b6fe8497ef0e89b,684.5,2023-04-25,Successful,AMB944,Ambattur,Chennai,Net Banking,Merchant_11,Electronics
+dceae9b96a30cf79f73330d3758ba496,104d0479c03672ee09ae113e2b24492b,107.07,2023-03-24,Successful,AMB699,Ambattur,Chennai,Credit,Merchant_9,Health
+b8d8a70d0c0f029f7d686995d2569125,2b4c39978063820450e1a345e095d71a,575.53,2023-10-15,Failed,AMB868,Ambattur,Chennai,Debit,Merchant_24,Electronics
+eb4df842727e81983b37a42fba1d0b69,01a17571d4bb3642cc1847a801571984,518.95,2023-09-16,Successful,AMB857,Ambattur,Chennai,Credit,Merchant_72,Health
+9342c956ffe696d6468390361fd713d7,68f1e1844ca4ff92d312441ff20c5817,710.37,2023-06-05,Successful,AMB317,Ambattur,Chennai,Debit,Merchant_98,Health
+e8290b9fa851fb8697fe609e6b4e31ed,e107ecb300a83099ca3471adc2e12c9f,648.63,2023-04-23,Successful,AMB346,Ambattur,Chennai,Credit,Merchant_48,Clothing
+c510d0dbd225ec0d6fd55d7fa0f9478c,79dee0b903edfe53f93d95d991d9540d,565.88,2023-05-29,Successful,AMB147,Ambattur,Chennai,Credit,Merchant_37,Groceries
+e020bdb19f0389754088b8df2a19a385,b7c07e89ed3b5b33218047152289a0f4,149.87,2023-05-06,Failed,AMB362,Ambattur,Chennai,Net Banking,Merchant_65,Groceries
+2a774de596882cfdf0c937cf19357be5,7b7478048f3b9528b625f7a130c2730a,781.55,2023-06-05,Successful,AMB802,Ambattur,Chennai,Net Banking,Merchant_75,Groceries
+d362f53ca7719a9dba6b7bb526634af9,d2734d4dc4b1b0f20463486faa849cb3,902.09,2023-11-22,Failed,AMB458,Ambattur,Chennai,Credit,Merchant_50,Electronics
+bfc4c7e8b50ff682c0bea18d4e3182d0,a6ed6f6691fef006d4613bcc5e8515c1,143.65,2023-09-01,Failed,AMB493,Ambattur,Chennai,Net Banking,Merchant_43,Clothing
+cb105af04f6f32f010a23f9a8c742c89,7ffac37e8d1209716fd89005f986beb1,493.72,2023-04-22,Failed,AMB447,Ambattur,Chennai,Net Banking,Merchant_34,Health
+6d9fc1bae668adc65721748e2305ed20,26e9d61b99d3e17779b58fe28aaed9b5,860.73,2023-08-19,Successful,AMB550,Ambattur,Chennai,UPI,Merchant_86,Health
+1c3f12a28c593f569d1719c9058bfd8e,ee8a0565448f626c8fd9d6f68a4ed5d8,331.88,2023-07-13,Successful,AMB170,Ambattur,Chennai,Credit,Merchant_90,Electronics
+64f269de97be7059249fe42edd06df90,799326c7b125d8e24236ba6d87609002,235.16,2023-05-26,Failed,AMB292,Ambattur,Chennai,UPI,Merchant_43,Groceries
+d5e69c6d0422616153244ba5ac852ec7,e8a960101b0e7b3584fd16de300c9190,494.57,2023-11-02,Failed,AMB267,Ambattur,Chennai,Net Banking,Merchant_99,Groceries
+e0106b0247f6044678be2cd6b8bd1d34,a68c24da7fe633efb08bf319ef8320f5,875.87,2023-01-10,Successful,AMB811,Ambattur,Chennai,UPI,Merchant_11,Clothing
+bffc74609aab2e6dcd33aac2b0bd194c,38b531cead152f923561c619ca877d0d,589.27,2023-12-14,Failed,AMB260,Ambattur,Chennai,Debit,Merchant_43,Groceries
+f9470853693fe57c634b6e61b9ca2ad9,16f277941f23617a0706840d15f694a2,527.36,2023-05-06,Successful,AMB446,Ambattur,Chennai,UPI,Merchant_89,Groceries
+7b80b939edfd2440b7d64411b9594f5c,ed3db9f1d3564dc67e48672e75e3de45,968.08,2023-07-06,Failed,AMB929,Ambattur,Chennai,Credit,Merchant_38,Health
+1f2d34e70bdcd8a7b9a37465f6fb5503,b94407ce7afee05c7248be008425ab5c,747.48,2023-01-27,Successful,AMB158,Ambattur,Chennai,Credit,Merchant_19,Clothing
+c9660c92ea68d87a8c7e1bf48ae995d0,20497fbe76775070e98ac089d91e8456,111.25,2023-10-20,Successful,AMB618,Ambattur,Chennai,Net Banking,Merchant_91,Clothing
+0e67a5ad2a9a11a926cf2b78adb5855f,53603bb801ef794729af8d1302607286,935.12,2023-03-26,Failed,AMB237,Ambattur,Chennai,Credit,Merchant_63,Health
+291940619fbcdc65d40c7948ef70347d,9f3a4b98ffe5ce933b4d1f278f00b8cf,234.83,2023-06-13,Successful,AMB269,Ambattur,Chennai,UPI,Merchant_81,Clothing
+1d75d3cb859c8b5a5d7bc2ec5f585ed1,5734fbf24f21430bd705a41eee58d613,394.64,2023-01-29,Failed,AMB900,Ambattur,Chennai,Net Banking,Merchant_82,Electronics
+952f35d15ec66137c2ddcb5864798a53,30e9475495b94c9ad86ffd93ee189364,490.21,2023-12-30,Successful,AMB429,Ambattur,Chennai,UPI,Merchant_65,Health
+f2f7c741ac78302b74d61de35b8c634b,952eec7298612f02dc63701c47f391bc,80.91,2023-05-03,Failed,AMB234,Ambattur,Chennai,Credit,Merchant_68,Electronics
+11a1c5c626cf31a177185f3fb013f14c,1928589c97209dd18aebfdaa04895023,668.39,2023-04-27,Successful,AMB203,Ambattur,Chennai,Debit,Merchant_48,Electronics
+53c0cc472b905e21a9fadc17a2a9033c,ccdc0777f9d9f1583e81830bdc21d842,94.73,2023-01-27,Successful,AMB180,Ambattur,Chennai,UPI,Merchant_11,Groceries
+6e291c2fa4309a6af25f5c6db9a369ef,184a9e46e6acc4e6effd9580e09d5d41,952.13,2023-09-08,Failed,AMB479,Ambattur,Chennai,Debit,Merchant_44,Health
+eb18bd7254b613b1ac7b8f46329f0a7f,2e34878516aaee334717239d1d7689f2,248.04,2023-06-02,Failed,AMB858,Ambattur,Chennai,UPI,Merchant_42,Clothing
+f8a267d02283cf1cb3aa7988dedd2498,b7a81884b62ba238d6889e1250eda6be,311.97,2023-07-13,Failed,AMB478,Ambattur,Chennai,Net Banking,Merchant_74,Health
+5d114767ebe3908fab47dd13f400b305,791a1dc4d81821e9894f2d85a42261e6,982.18,2023-09-15,Failed,AMB502,Ambattur,Chennai,Debit,Merchant_4,Groceries
+19c612816d0cec7455b74c9a6bfdd34a,65cf115941dfdd0a5b7a4b1a95d63f82,985.36,2023-08-17,Successful,AMB615,Ambattur,Chennai,Debit,Merchant_43,Clothing
+b2db7b5bfeb8607f53b1c98392485338,ba14f94cce8c646c20117abcb276d551,145.23,2023-12-20,Failed,AMB566,Ambattur,Chennai,Net Banking,Merchant_92,Groceries
+8673e10e8d15b872fe1ec492e2d9fcbd,4410713edf45c169ae153c969c6228d6,670.31,2023-01-07,Failed,AMB564,Ambattur,Chennai,Credit,Merchant_92,Electronics
+65385d3e66efce66c2d6041266e6dea3,3bae88e2cf28d922392dc8f677cd4761,249.41,2023-07-30,Failed,AMB616,Ambattur,Chennai,Net Banking,Merchant_40,Groceries
+830f680d0e2b6ebb2b91cc511e3ce09d,7e626dc874029da5141743f511140455,973.8,2023-11-17,Failed,AMB432,Ambattur,Chennai,Credit,Merchant_48,Electronics
+aa16b20b33b12221c004b9aaa6dc75ca,7f0c53801bec3bfd2a51978decc66bb8,471.51,2023-10-26,Failed,AMB790,Ambattur,Chennai,Net Banking,Merchant_48,Health
+0779038351fb6abf123d8d5719833320,c75e8b7bd87f4c0c06c3009fcab088ac,297.05,2023-08-08,Successful,AMB131,Ambattur,Chennai,Net Banking,Merchant_22,Health
+09e57862826e7925f08414ba80f76567,4e3b147b5bd18f8d4af23108a88816e8,586.97,2023-12-03,Failed,AMB943,Ambattur,Chennai,Net Banking,Merchant_14,Groceries
+128e5ac76402d4b9412a19b7a5c1c34c,1aefa53af898d3282dd4035f6f789f77,583.99,2023-09-19,Failed,AMB323,Ambattur,Chennai,UPI,Merchant_40,Groceries
+e362087cf7a76065a56073ab39223835,6e856c5afea625ff9f7e8d0b2211bf38,827.97,2023-03-10,Failed,AMB567,Ambattur,Chennai,Net Banking,Merchant_44,Health
+9bd32884ea7efdd1978167a4963a0a31,20566f1fde55a0026bb09e16145319e2,744.99,2023-09-27,Failed,AMB663,Ambattur,Chennai,Net Banking,Merchant_44,Clothing
+e86192ede13e102bf36d195cc633ba12,8168629e4119ae076a9582dc60c38298,615.86,2023-03-13,Successful,AMB402,Ambattur,Chennai,Net Banking,Merchant_40,Groceries
+328d983d5a222ce6c40f4798e32e3d8f,4e1503f5f77e1d6735575c97aa856a9a,921.18,2023-11-24,Successful,AMB481,Ambattur,Chennai,Debit,Merchant_96,Groceries
+a2946446c0828ea8c5973c174930bd6b,64d4a1d091f2ad473db1678ef8b1b1c2,924.8,2023-12-28,Failed,AMB230,Ambattur,Chennai,Net Banking,Merchant_13,Groceries
+6f6c67209e40dc73f67c83fec0657b2e,bb58bceedd4485e7c6156e68ea585a08,317.89,2023-02-24,Failed,AMB797,Ambattur,Chennai,UPI,Merchant_16,Electronics
+c8e6bba1af52a8637a0d5960a2472321,f4773324b56b59170e98918a1988e4b0,461.39,2023-02-04,Successful,AMB758,Ambattur,Chennai,Debit,Merchant_29,Groceries
+ef314825fc3e0fde77dedcfb6a244302,4ad42d287ffff6961689002fe43135bb,39.39,2023-01-11,Failed,AMB637,Ambattur,Chennai,Net Banking,Merchant_84,Clothing
+efe63138f6f662a6a58239bef6fcb11b,0dda9331ccc7bc4c0a0fc9ae4c24b0b4,73.58,2023-10-15,Successful,AMB713,Ambattur,Chennai,Credit,Merchant_94,Health
+6e15472ec767ab357472d141175e9989,e9a8abba91a69a2e431cd7aebe4f5134,853.09,2023-12-19,Failed,AMB108,Ambattur,Chennai,Debit,Merchant_40,Clothing
+fc26d8335445b7bfc949f26708e48d53,731a026c382672ddb38bfd9a3374c3b7,947.99,2023-02-04,Failed,AMB483,Ambattur,Chennai,Net Banking,Merchant_53,Clothing
+5f7eec63de95c07762e8e5999f825ac1,4bfec77cbb99d96e1542ebc66277b607,235.95,2023-03-01,Successful,AMB500,Ambattur,Chennai,Debit,Merchant_90,Health
+91c5f77928bfc818ca938d994303e936,1c8fb83ee5805b7d549fd4625759794a,255.57,2023-12-27,Successful,AMB916,Ambattur,Chennai,Net Banking,Merchant_91,Electronics
+35f983d2fbff7c15f8f879e5cc88fd94,1b46956b18ff37f447a9bde07bb2a11f,657.69,2023-05-11,Successful,AMB881,Ambattur,Chennai,Net Banking,Merchant_23,Health
+a7fd13238121028992135c0d35faf27f,09a2b4bd603b6288e39a3e0325580519,803.09,2023-02-23,Failed,AMB552,Ambattur,Chennai,Debit,Merchant_86,Clothing
+39ec610c4eab037841a71df9c2deb58c,287aeed65307997dfc4ed6028cb7a3e5,423.41,2023-02-10,Failed,AMB786,Ambattur,Chennai,Net Banking,Merchant_11,Health
+c3fa1dd73c16c1bb999e7deba5a1298b,9ab9c3fbfb4443748559f0e1ca757b94,770.2,2023-05-28,Failed,AMB813,Ambattur,Chennai,UPI,Merchant_8,Groceries
+1afc07d1e01a864bf66194ee06c68229,25d78047b096a420a77df88e611a441f,617.52,2023-08-21,Successful,AMB556,Ambattur,Chennai,Debit,Merchant_24,Electronics
+dab33124d4a9a93d887eb1f32aa6f91a,ec96529b6fc851fc00bbf7cdb214f051,529.38,2023-03-22,Successful,AMB606,Ambattur,Chennai,UPI,Merchant_89,Electronics
+a34ccd616adb4ac6e3aea1faeb147f9a,4f9d07e816f7e430df4cbea2f88101f8,394.55,2023-10-26,Failed,AMB778,Ambattur,Chennai,UPI,Merchant_73,Electronics
+c5d52638b35a237d3649a4f3c22a55fd,4e89f4e3217ab4eeca6761b1aa8d6de3,838.05,2023-03-01,Successful,AMB250,Ambattur,Chennai,Debit,Merchant_59,Clothing
+cbf2906fb8878ddec15128d20d64a14c,9a8e3218c3921ecf13b5ff8cd9284c41,113.24,2023-11-29,Failed,AMB585,Ambattur,Chennai,Net Banking,Merchant_64,Electronics
+aa9b4fb36148eeefb029703d8684a30e,2d6066041956ad0e7b2a65b434ef5ca2,478.18,2023-10-04,Successful,AMB388,Ambattur,Chennai,Net Banking,Merchant_21,Health
+7b77665d2c6336f67df756438d767bb6,8c4698bc0cf18c5202a54bef269149aa,661.1,2023-04-21,Failed,AMB980,Ambattur,Chennai,Debit,Merchant_88,Electronics
+f99680291c42b61533bcdd15ef207fc8,51f89e6992f145335cd2bbba72284c6a,411.75,2023-04-26,Successful,AMB723,Ambattur,Chennai,Debit,Merchant_74,Electronics
+42e04e7caf1087082963c7b338c717a6,edb77ab704dc06638fd69ae3d718cd5c,911.34,2023-04-07,Successful,AMB411,Ambattur,Chennai,Credit,Merchant_55,Health
+c4206ef316c01c7edb55434aea0f3f66,fb0976398d3cd5282919354d3df035b9,335.35,2023-12-05,Failed,AMB559,Ambattur,Chennai,UPI,Merchant_42,Electronics
+e61c9fe72ec2cd7879325f2cbb7e7aaa,121ef1e752cde27e3cb90bc6138a2339,656.32,2023-08-21,Failed,AMB457,Ambattur,Chennai,Debit,Merchant_92,Groceries
+1805ce187101e97817c35060d88fd542,5b66695d75ded9ee4611c4485c684a47,251.93,2023-09-03,Failed,AMB618,Ambattur,Chennai,UPI,Merchant_87,Electronics
+74423af9721bcccc989a072f75125877,02dcd5942b6b84daa1349c450fe28bc3,345.34,2023-03-07,Successful,AMB667,Ambattur,Chennai,Debit,Merchant_66,Electronics
+87f781e735dddc2daf909ff44212129f,306bb6158d02da3da6e11c3bd2caeb12,649.29,2023-02-28,Successful,AMB174,Ambattur,Chennai,UPI,Merchant_51,Health
+d40bcc82baf3075e30694466cdf3aee7,6c48fb01bdc9f5505a2711e5fbf3c9e7,818.18,2023-06-22,Successful,AMB782,Ambattur,Chennai,Net Banking,Merchant_56,Electronics
+9a82cd08668f3195f32210b77d1266b1,9cfbf214f8ab34c4327e787813e92599,958.11,2023-05-25,Failed,AMB313,Ambattur,Chennai,Debit,Merchant_7,Clothing
+5ec28faf5394db911215c77675c8a1f4,c31590b2c86b2ae75ec16206a2145a6a,32.06,2023-08-11,Successful,AMB441,Ambattur,Chennai,Credit,Merchant_73,Clothing
+f504c3a110e57b720a8b2d892086873f,ba120324b6792a623ed418db93f32d7c,986.53,2023-09-30,Failed,AMB707,Ambattur,Chennai,Debit,Merchant_91,Groceries
+284d565bbf7ab7d9232ccd242ac4344b,b42a25c4d74c5e96bc849eab5badadb6,33.83,2023-02-02,Failed,AMB627,Ambattur,Chennai,UPI,Merchant_29,Clothing
+2ab15ce5b75522ebd7720c81908b45a7,b1cd951d0cad3b7c1b9a0c84ee702b9e,44.39,2023-03-29,Failed,AMB416,Ambattur,Chennai,Debit,Merchant_46,Clothing
+4c63a9d391b7054fffae99fafdf0f709,a3fa50c01feec2d85510ec70c821532c,522.08,2023-07-05,Failed,AMB988,Ambattur,Chennai,UPI,Merchant_98,Electronics
+ebecff01dfe6a6e345a7d72b3a6874e5,3bc3593db5d2af273ba815fe9def0148,806.82,2023-05-24,Successful,AMB700,Ambattur,Chennai,UPI,Merchant_26,Health
+117ccb39d9ab40ee95716def4d18e6eb,1fd020f98f9df1d3b1df1427b3ea278d,714.96,2023-04-18,Failed,AMB148,Ambattur,Chennai,Debit,Merchant_1,Clothing
+27cd068388a174be4f0551586db73dab,ffa4152f16a15fc53354d0fca41816ae,243.25,2023-06-20,Successful,AMB670,Ambattur,Chennai,UPI,Merchant_57,Clothing
+588a49c685995e699d3986d125baa468,23f1b2d50b51e540b7c3825847162321,173.61,2023-07-30,Failed,AMB993,Ambattur,Chennai,Credit,Merchant_94,Health
+bf22602569dc64660d3e93e7f8ec5973,272c24ea30f2d5e931bc1cafe8cf3355,475.51,2023-11-27,Successful,AMB213,Ambattur,Chennai,Net Banking,Merchant_41,Electronics
+a863ad13d49f1068e39cdfc76589d21c,b3eaae1b082a69235e0cd46e03fa16b8,322.13,2023-06-23,Successful,AMB240,Ambattur,Chennai,Net Banking,Merchant_4,Groceries
+8331a8b93ff91d930bbbc2eeb32b4e33,765edeb2b97583f6dd82b830d776b940,85.99,2023-11-09,Failed,AMB148,Ambattur,Chennai,UPI,Merchant_19,Electronics
+ce22e7ac71793a4d7724618514a27c7e,d043ec90e75c238aa8e4cb432cb2a97e,955.48,2023-04-25,Failed,AMB739,Ambattur,Chennai,Net Banking,Merchant_11,Clothing
+54ae83905ecff0d0b9ee33c249f5dc00,2a0a7c6722cc767f251f524c3c8dd4ae,75.49,2023-04-16,Failed,AMB269,Ambattur,Chennai,Debit,Merchant_15,Groceries
+7d5a153197fddb54246965ef2a88cab8,b7c404801f276d787d790d468098b650,645.68,2023-10-01,Failed,AMB718,Ambattur,Chennai,Credit,Merchant_87,Electronics
+a0e559827fff061836f542dfc7af5bcd,6eb3b5e20122219068f10e1034b230db,35.35,2023-06-11,Successful,AMB222,Ambattur,Chennai,Credit,Merchant_45,Health
+0b0191c7928716a52ccd657f829de54d,cf428bb177c9446b21e6e2edb997b512,736.39,2023-04-27,Successful,AMB687,Ambattur,Chennai,UPI,Merchant_9,Groceries
+3b0c3dde4675c6a87c8988911cca361a,1964f290cbc560a02a6f16dabd5cea28,460.82,2023-05-31,Failed,AMB918,Ambattur,Chennai,UPI,Merchant_27,Health
+7d4d55ac1fa1103399bb96b3bf72c58e,3653c73eed17df0fc7bf5095c8e587c5,415.91,2023-12-26,Failed,AMB311,Ambattur,Chennai,UPI,Merchant_80,Clothing
+d6da83e35dfabf2760ee07e6515be732,9dfec6a476a73ae3b239fa5dbe9c11ed,836.93,2023-05-30,Failed,AMB392,Ambattur,Chennai,UPI,Merchant_13,Health
+535bf105e69d2f3356ddfe7d76edd2ce,7b2707d289acabbacf6f73c6e90afc65,313.67,2023-06-19,Failed,AMB247,Ambattur,Chennai,UPI,Merchant_36,Electronics
+2d622dbdbfa211bbe7e95131fad9a6b5,64608ebe5d7c15759b21785b22e372e9,955.7,2023-12-11,Failed,AMB236,Ambattur,Chennai,Credit,Merchant_95,Health
+6d10f4b98cb15b9ad9845a1be55d453f,7d328138a277c071a2fc4c4c2166b347,810.94,2023-02-23,Successful,AMB623,Ambattur,Chennai,Net Banking,Merchant_38,Groceries
+b27bad860d73e988f12be34cf70d4dd3,2be441aac756d0d132d347d618420709,662.6,2023-10-05,Successful,AMB409,Ambattur,Chennai,UPI,Merchant_53,Clothing
+7f17d1ba02ebbe028ee97bfa47895f69,b0f43c68d25d29d2de3b94013dfe61bc,292.98,2023-11-20,Failed,AMB864,Ambattur,Chennai,Credit,Merchant_29,Clothing
+24930a6803cd88b21d63d6881818e596,4534e4f908b24ade65566b758738400d,850.61,2023-07-10,Successful,AMB947,Ambattur,Chennai,Debit,Merchant_37,Groceries
+2c86c021e350b47590764c754b1e4647,7709503982c1f89be89a1cc265f2d26d,176.81,2023-12-22,Successful,AMB612,Ambattur,Chennai,Credit,Merchant_99,Clothing
+ba6bba1e1543b1d9bebef508ed761887,9717e8c0584e49a6b4bd71cd1e4380b6,561.66,2023-10-27,Failed,AMB120,Ambattur,Chennai,Credit,Merchant_25,Groceries
+506bf1f13019636899dd44d79de173ac,84461479481157bc3e787e6ece18db7d,969.59,2023-07-09,Failed,AMB265,Ambattur,Chennai,UPI,Merchant_39,Clothing
+94e3d817fa0a742c451b9afec581345e,22348ffcb694d76633e5b54b06c72787,338.55,2023-03-12,Failed,AMB136,Ambattur,Chennai,Net Banking,Merchant_35,Clothing
+93416afb99baea17d356ae6938c4db3c,e3e745bf5ee766cfcb1c2d572b0d880c,70.14,2023-09-27,Failed,AMB967,Ambattur,Chennai,UPI,Merchant_30,Health
+9e2b4f26013062a10d2a27c6f65466c2,3645029f61e21d2c95ca5fb1454d09fe,354.55,2023-05-13,Successful,AMB762,Ambattur,Chennai,Debit,Merchant_89,Groceries
+fe6ea1d032d9e779d32a87f219bd9aec,ef7a1db2e782a79387cdb0aa10e46233,577.47,2023-09-03,Failed,AMB963,Ambattur,Chennai,Credit,Merchant_71,Electronics
+043735deb72fd21f02a3b7d8484278b3,38949f80acf6702a32adc94bd90d9d20,542.18,2023-08-05,Successful,AMB688,Ambattur,Chennai,Net Banking,Merchant_65,Health
+9d611068fd2da117bcceb84ac2913f67,25a6bbd18753db70c8227dffcdb33b05,267.11,2023-08-16,Failed,AMB672,Ambattur,Chennai,UPI,Merchant_37,Clothing
+94a559f6b7cdfb3f5b016f41aa914633,ceac799b52fb5d8810e7f8447e4cbc87,24.08,2023-03-30,Successful,AMB625,Ambattur,Chennai,Credit,Merchant_32,Groceries
+db26044847d22e0c4f55b0154e3f1bc4,43c2445ac901d634fe58093063ed530a,382.58,2023-10-25,Failed,AMB814,Ambattur,Chennai,UPI,Merchant_63,Electronics
+a76d026789f247156d596729d919b034,354b9e8828906cf4afdfbd2e5f4e316c,306.57,2023-07-12,Failed,AMB877,Ambattur,Chennai,Net Banking,Merchant_20,Health
+1601fcde0a0864b9c997e0f14819216a,9a26c04071f3bcbb515e8e905cab9225,823.22,2023-10-06,Successful,AMB109,Ambattur,Chennai,UPI,Merchant_67,Clothing
+fc7159d0b4542094a9b0f4bb05f65f66,c0d06c7cdfd73b7bb1b72174380beea2,53.1,2023-08-04,Failed,AMB627,Ambattur,Chennai,Net Banking,Merchant_88,Health
+007330661f3da188bc9f423ebcaa9f4b,a954b6e381e26137625819b1f895acf3,646.67,2023-10-22,Successful,AMB690,Ambattur,Chennai,Net Banking,Merchant_75,Clothing
+bbf7e7ecc2c1ea3df9b3ddcdf3989f37,e829d99a6872265cc629529c02db3b12,290.81,2023-06-04,Successful,AMB625,Ambattur,Chennai,Net Banking,Merchant_1,Electronics
+38853846215cbc05a43e8ec5d13e03e3,3753495f373e4a96ba81259503ff93da,664.12,2023-02-07,Successful,AMB457,Ambattur,Chennai,UPI,Merchant_31,Health
+5e7ad44bbcf0098aa2ff385d675c5d3f,00711201a7bcb90d19543d9792ab3f7d,302.25,2023-06-13,Failed,AMB763,Ambattur,Chennai,Credit,Merchant_67,Electronics
+ca9fb4697794d6d25cc5ac885a469661,5f422282604d58b5a945830983591672,957.53,2023-11-16,Failed,AMB568,Ambattur,Chennai,UPI,Merchant_51,Electronics
+ea29c8b0badf43ed067fdb6b24be8e01,df30814a73a1b8dc458116f99d281b27,506.01,2023-07-11,Failed,AMB418,Ambattur,Chennai,Net Banking,Merchant_55,Health
+9afd9b9568b4f9784c71697ad893632c,8974c1a5109ebeefa00b8fd0578de8ef,561.57,2023-03-30,Successful,AMB951,Ambattur,Chennai,Credit,Merchant_2,Health
+c474393b704e8f83f63901ebd3734a4f,7e62f9a833c4496b9b203d7b4acc899f,138.71,2023-08-07,Successful,AMB404,Ambattur,Chennai,Net Banking,Merchant_1,Groceries
+62c0fe70ca0c5e65cdcd6c5dee9ac337,1219f1cc9d30f476348b1fb3f0567888,35.96,2023-12-30,Failed,AMB855,Ambattur,Chennai,UPI,Merchant_10,Groceries
+7d2ac44d8995b625d7d7430b63deb024,f3db77554276a75530dbf83ff438f66f,181.64,2023-03-06,Failed,AMB481,Ambattur,Chennai,Net Banking,Merchant_6,Electronics
+067ac61c1f33bcebff279def78d03782,eb26d27baf379aaf9f3d665de91a2555,827.75,2023-09-29,Successful,AMB588,Ambattur,Chennai,UPI,Merchant_48,Clothing
+ac46d2999339562f94b884e5b1b4c0bc,36a810e62fd7499f580c3db52862fa79,882.75,2023-02-07,Failed,AMB915,Ambattur,Chennai,Debit,Merchant_49,Health
+93aaa2239043efff70c7f73001aea213,113eca8b2ee32884dee63a7428bd5d33,650.52,2023-01-11,Failed,AMB931,Ambattur,Chennai,Debit,Merchant_12,Clothing
+78f992260a5b08d790aa7c69ac27e522,336bfac0b85c0c88f53f58be8f755036,147.1,2023-01-30,Successful,AMB951,Ambattur,Chennai,Net Banking,Merchant_42,Clothing
+c4b56659c780b377a982323de376fe3b,f1c84c057a0ff6772086df4791ff88bf,696.52,2023-06-07,Failed,AMB362,Ambattur,Chennai,Debit,Merchant_23,Groceries
+bc86c83b2f3f24a3320d0f538dbe66ed,bb34f46e7bd7db930bc42b360ec34010,977.8,2023-03-18,Failed,AMB591,Ambattur,Chennai,Net Banking,Merchant_29,Groceries
+d3614e9aa784449283675f6071c16db2,c90a4d43a1aa0d6064168cc96538e1ff,784.98,2023-11-12,Failed,AMB209,Ambattur,Chennai,Credit,Merchant_71,Groceries
+00eb96475a96216523829cd8cf52e887,7e6d9284888648684704664cda295099,334.53,2023-01-26,Failed,AMB361,Ambattur,Chennai,Credit,Merchant_22,Electronics
+780f289756bc3b65f9c54378c8a34c62,0668f5c76bec94a4fe05698ccad038c5,836.44,2023-10-21,Failed,AMB504,Ambattur,Chennai,UPI,Merchant_53,Clothing
+65dd1920c3f3368272f2aedfdfccf8c9,df7578a8d2e51eba582c2a49123d83ee,216.24,2023-08-27,Successful,AMB326,Ambattur,Chennai,UPI,Merchant_67,Groceries
+b96cd781f28a5a4fb5a29652c5822888,fe3ad9fd46252e9dc79b7aa0c96f5108,721.6,2023-05-14,Failed,AMB920,Ambattur,Chennai,Net Banking,Merchant_8,Electronics
+782f296a6d1d1ae0962a04440c6e7992,2db6eed35a74ff77db6c00321b732d01,614.9,2023-05-10,Failed,AMB373,Ambattur,Chennai,Debit,Merchant_76,Electronics
+f6c5d35965784883272973af703d0dbd,f9689a6ad17e719df4c301b29317eac5,259.9,2023-12-17,Successful,AMB677,Ambattur,Chennai,Credit,Merchant_72,Clothing
+7ad7a8d32721836c127a4fbf1d16d99c,b43b4a93c901d8de1882f67dd43ace3c,272.41,2023-08-12,Failed,AMB786,Ambattur,Chennai,Debit,Merchant_87,Groceries
+0fb4aa650881b3f7e32434c41c5f97d1,328f413f9b57ff6d1015f37a8f046aca,823.52,2023-11-30,Failed,AMB858,Ambattur,Chennai,UPI,Merchant_35,Groceries
+a9b4ec934981f12ccac4a8689048a466,9b558f5e58032310d182b0c15f7e2bbd,150.71,2023-07-04,Successful,AMB243,Ambattur,Chennai,Credit,Merchant_99,Electronics
+f5a832da8d72d65f6ef1c8570cd1e176,9c37e69cefa26f1b5b27d4366eb695f3,134.88,2023-10-08,Failed,AMB958,Ambattur,Chennai,Net Banking,Merchant_40,Health
+12ca97f0bf92e1ae51b47fdcc43c4e08,170baef92f6a1b51845a3ae5ae0ecf30,673.55,2023-07-08,Failed,AMB546,Ambattur,Chennai,Debit,Merchant_26,Electronics
+23dd1eb76820eab1a184c6246ea38207,d729b0a3480ac430acd76376f570cd36,834.95,2023-06-11,Successful,AMB309,Ambattur,Chennai,UPI,Merchant_12,Clothing
+c0f58f334f7e006b5994408693ff7d36,ec373b2487d287ad1bdaac2739f962a7,25.39,2023-08-03,Successful,AMB471,Ambattur,Chennai,Debit,Merchant_68,Groceries
+22a856314997df24280d34d107f8d06f,26ff06a2c976388d2e915d8b63fc3336,20.68,2023-05-23,Successful,AMB181,Ambattur,Chennai,UPI,Merchant_37,Groceries
+6b21b2dba096e7e4f17c5bea64bb6fc2,26a5f760deecb4cd8b0ce04025282d7d,604.09,2023-09-13,Failed,AMB990,Ambattur,Chennai,Net Banking,Merchant_24,Groceries
+48965d2bf5ad7e65b9926a5d925d9116,70e7d60e0123cefe6cc8fa3f6fa55bc6,222.6,2023-07-25,Failed,AMB991,Ambattur,Chennai,Credit,Merchant_80,Electronics
+9f1c3c86d18643912917b5262b3a3aab,a64c8a97da855fdcd6337ec15c154930,801.85,2023-01-23,Failed,AMB528,Ambattur,Chennai,UPI,Merchant_9,Electronics
+3f9e8f8ecde6419ee6f7ff143f7b069d,a4e221c1b43d1f42e5a2d7f23daae303,788.45,2023-08-13,Failed,AMB947,Ambattur,Chennai,Credit,Merchant_90,Groceries
+4d967b5ca125ccd9e29ac87679d1c665,ed0251e097fd356ab49f616036f47c55,800.75,2023-03-03,Failed,AMB900,Ambattur,Chennai,Net Banking,Merchant_51,Clothing
+2448ba58750500b8a821fcf4bae52dde,4762910ffb1f61fc077c3ea22b6b40a4,357.61,2023-11-25,Successful,AMB547,Ambattur,Chennai,UPI,Merchant_28,Groceries
+ce1ca5f04c7034844b44765c3b72b3df,9a35457d818fda3db9ac621da9babf2c,383.49,2023-07-18,Failed,AMB220,Ambattur,Chennai,UPI,Merchant_12,Groceries
+df47ffe6fe7e487872413c1bc6adc3e2,9f74f800dd992dd7f8f95366f646a591,288.27,2023-11-08,Successful,AMB841,Ambattur,Chennai,UPI,Merchant_72,Clothing
+c1a5b420b0836966633952e2abafa52c,74df8cf689a626e31d10c17afdf757bf,848.62,2023-10-03,Successful,AMB463,Ambattur,Chennai,UPI,Merchant_9,Electronics
+5a2dd16b23908db071849be944a7721b,83e44ba914ba6cb8882e0f453cd14e02,611.13,2023-10-12,Successful,AMB597,Ambattur,Chennai,Net Banking,Merchant_4,Electronics
+8dad5a045654de6a1edc1f61da95547f,21c2e1f232deb444985eac7ea2dcbdad,841.06,2023-05-22,Successful,AMB784,Ambattur,Chennai,Net Banking,Merchant_33,Clothing
+e2d21fcfdbdc1e331da110ded298a47f,8a9ce0a3cdce3fefc326d8663b746eda,919.29,2023-05-13,Successful,AMB212,Ambattur,Chennai,UPI,Merchant_62,Clothing
+4f20bf5cd8007767240130067301bc66,839a7cc291182372e710e1dbab7cb9fb,357.18,2023-02-22,Failed,AMB731,Ambattur,Chennai,Net Banking,Merchant_31,Health
+ebe035d26ec69bd775f4fae2a8893326,b2cc482999449f466714a290b03328f0,984.69,2023-05-17,Successful,AMB242,Ambattur,Chennai,Debit,Merchant_76,Clothing
+a2c0482d9de46f4b0620c80b57bca3b4,93054caf55e64cb679b35bdbc6b568f5,396.08,2023-06-20,Failed,AMB688,Ambattur,Chennai,Net Banking,Merchant_10,Groceries
+75c641f90b4efea1e531ca55d0662f2a,5de57fc9db297dd69010ee2c313edda3,559.27,2023-02-27,Failed,AMB154,Ambattur,Chennai,Debit,Merchant_11,Health
+2da2b1f8c8dac7791080c535182f3e1e,b2a6d74ea101ed85ea016f161e1b2545,736.52,2023-04-28,Failed,AMB921,Ambattur,Chennai,Debit,Merchant_41,Electronics
+1f28646d247ee46c34e8d70d15266a02,43686d09d645c0a621980f77b1168b85,628.83,2023-06-21,Failed,AMB457,Ambattur,Chennai,Credit,Merchant_82,Clothing
+de166f893e449b611e225c93fcccef6b,1700e491f8757b31301727c005144064,327.59,2023-03-26,Successful,AMB721,Ambattur,Chennai,Credit,Merchant_76,Health
+9e926e86e88a1f64d532dc1c21ad684b,50c6e28150a2a8e583567cbd305856d9,504.56,2023-08-20,Failed,AMB780,Ambattur,Chennai,Net Banking,Merchant_20,Clothing
+f4449c648e24307b5c53196bfe4c8412,9d47229025d954b8a355cf1ad2ac7a49,599.84,2023-11-30,Failed,AMB655,Ambattur,Chennai,Credit,Merchant_70,Groceries
+251280b2d7d6a1f93197a1e3c1953d14,eb3b90f6ba61080e9084b77a9cb685f7,656.55,2023-11-09,Successful,AMB613,Ambattur,Chennai,Debit,Merchant_14,Electronics
+c2c22e2a86c1e6fce30a97b3a33f08a4,cf8a5a13070984e2e847a6b5e6425b61,248.34,2023-06-14,Failed,AMB774,Ambattur,Chennai,Debit,Merchant_59,Health
+5254c08044f207629f6d3badc9fec52a,9ad40ebe01c116a2695a1612f39a68ee,297.27,2023-01-26,Successful,AMB139,Ambattur,Chennai,Net Banking,Merchant_96,Groceries
+d45e649e697708c44db347a8d17a9837,becdf6e602f693c6840a1f247256e048,800.76,2023-04-18,Failed,AMB566,Ambattur,Chennai,Credit,Merchant_57,Clothing
+d4723af393673590f2bb0c2534b7e777,86e73fb289d1b762c9cbbc803883757f,936.73,2023-07-01,Failed,AMB498,Ambattur,Chennai,UPI,Merchant_37,Electronics
+978b1aea1bbff8e1134da26bc69c0799,f4cb4a8a0facadceaec9cdabfa4e2588,458.25,2023-11-25,Successful,AMB928,Ambattur,Chennai,Credit,Merchant_63,Groceries
+f9f4cfd1222a61a01073e61f9202455b,10b2277d0dde1f165e56b43096e7140d,187.35,2023-09-17,Successful,AMB242,Ambattur,Chennai,Credit,Merchant_81,Groceries
+c728a89a5cd04408d2d41bca760224b4,c8f16e294f49e4059114570ef3b8c7f1,976.6,2023-06-30,Successful,AMB590,Ambattur,Chennai,Debit,Merchant_91,Groceries
+32bc06c98d8d11e78bf690bf8ff5475f,920c79065000934e96ce0bffd343b7ad,964.23,2023-05-26,Failed,AMB822,Ambattur,Chennai,Credit,Merchant_48,Groceries
+c43374a3b7bc6a0cd6ffdc0ef35720fd,5841388a7d0a8c73f5af2890132ed0d4,639.94,2023-09-28,Successful,AMB978,Ambattur,Chennai,Credit,Merchant_95,Health
+867e7c2788eaa54c57b478022d5ee7b3,5bb80b9c5a42daa5e762150fec357a06,255.44,2023-10-01,Failed,AMB149,Ambattur,Chennai,Net Banking,Merchant_93,Health
+1a507afee2284f5e2279f858b5a629c5,6ae7129c8cc24a829bf8ad8c83d154db,271.41,2023-04-29,Failed,AMB555,Ambattur,Chennai,Debit,Merchant_53,Electronics
+a0cb650dc9842fbea4c464ee351ce36a,9b21e3a3fa587864d937aceb7632d48f,464.53,2023-02-17,Failed,AMB430,Ambattur,Chennai,Debit,Merchant_22,Health
+a2c52ea3cb18e9672f55c81ebc4686a2,aab82747d38259b7f55af25e5720d90a,727.9,2023-11-03,Successful,AMB825,Ambattur,Chennai,Debit,Merchant_89,Electronics
+a0081eaf6b49c9ed2f958f7bc65a3fb8,72063831cb201b2b1e7324dc776d696f,345.78,2023-10-18,Successful,AMB320,Ambattur,Chennai,Credit,Merchant_25,Health
+1f78dfe8073da574118b9f247c1f5d48,92517f3cd984566f51b45cae007cfa30,516.02,2023-08-05,Failed,AMB719,Ambattur,Chennai,UPI,Merchant_42,Clothing
+f34fb7be28032c2f900df2f9221bb50f,99f543c346be075ed3f735efd2a3cdf2,338.09,2023-06-24,Successful,AMB605,Ambattur,Chennai,Credit,Merchant_7,Groceries
+e03f905c41c379067de347dcef457214,ac29ec202039a9978f9e592ce605f9fd,831.68,2023-08-17,Failed,AMB990,Ambattur,Chennai,Credit,Merchant_59,Clothing
+14b0afc38d1081a4bc63525d4ad9e11c,ba02ef3d67b2324ac7ed27e08691bad9,110.57,2023-02-20,Successful,AMB301,Ambattur,Chennai,Credit,Merchant_35,Clothing
+f4e95ab9bf08cc48154034fb5458fb83,22948c851df98f8b7d431b6f76c9390d,806.64,2023-12-04,Successful,AMB793,Ambattur,Chennai,Credit,Merchant_5,Clothing
+839684b6fbb6026d5b5cd55124cf32c2,efb66e55854c89c3788ff548ffc7e79a,254.29,2023-07-03,Failed,AMB773,Ambattur,Chennai,Net Banking,Merchant_74,Groceries
+f57953519e7c73e342948b78e33a5cc5,f3284ad3ec2066a16a819be49d070474,253.11,2023-12-13,Failed,AMB488,Ambattur,Chennai,Debit,Merchant_89,Groceries
+dddd5e160ee52e2019991738db474661,403068dc98706e910e2c41f390e68339,710.71,2023-04-20,Successful,AMB275,Ambattur,Chennai,UPI,Merchant_23,Clothing
+b38fd194eb6e9661ae2c61b5294bd38b,34a3a372d977c6d557de3a8f865973fc,683.46,2023-01-20,Failed,AMB214,Ambattur,Chennai,UPI,Merchant_77,Health
+87f83fc516bdf518a60a2ee35e2f62ad,485ae7be9565a5a95a6a02b2bc9f31fa,918.34,2023-05-21,Failed,AMB293,Ambattur,Chennai,Debit,Merchant_29,Health
+a96e9c5c1078164b8a7d9b8a8d2b2e33,7d89ebc1198e88fa1564e8a0ffee5b85,96.31,2023-01-07,Failed,AMB565,Ambattur,Chennai,Credit,Merchant_55,Clothing
+dfe78891e5c0d0374ed569149e5fb6b2,57af7fec0c07f09b0738d6d301d2ff0d,640.58,2023-06-28,Failed,AMB808,Ambattur,Chennai,UPI,Merchant_40,Groceries
+af56ee6c598e8aadea4043a4f83ea48d,10716310c1b684118af6c18971e80cec,553.83,2023-07-25,Failed,AMB619,Ambattur,Chennai,Net Banking,Merchant_34,Clothing
+23aeb0de06d6c23b6232af16cafbaaa8,9be4d0495eebbca8ad3e60739cc5b147,320.56,2023-06-21,Failed,AMB906,Ambattur,Chennai,Credit,Merchant_45,Health
+5076945b4140a6d1547d2837f0be3a4a,c749e93173e52d15dd5c58f725367c8d,185.99,2023-12-22,Successful,AMB774,Ambattur,Chennai,Net Banking,Merchant_79,Groceries
+3a28f5db6d7fbcffc5f1e5a0712f672d,38dbe49d2c510159ee542b553af10ca1,942.74,2023-08-18,Successful,AMB678,Ambattur,Chennai,Credit,Merchant_28,Electronics
+3280e0f0914d330ce59f27065d0e2974,932e7d4514cefaf1192aa3faa87dc7f8,156.39,2023-07-21,Failed,AMB452,Ambattur,Chennai,Net Banking,Merchant_80,Health
+66acf8cc3117513596fb8fe4def3931c,12f6dc5e2b5be87b0f9a59a9747fc238,702.76,2023-02-20,Successful,AMB729,Ambattur,Chennai,Net Banking,Merchant_32,Health
+a3935b94ed4c248a3e6bf5411f46ea18,c8701c6f11cffd553ca349ea1425745b,982.18,2023-06-22,Successful,AMB255,Ambattur,Chennai,Net Banking,Merchant_79,Electronics
+1bf212d33ac1a49c9c35d02af94a1043,b41927a8c52dad8996d102c2343e1a2c,363.83,2023-10-19,Failed,AMB356,Ambattur,Chennai,Credit,Merchant_50,Groceries
+25b889c228177135666ccf54e6ae7d61,42cbed280409ea23869a9af2c9214522,729.55,2023-06-01,Failed,AMB800,Ambattur,Chennai,Credit,Merchant_49,Health
+067dbbc228b79696b5338924d739453d,85fecce96869d63e552546eddb827b7b,213.01,2023-05-09,Successful,AMB355,Ambattur,Chennai,Credit,Merchant_89,Groceries
+415d25457634089810826ce0b178b868,4fa2afbbec1efca6e48a11526c5d2279,525.46,2023-09-28,Failed,AMB577,Ambattur,Chennai,Net Banking,Merchant_5,Groceries
+785639f22bfbd5dcf9661c18647dc470,441cfe8fb4d3a336fd1c19b8dddd9f14,767.66,2023-01-21,Failed,AMB379,Ambattur,Chennai,Debit,Merchant_30,Groceries
+c8e1690a853fe47c8b293f67fe8e6246,b16719cdefe7de27382ec23a6c01edbd,470.3,2023-11-24,Failed,AMB629,Ambattur,Chennai,Net Banking,Merchant_3,Health
+c70b556fcc40b7966744b7348bb7c6d3,4fbb05ad738d5b580b3def51e05299a3,285.21,2023-12-29,Failed,AMB350,Ambattur,Chennai,Debit,Merchant_83,Health
+7e9deb8a6c8313904818ce7abd7ba43d,c2b82dade5b57fee232094607d0652a0,930.48,2023-01-08,Failed,AMB449,Ambattur,Chennai,Debit,Merchant_91,Electronics
+e71ac1c314d8ef60153338be6f1c4081,8b209711f03138c182369283fe9dfbd5,76.57,2023-11-21,Failed,AMB807,Ambattur,Chennai,Net Banking,Merchant_19,Electronics
+c44d739ae2e903cf54c89c3560738c40,4c52e00a44a0e199aa0a513daa5553d2,284.52,2023-05-30,Failed,AMB394,Ambattur,Chennai,Debit,Merchant_14,Clothing
+ba6b5d2c3af1015988734e07108b3cd4,0b43088f12fffaf72f10977a699ec0a9,749.52,2023-10-03,Failed,AMB740,Ambattur,Chennai,UPI,Merchant_4,Groceries
+ea72c4ca98f5158d8ceca7176dccb68a,cd7876c923c252183862e768b98af51f,794.49,2023-06-11,Failed,AMB495,Ambattur,Chennai,Net Banking,Merchant_30,Groceries
+14003eb50ba39d99f2909f8ba5d15491,d190c700af9a1535f5afbd5c33dda09b,98.96,2023-05-05,Failed,AMB799,Ambattur,Chennai,Net Banking,Merchant_93,Electronics
+b78daef07735ac679e6c2ade435e4fe9,ff4bdc75e1633b63696641a8765b35a0,186.73,2023-05-20,Failed,AMB820,Ambattur,Chennai,Net Banking,Merchant_33,Electronics
+6c05c4b03dac07f30e7f67845483a296,c640420f5e434e2cae7348d88f798033,796.83,2023-07-17,Successful,AMB400,Ambattur,Chennai,Net Banking,Merchant_41,Groceries
+72913cb857a72d06c0a9a6f8e9154264,e630c7b2f7f82968085bfa99ed8e47f6,197.06,2023-05-19,Successful,AMB663,Ambattur,Chennai,UPI,Merchant_3,Health
+fe5975061eb93bacb4453d75b907bc99,7574c44417195f555df7db6b3a163b9b,535.87,2023-12-21,Successful,AMB544,Ambattur,Chennai,Net Banking,Merchant_88,Electronics
+8cb71a009ce6239bc58d08aa09373f94,efb7c29e26a365a5287f91f1378b9534,260.09,2023-03-13,Failed,AMB227,Ambattur,Chennai,Net Banking,Merchant_65,Clothing
+eef8241f0c62678c0f72acca6d92bfe6,cf2c3dc962a687ff803c44e48167ac3a,370.33,2023-09-22,Failed,AMB329,Ambattur,Chennai,Net Banking,Merchant_67,Health
+ef7f42edfcb49f3e1adb4f664a25ac3c,4d17e70b40fbfdbc22019c1f881102e9,559.29,2023-05-02,Successful,AMB913,Ambattur,Chennai,UPI,Merchant_85,Clothing
+95b8d07a3aa8fcabdb8f0621f93754d2,922fc59a7486ec99a3a96e38b658d2e1,589.87,2023-09-05,Successful,AMB511,Ambattur,Chennai,Net Banking,Merchant_12,Health
+fce225bdebc07f09b77ff64a083b8c94,f09175ab2c7930534c7aa23b2dc453c1,205.87,2023-12-03,Successful,AMB569,Ambattur,Chennai,Credit,Merchant_6,Electronics
+aecbbb32484f8b74416c11e3d10753ee,0b884d17b90ebfaf8e422a423228529a,598.59,2023-07-08,Failed,AMB664,Ambattur,Chennai,Debit,Merchant_9,Electronics
+20a9797d51005fdcb712be7da8338891,500c5c7684dd6adf755ec42c7aa6175b,674.77,2023-02-25,Failed,AMB706,Ambattur,Chennai,UPI,Merchant_60,Electronics
+ad2cef184154a0c0c8ddadefafe27a14,347b162741ec24535c061766b8089b04,446.54,2023-09-18,Successful,AMB261,Ambattur,Chennai,Net Banking,Merchant_95,Clothing
+3b45fd0fa7f2d35bc968da1d9e62c7d0,59786012c7f03ab94db74f600df5382b,524.14,2023-09-24,Successful,AMB830,Ambattur,Chennai,Credit,Merchant_22,Clothing
+ac551696a02979df20e4e9bed4d3f31e,7d97eb7fd0c5d47c4f152c2a01a04a32,961.09,2023-01-25,Failed,AMB311,Ambattur,Chennai,Net Banking,Merchant_73,Health
+43040be5fad7f1fb76cf4a0cb2d17181,41353cbfea28b4d02307bc2a8009dd15,615.81,2023-05-29,Failed,AMB713,Ambattur,Chennai,Debit,Merchant_57,Clothing
+38119183e7a6cce447777424937d7d72,4e1a48400d282ecc78b08381daa7cb96,666.19,2023-02-13,Successful,AMB828,Ambattur,Chennai,Net Banking,Merchant_71,Electronics
+d89cd52f24efffd078c65c5ce893a404,88defcf2aad2080966723be52eaddce9,168.44,2023-03-09,Failed,AMB818,Ambattur,Chennai,Net Banking,Merchant_95,Health
+6a4113a7be605e09a2bb0a2aeb37979e,c337c18ee349dcda7ff828f61a3603a3,352.93,2023-08-24,Successful,AMB357,Ambattur,Chennai,Credit,Merchant_8,Health
+e715299d5ecb1235bad5e06d2319d373,f550c9faa89476553259813485456255,585.51,2023-03-21,Failed,AMB897,Ambattur,Chennai,Credit,Merchant_2,Clothing
+08c05000b3c7a88f57c75d0874467e9e,6848c29b16aefda09589ceddd3bc2fb3,919.35,2023-09-02,Failed,AMB771,Ambattur,Chennai,Debit,Merchant_44,Health
+604bcb5f0da78cc352d2b82ebd50b689,abb28c9b0995ff33e76512e56f3d29f1,485.46,2023-10-02,Successful,AMB665,Ambattur,Chennai,UPI,Merchant_43,Clothing
+c1adff8bb2b09a027acd3753cc2e0d27,595e2da2a00a5c1f30124e72f95b9e6a,424.63,2023-06-13,Successful,AMB205,Ambattur,Chennai,Credit,Merchant_73,Health
+47e6abdac8a2dbe9a7bf88c58ca34a06,af2c29a68ba72249c5420e53f25b66e9,92.05,2023-11-23,Successful,AMB103,Ambattur,Chennai,UPI,Merchant_68,Health
+337d26e1bcda7595d341f4fe62beee55,f0a2dabb9b8d3e2cdb1dbf5ad4260aa2,653.91,2023-09-22,Successful,AMB158,Ambattur,Chennai,Debit,Merchant_15,Health
+e52ea2a805ab28d1e825db03ca5ee9c3,6e537eebc2fda9a45de0d8bc2a231ee4,915.73,2023-04-06,Successful,AMB978,Ambattur,Chennai,UPI,Merchant_60,Groceries
+cef0d21803538e8dce8ddffad6e3ef5d,72cda1bedd3c9853311f2e651fa8cb3f,129.27,2023-07-19,Failed,AMB243,Ambattur,Chennai,Credit,Merchant_52,Groceries
+0df22934a97f0e0f99203af255b15b9d,6dc4b083387ae0ba046bfc47b365910b,428.46,2023-05-16,Failed,AMB690,Ambattur,Chennai,Credit,Merchant_87,Groceries
+6ff949a07b64e8d52c77c3b0c34b25e3,5a39a694ac13762c1a184e79d62851fc,96.2,2023-09-12,Failed,AMB559,Ambattur,Chennai,UPI,Merchant_31,Electronics
+e8b6764189b0a914b156be37dfa59c0c,91926a4f6ad00c2075b611eb9264bae8,910.47,2023-05-30,Failed,AMB531,Ambattur,Chennai,Net Banking,Merchant_80,Clothing
+aaf535bbdfd5f1344d621b25d66c59e9,0a05a38d0b15328c8e6fcadf03b6eb00,729.55,2023-09-23,Failed,AMB696,Ambattur,Chennai,Debit,Merchant_42,Clothing
+b57f2c318ac52a1fc11e7a3efdbac646,f80c41f606f5d5a877ced26d4eb823f0,505.93,2023-06-14,Failed,AMB549,Ambattur,Chennai,Credit,Merchant_75,Health
+61277c2e1cc19dcf93b6bca8ca2460cb,70b643638ef59008821d40552a008f86,203.9,2023-01-29,Failed,AMB203,Ambattur,Chennai,Debit,Merchant_93,Health
+4659cfa21307043814e3cffb3c68114b,7f34ce725e5ab004688e86d6404677d3,553.03,2023-01-17,Failed,AMB532,Ambattur,Chennai,Credit,Merchant_88,Health
+d54c6c187fa9a9a3f4fdfb9e82e14ae1,5f99ed999bb288cebe656876ac331d53,153.8,2023-06-15,Successful,AMB412,Ambattur,Chennai,Net Banking,Merchant_96,Health
+f153850cc648b9b0844b6dc8e333da58,b9f2b73f92cdf702e76d2451eb86a04a,761.17,2023-02-24,Successful,AMB397,Ambattur,Chennai,Debit,Merchant_10,Clothing
+bf03d277cf83dee04f9cf92a7d113205,1262705075e1ffe23fb1646543ae2d75,291.35,2023-08-01,Failed,AMB869,Ambattur,Chennai,Credit,Merchant_36,Electronics
+7c418ec4aaf88f21c9734986167a09c3,136d0d9d9f0fe148130988d2f68b2e55,264.6,2023-01-22,Failed,AMB244,Ambattur,Chennai,Debit,Merchant_64,Clothing
+5ba5d624869e840149bec8bf710036bd,3741d75f46a84ef0f2f92d0208cda967,691.68,2023-10-25,Failed,AMB261,Ambattur,Chennai,Credit,Merchant_92,Clothing
+c291d61d38cc12a7656822644e4d0f2a,6251cb0fd85ac804a0ab4aace8e27818,236.45,2023-07-13,Successful,AMB504,Ambattur,Chennai,Debit,Merchant_98,Electronics
+6ba73309dcccd6cf1bc7a2e3662d7afd,81d5a7ee09b8fd2bde85283bf44effad,966.88,2023-12-15,Successful,AMB527,Ambattur,Chennai,Debit,Merchant_88,Electronics
+24a57f10e2334e347fe823258e52fb37,4ddb24a3848c87db8fa00a134cb9135e,65.49,2023-03-20,Successful,AMB184,Ambattur,Chennai,UPI,Merchant_18,Groceries
+b205f07e33e72cc8e8a17c5ccccc32da,bd5fb056f2d15ee4d2cdfbae2174f778,842.17,2023-06-16,Successful,AMB305,Ambattur,Chennai,Net Banking,Merchant_70,Clothing
+72e9d91cabf730d0d42aea1f5e16f530,d6de82c4843a3d6e120a7827fcecdcbe,869.76,2023-05-20,Successful,AMB136,Ambattur,Chennai,Net Banking,Merchant_25,Electronics
+a14df61bb6fbe8f03468d3c44a51952c,9f25420b34e73eb6ab351b7c6ddf696f,835.08,2023-04-25,Successful,AMB347,Ambattur,Chennai,Debit,Merchant_17,Groceries
+a36a77f44cb265da7464c98a0cb9c111,9968e22374a2f9be3518827372fffdbc,25.0,2023-12-20,Failed,AMB224,Ambattur,Chennai,Debit,Merchant_39,Groceries
+b18db868f36ee237d0d15b15cd6b213c,d57e6c1ee6b6168a5336fe944afac6b5,460.99,2023-12-24,Failed,AMB573,Ambattur,Chennai,Net Banking,Merchant_94,Electronics
+9cbd5e210d5bd90ce4a5116dc9008155,f43979cd5ad74b5e64a68f3c8cc3a7ac,514.47,2023-10-11,Failed,AMB131,Ambattur,Chennai,Credit,Merchant_75,Clothing
+43338b1006d530b00470ba9b965180a7,9d203107eaf61343e3e9b525a0e79179,345.05,2023-10-12,Successful,AMB856,Ambattur,Chennai,UPI,Merchant_15,Clothing
+4bec10d4be8ded2571e85ad212c925bc,aaac3bd3cf42273fa5882bbe9ccd7a9a,167.43,2023-01-01,Successful,AMB840,Ambattur,Chennai,UPI,Merchant_40,Clothing
+9ba12db9c24e22fe34935d374bede109,6bfdf05b00bae0305ed7d959f4bcf78d,24.43,2023-01-31,Successful,AMB343,Ambattur,Chennai,Debit,Merchant_95,Health
+9b6a018ad1426ef5444cf1771c9543dc,987f55bea8f3e5030dd6425b939ba121,206.95,2023-06-30,Successful,AMB935,Ambattur,Chennai,Net Banking,Merchant_8,Clothing
+491ca85061892ecf405a0a819548ce7a,a4470c23a9e5bce04a03da075e15966c,66.58,2023-03-25,Successful,AMB254,Ambattur,Chennai,Net Banking,Merchant_77,Groceries
+4e305ae891824ebac4f63e183d2db2f3,f4e38c5ead8c8e220404bf3a27643447,97.3,2023-06-26,Successful,AMB395,Ambattur,Chennai,UPI,Merchant_100,Clothing
+874ce821fe43c24aebcc163282b9bf66,b658d04e9226d6b68653ab0104cdc0f8,127.65,2023-11-30,Failed,AMB263,Ambattur,Chennai,Debit,Merchant_27,Groceries
+d23ddf407ee80eed1fa75faf28c4502c,7cf40eadfa9dc6a3bc7a44ec8b91a63e,729.19,2023-05-08,Successful,AMB965,Ambattur,Chennai,Credit,Merchant_6,Electronics
+004a4eb50a8e0827f029b9c55486e255,63d81211a6bbaed29ed22f8531e882ac,691.4,2023-02-28,Successful,AMB308,Ambattur,Chennai,Credit,Merchant_20,Health
+7dea807141c03204babb48cb902fe804,f4ad9d581038169c5288bb3cbdd84a82,191.56,2023-05-13,Successful,AMB141,Ambattur,Chennai,Debit,Merchant_12,Clothing
+d560cb3a5cdef5bdc54f9bf69e08a40e,d1ad22e4cb3bb6ee0e0e79b3c8c554c5,730.73,2023-06-19,Successful,AMB797,Ambattur,Chennai,Net Banking,Merchant_78,Groceries
+bad3a846b3e34d9be53fba675e5ff1cb,a32b5fe90204e0e5e1176acc8bd5eb79,706.02,2023-05-17,Successful,AMB834,Ambattur,Chennai,Credit,Merchant_89,Electronics
+c293117558e2fe734a0fe79bef9551fa,3d2040aca718643b87110af8c9a7b0f6,266.69,2023-06-21,Failed,AMB529,Ambattur,Chennai,Debit,Merchant_4,Groceries
+e34f6dd8bd9e8183cec1fa15da21c66a,dde1b20e9828af19b3bc89b6ac20028e,122.07,2023-10-19,Successful,AMB878,Ambattur,Chennai,Net Banking,Merchant_49,Electronics
+14333afacea3a2effe43670736727b5e,73ffd0fd822b47170ec93e1b2a60387c,664.53,2023-05-25,Failed,AMB695,Ambattur,Chennai,UPI,Merchant_55,Groceries
+c9a7a7d515e5fabcb1e1ecb960aba229,5955a81024ccc77258d9c470f700caa4,551.28,2023-03-26,Successful,AMB875,Ambattur,Chennai,Debit,Merchant_78,Groceries
+9a558864c3219d586b4b0c713779a62d,4f3aaf71f2b4b6abb80fa21aedb927fe,697.49,2023-12-27,Successful,AMB199,Ambattur,Chennai,Credit,Merchant_18,Health
+3c5520dcba0a8ee268053390d76a85d9,eeb5343ade82d46a654d7929a23d4a3b,579.55,2023-06-05,Failed,AMB930,Ambattur,Chennai,Credit,Merchant_36,Health
+d78b6f57291dfa306f36a827e048face,6f2fa2028fe999653f0f169624475c30,659.52,2023-06-23,Successful,AMB369,Ambattur,Chennai,UPI,Merchant_96,Health
+4c240c35dd3edfb735248387e8f8825d,93269b1dcb1e622c1c07d239e31891a1,962.7,2023-07-05,Successful,AMB651,Ambattur,Chennai,Net Banking,Merchant_83,Groceries
+ab53e3102b6dc2cd23147957dfa8dc2b,88a455116fa765d08ab247f1fff0ac6f,768.58,2023-11-07,Failed,AMB368,Ambattur,Chennai,Credit,Merchant_72,Clothing
+965768e53bc90a704344b64cdf5b2d90,6ea1739c40008360b564b3370ff0ea00,840.51,2023-08-08,Failed,AMB135,Ambattur,Chennai,Debit,Merchant_83,Groceries
+6fe982bbb865c47c6b41c2e20cf6d83d,57edfe6a01aaddea0529fa9f6f978b8a,22.06,2023-11-04,Successful,AMB297,Ambattur,Chennai,Debit,Merchant_84,Electronics
+7fd8795889eb5061d8adba8ed9862d15,057c2e2b669274dde9cbe28e32d2ee72,35.74,2023-12-21,Successful,AMB710,Ambattur,Chennai,UPI,Merchant_5,Health
+a5d83ac73e576dfeb8681c659b49d666,f3994ec62f081dbf700976e393125a76,392.56,2023-10-14,Failed,AMB760,Ambattur,Chennai,UPI,Merchant_85,Clothing
+f286d97f571a39a640f87f184761f31d,95c2fc47fa62d017166db73b7847223d,906.87,2023-05-17,Successful,AMB148,Ambattur,Chennai,Credit,Merchant_7,Clothing
+d5ce7d61876f473d21224c35f2151721,de2d745ab39cc6375e19449fdf0f1334,445.59,2023-08-23,Successful,AMB681,Ambattur,Chennai,Debit,Merchant_26,Health
+984c609154d113b05ed6d760a20a6a5c,6819fde79fff21f554ded7b2574830f2,308.82,2023-05-20,Successful,AMB972,Ambattur,Chennai,UPI,Merchant_71,Groceries
+c5da8ef131f6e296366d5e8afe8ee654,1981ecad8e24be292d0bdc92804cdd09,535.6,2023-09-22,Successful,AMB469,Ambattur,Chennai,UPI,Merchant_97,Groceries
+ded4ec58f85155b52002d529765886f5,6bae779d58787873c7694fb5cfc54919,345.82,2023-02-27,Successful,AMB518,Ambattur,Chennai,UPI,Merchant_81,Clothing
+4e765b153636cd08ba4b64f23c5fe219,8691951fea121f0df20d8982b45713f8,202.13,2023-11-16,Successful,AMB586,Ambattur,Chennai,UPI,Merchant_19,Electronics
+be0aa7250668595cf0e2854014fc2132,7e084f5bc931e487842e326345fc0691,614.95,2023-01-09,Successful,AMB652,Ambattur,Chennai,UPI,Merchant_48,Clothing
+affb1bca72815ae30ac5beb2472b5ab8,8a15ed0df7942700f1f514c5fa57b9de,592.78,2023-12-30,Successful,AMB576,Ambattur,Chennai,Credit,Merchant_42,Clothing
+987a8b3e71f4930b393efcf664ca2099,facb22ffda69f30d68ca7e9029b96bd0,234.51,2023-10-07,Failed,AMB653,Ambattur,Chennai,UPI,Merchant_31,Clothing
+efe5e5e8d6e57fca304a51a64c72c41a,f2250528a3279a3730eea5ab5e8cdc5a,173.37,2023-11-05,Failed,AMB252,Ambattur,Chennai,UPI,Merchant_95,Groceries
+af9dae8fbe23d5a7da9e46dcec12be2e,f439ca2d044461e1a80b7fc07e1c8aa8,604.42,2023-04-27,Successful,AMB322,Ambattur,Chennai,Net Banking,Merchant_17,Electronics
+68419cc3e12e578b28932487d133c4cf,1572f94ff8bdc5e3502abc729f53ef97,639.57,2023-02-18,Successful,AMB716,Ambattur,Chennai,UPI,Merchant_76,Health
+8dcd00cfef131fb121e90c5af928faad,0f93defa1e773123dd8bf8747373ba62,957.84,2023-06-03,Successful,AMB310,Ambattur,Chennai,UPI,Merchant_15,Electronics
+4fdea9066a6da6b7ba3299af5f25a4fa,600f38e9ecda905392226bd945073ad0,799.77,2023-10-17,Failed,AMB323,Ambattur,Chennai,Debit,Merchant_25,Electronics
+4cf86b9b8db15d2ee61fc65e4c2c1fc3,298680c7dfb2365fe7a08d05743a9486,798.23,2023-02-07,Failed,AMB662,Ambattur,Chennai,Net Banking,Merchant_68,Electronics
+15230f48a9ccc2e0ca45200aea86c0aa,a212e57c408ab0e9eb691fc670b8a8c4,699.99,2023-07-24,Successful,AMB357,Ambattur,Chennai,Debit,Merchant_32,Groceries
+cd1544a5b89fee749b0bbaa899878ced,f2d32f533820c4eca8fb414d8e05eef2,708.32,2023-06-23,Successful,AMB827,Ambattur,Chennai,Credit,Merchant_35,Clothing
+846abecfcfd4c2ba7cefb0222ee4af84,e9f1a1fbefb90c3864788f747423ff03,152.56,2023-09-25,Successful,AMB492,Ambattur,Chennai,Net Banking,Merchant_21,Groceries
+c559b594a0c860406c3cfefaa54fd13c,3ecf592d7db7f56397831a344abc4f49,819.05,2023-02-16,Successful,AMB154,Ambattur,Chennai,UPI,Merchant_42,Clothing
+578d75ea90a19fc92c44de1fc53b73ec,0bc688ac7fbd6a2a1b75412f014160f3,178.69,2023-01-28,Successful,AMB999,Ambattur,Chennai,Net Banking,Merchant_16,Electronics
+596b2046a4ff4a1dfc4689bd02bbadad,dc7848dd2a8fdfce15e2d924df3384af,373.9,2023-06-05,Successful,AMB816,Ambattur,Chennai,Credit,Merchant_84,Health
+fd32027c4d2d58180f8d0a66c3937eb9,55e2bc3187710a6ff705ee0a084a83f0,927.79,2023-09-07,Successful,AMB526,Ambattur,Chennai,Debit,Merchant_50,Health
+8dec044932f2530ceffccf91f8862a4c,33de3ae448ac14b1fc77c6e36dc598b7,563.91,2023-03-18,Failed,AMB913,Ambattur,Chennai,UPI,Merchant_62,Health
+10134d002f157998f5dddbcaf851918f,ca5ba5a20a26b09a0d254c33d7950bba,960.63,2023-09-26,Failed,AMB207,Ambattur,Chennai,Net Banking,Merchant_66,Groceries
+b7e2305484feff21ab032dd9e1e8495a,11e60b872028e57994f41e14042f9403,756.09,2023-04-30,Successful,AMB456,Ambattur,Chennai,Net Banking,Merchant_55,Electronics
+26de10b79a46aa7889a94f46c973de55,37f2f6af74e760e59c40089581f08a8d,381.33,2023-10-02,Successful,AMB109,Ambattur,Chennai,Net Banking,Merchant_15,Health
+adedf8cb44324c829234fdf837fd88ac,7b5a807c62bbac33815864f4c3613fe0,738.77,2023-09-11,Failed,AMB636,Ambattur,Chennai,Net Banking,Merchant_1,Groceries
+5cc1f321a50d6c641e33b9cc634e4fa3,6d31b3d806e7a440cf02fc1d6e5ae77a,486.19,2023-05-25,Successful,AMB272,Ambattur,Chennai,UPI,Merchant_27,Health
+10b657f90c47f355c28ccccbca904f6f,42af2b8f736d535841c6a2e232a6bdae,21.18,2023-11-20,Failed,AMB905,Ambattur,Chennai,Credit,Merchant_77,Electronics
+1e848475ab54df7e45177a768d3bb9e2,642d8a4cdfbb28d278512e41a3d4a9a8,846.47,2023-10-21,Failed,AMB503,Ambattur,Chennai,Credit,Merchant_20,Electronics
+149737d88968280605c6ebde8acfa918,d7f181d3a1e438ed1682fc696bb56ecb,150.11,2023-09-02,Failed,AMB539,Ambattur,Chennai,UPI,Merchant_93,Groceries
+aef0daa0d6749c516b4b05028c0d9762,48d33688b1cdcd7e997014ccc4ab485d,493.72,2023-03-05,Failed,AMB979,Ambattur,Chennai,Net Banking,Merchant_1,Health
+83f47c71bb8b841c99a8a9a40f2f4c6d,43a2fffc196479a8d2f5a8ad196f3661,895.27,2023-06-08,Failed,AMB320,Ambattur,Chennai,Net Banking,Merchant_89,Electronics
+eaca5d7968812323fc0c9b42dc0d06d6,b3d033afad3d41ce5ed35cb3ca53af70,958.33,2023-08-08,Successful,AMB482,Ambattur,Chennai,Credit,Merchant_73,Electronics
+7180895d495297bd7d1ebc10b8a1bc82,1bf920d4d4e1e4b142ed3375ebf3055e,754.28,2023-02-10,Failed,AMB988,Ambattur,Chennai,UPI,Merchant_15,Groceries
+083025ec490a0f8ea441c19fd8cd3a6e,5c85e742619d84f86cadcd3c7dc48da7,683.07,2023-05-02,Failed,AMB151,Ambattur,Chennai,Debit,Merchant_17,Clothing
+f9f20d7ecb772143ce57ec1ff5daab6d,cc7a668ff6e014020ea291acf27c18d1,253.36,2023-06-09,Successful,AMB522,Ambattur,Chennai,Net Banking,Merchant_23,Health
+9a8580873c810db256034bfb7f7b7373,007bf8b283a556bc8d9b52f0f8e1f2bd,526.92,2023-11-12,Successful,AMB645,Ambattur,Chennai,Credit,Merchant_46,Groceries
+df128c1c97c6d620e2291b96b40c71fe,99e0320b379bc690d51112cc5e48e8e7,594.9,2023-07-18,Failed,AMB337,Ambattur,Chennai,Debit,Merchant_71,Health
+e8fb93d77dc46a4a6c88ee32b215507a,cede9e4e8da8660e0c81c048a0b732e6,93.91,2023-09-02,Failed,AMB665,Ambattur,Chennai,UPI,Merchant_26,Health
+a9116035eceb5c6cdbd90f8db46498b0,7c78526086486b32104b0d439bc62f19,960.46,2023-12-23,Failed,AMB899,Ambattur,Chennai,Net Banking,Merchant_72,Groceries
+195331cbd36ff67a632d549fa5e0a790,be5870de38b85117c66366c451e9fa16,833.42,2023-08-10,Successful,AMB518,Ambattur,Chennai,UPI,Merchant_68,Clothing
+3258bce13c8b8803f796f58919818c92,f4cf651206a70f038a3c7f3d84617b6a,563.44,2023-04-14,Failed,AMB340,Ambattur,Chennai,Net Banking,Merchant_20,Clothing
+d96f34c58e5202ee2f4dcf49044623ee,bef26c339e5d0f9804203a826474f024,766.19,2023-09-19,Failed,AMB625,Ambattur,Chennai,UPI,Merchant_93,Clothing
+a5d9af7076ed25e1021503ac7498a551,b6814a55bf592f55a9193cab0941c9f2,434.64,2023-11-28,Failed,AMB880,Ambattur,Chennai,UPI,Merchant_21,Electronics
+b7cc41484ba26027939ee67e8ea543a2,61959bfdee27057c9381b0f01517b921,249.22,2023-12-05,Successful,AMB480,Ambattur,Chennai,Credit,Merchant_31,Clothing
+5afb46f08466c755997b4b7423b2eb16,3b0f5cb7acdd1e642a80761c838f57d9,843.89,2023-09-27,Successful,AMB465,Ambattur,Chennai,Net Banking,Merchant_96,Groceries
+41e56d8fefc1537338b04c30dd127497,47e942ea0ae9f68909bd609cf589c591,524.21,2023-02-04,Successful,AMB840,Ambattur,Chennai,UPI,Merchant_35,Electronics
+6141ce59bb7378103e9882a98c6adccb,89b6eaa27feac291f544af9c4032e0a5,238.34,2023-06-29,Failed,AMB588,Ambattur,Chennai,UPI,Merchant_40,Groceries
+3bf1d7c164158574fbd085aa6817a6d5,352e49354fe48cac9c65ffa0769c5847,443.21,2023-08-30,Successful,AMB792,Ambattur,Chennai,UPI,Merchant_67,Groceries
+c2895ced193eed99f52bde1bd7f41ab9,4b8d740aa02c11cce64b875ddb1067a5,163.92,2023-01-12,Failed,AMB568,Ambattur,Chennai,UPI,Merchant_93,Clothing
+40c3630f30489b7f25750246bf0236d5,4892e066fa99515c2f83970833518706,836.27,2023-05-19,Failed,AMB142,Ambattur,Chennai,Credit,Merchant_14,Health
+eb4db26854ee12bb0657c4abe4142afc,cf17ce566570d980e6b9a9ce53badd1a,581.48,2023-08-23,Successful,AMB531,Ambattur,Chennai,Net Banking,Merchant_8,Clothing
+0d94ffc473ca6b1e527c1dfc5f85ac13,326913a90eb87e404d479334fae6064c,541.02,2023-07-11,Successful,AMB897,Ambattur,Chennai,Credit,Merchant_50,Clothing
+6fc829993705d19815e188167d1d1475,ff90818f2e2b0efaaf47c883ae64fa08,93.89,2023-10-13,Successful,AMB920,Ambattur,Chennai,Net Banking,Merchant_31,Clothing

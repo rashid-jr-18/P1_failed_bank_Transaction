@@ -1,0 +1,401 @@
+Transaction_ID,Customer_ID,Amount,Date,Status,Branch_ID,Branch_Name,City,Payment_Mode,Merchant_Name,Product_Category
+9fc1f570d4424110f4ba4e6eb51f7718,3ae7d2906adbf49f4c089cbea832596b,580.7,2023-04-04,Successful,IND716,Indiranagar,Bangalore,Net Banking,Merchant_28,Electronics
+874a70ac6a9dc0c00ccce3a2c0856f2f,5734443c3d75fd3caae23d3e94005d5a,72.42,2023-02-09,Successful,IND153,Indiranagar,Bangalore,Net Banking,Merchant_66,Health
+0431b479d513c77cb9a5dae7ca8ac4ed,cf8aeb3264e19940bb68ff9a2f50245b,17.24,2023-10-19,Successful,IND562,Indiranagar,Bangalore,Credit,Merchant_49,Health
+2d93ce7bbadabcdbcf51484e029a5c53,72230240380f2c525f0949cfd52cc21c,199.26,2023-10-23,Failed,IND694,Indiranagar,Bangalore,Debit,Merchant_67,Electronics
+3361dc3f8ebc0f91604fd61bd252b1e1,2fb9d4113c245b744d1a8c96d18f42e5,184.7,2023-02-17,Failed,IND447,Indiranagar,Bangalore,Credit,Merchant_60,Electronics
+fc9df241496c65e838e83cd21751eb08,bbb3661585a11edd14b0d8e47133d738,490.08,2023-05-21,Successful,IND947,Indiranagar,Bangalore,Net Banking,Merchant_45,Clothing
+a818d48f9ab3fd000d19cb50191363b1,70b8bf28f7d5c2b58c16de2a1308dd90,136.32,2023-10-04,Successful,IND128,Indiranagar,Bangalore,Debit,Merchant_88,Electronics
+41628ddb748e32f28ca08d72c23510d8,c49ef3b6202b1058a49ec3d05e207a24,620.82,2023-02-28,Successful,IND914,Indiranagar,Bangalore,Credit,Merchant_72,Groceries
+edd7ed2ed8218c4436fd98e6b2e19ad1,e0593ff28e19a3e2abfb3efb0c7cd573,648.24,2023-03-11,Failed,IND218,Indiranagar,Bangalore,UPI,Merchant_6,Electronics
+bf21018f6f251a78e5f115dff80855d0,72ab77ea9f45cc94a0936c2fd7752e30,45.6,2023-11-17,Successful,IND473,Indiranagar,Bangalore,Debit,Merchant_26,Groceries
+56c6f25d8fca5e70ccb2bc28d6ce6359,3b80dc0ed6249347126da5b87d644cdb,43.71,2023-01-29,Successful,IND986,Indiranagar,Bangalore,Debit,Merchant_26,Groceries
+5b300fa1253e18de768b4b911cdc0bf7,ca137ebba3300cb0c55bc81f76731553,169.98,2023-04-29,Successful,IND609,Indiranagar,Bangalore,UPI,Merchant_96,Clothing
+b40bc79db1ecc6a177dd87ee62110eeb,6041049441f5fa40f4447839f13146e3,979.05,2023-02-03,Failed,IND201,Indiranagar,Bangalore,Net Banking,Merchant_52,Clothing
+fe3741a20bbbc7d01af23d34275d879d,b1eb2987a3f5393156cb10d8ad4d45f9,432.89,2023-08-12,Successful,IND641,Indiranagar,Bangalore,Net Banking,Merchant_43,Clothing
+5ff8b448cb6f4a9eeb33f1be1d902dfa,1333c0d2ec2dd0ff7a8d3fe166fad8b4,304.64,2023-05-16,Successful,IND461,Indiranagar,Bangalore,Credit,Merchant_21,Clothing
+eac76868cd51d062bdaf4b689c6ecd43,863158b00b334435ae2acefe5c85361d,402.67,2023-11-14,Successful,IND897,Indiranagar,Bangalore,Debit,Merchant_49,Clothing
+91832bfbda4c9eae2017fe7f7cd2492e,e3b35cd9b5588103894dfdfbdbe4efc7,727.35,2023-02-20,Failed,IND470,Indiranagar,Bangalore,Credit,Merchant_9,Health
+d031884a86cfa273cc8c669b16919cc7,f87ae61013a4928746e2e5cf39c1cd16,261.62,2023-10-09,Failed,IND321,Indiranagar,Bangalore,UPI,Merchant_36,Groceries
+b844aef5809ab89875ba09ec3c937b46,0f6aa5130ff00810cbae00763b19c776,48.77,2023-12-01,Failed,IND804,Indiranagar,Bangalore,Net Banking,Merchant_46,Groceries
+b61b66a61f0f3dbe35ab93d9ace01252,f15550a93265603840d8da4911194262,244.14,2023-08-21,Failed,IND472,Indiranagar,Bangalore,Credit,Merchant_79,Health
+6aa047583e6fe92dc0e842e26c5eb2d1,61050fd28473cf08898b07789c87bcae,525.34,2023-07-08,Failed,IND614,Indiranagar,Bangalore,Debit,Merchant_43,Health
+0581bbba90747286bf6292ccedfc61b5,2541ad454762157f5740386d7cc5187f,498.8,2023-04-02,Successful,IND864,Indiranagar,Bangalore,Debit,Merchant_92,Groceries
+6b020d74818835801a3f2b81e279769c,8bb75d9d707803c8db3e4814705a3a7f,249.19,2023-03-10,Failed,IND425,Indiranagar,Bangalore,Net Banking,Merchant_11,Electronics
+d32e78c2b0ead2da7d44f56b6f78a0ca,8cd5899899b283eb0aa89d81cede6896,263.69,2023-05-12,Failed,IND428,Indiranagar,Bangalore,UPI,Merchant_72,Clothing
+93745dd2d95c2aecbf65bce25d588095,3ee8e5533e01e009916c6721faf7f663,994.68,2023-11-22,Failed,IND324,Indiranagar,Bangalore,Net Banking,Merchant_72,Health
+cc06badb41a0345e3b68ecf7efba5351,fadd10160cf221cee4ab1d19e0b3e212,905.46,2023-05-06,Successful,IND653,Indiranagar,Bangalore,Credit,Merchant_17,Clothing
+b465792f39424bf3f2d0686099832077,93e30a16b73da0dd435d712084f48117,726.69,2023-03-20,Successful,IND552,Indiranagar,Bangalore,Debit,Merchant_38,Health
+a0ba1eb89de697c8d816e6312e2eadc9,8b54a780985dddb70e4e098ee8830780,642.02,2023-02-13,Successful,IND362,Indiranagar,Bangalore,Debit,Merchant_83,Clothing
+beaf67969fd792a77a7ddea02ada1585,57f567c2538df0e7d8bba740b43d615f,446.81,2023-02-26,Successful,IND802,Indiranagar,Bangalore,Credit,Merchant_3,Electronics
+50c185427fa1c14c00c1741cbecf8458,695ad66468394ab3aaaae1972c8a6013,456.04,2023-12-03,Successful,IND487,Indiranagar,Bangalore,Credit,Merchant_29,Clothing
+717ddeba2275475b9f9179188966f74a,a9e871823e49d92a9c8a13635d9049b9,156.52,2023-04-24,Failed,IND996,Indiranagar,Bangalore,UPI,Merchant_32,Health
+9358961e789bc9dc6c40891084f0f62d,a7c17fe60bd55462690f7bd6417c64ae,450.45,2023-06-19,Failed,IND878,Indiranagar,Bangalore,Debit,Merchant_78,Clothing
+a7b67c450153d7dec35b5deb977f61c7,ecb13ba22ef5966dca83846d77f59a51,717.41,2023-09-05,Successful,IND631,Indiranagar,Bangalore,Net Banking,Merchant_89,Clothing
+ecd07188529a7dec45d1c46819b42331,295dc4ab6d7cb7a60c1b09c8d03961c7,447.46,2023-10-14,Successful,IND699,Indiranagar,Bangalore,UPI,Merchant_22,Clothing
+dedd8e5ceaab569437868392ab26c33d,d1b8308ac97f64a9aaa5e1608dd118ca,615.73,2023-11-17,Successful,IND103,Indiranagar,Bangalore,UPI,Merchant_11,Groceries
+1adb9dc7c5cd526d221f608cac09c3f5,09f1d777ff66db8164c7bffd67a95d2d,220.62,2023-09-17,Successful,IND738,Indiranagar,Bangalore,Net Banking,Merchant_70,Electronics
+6b1adb2b26bfaaa0692a374e653b1aec,4eda1d7f5fd49845404d1f49540a1e4a,230.55,2023-04-29,Successful,IND689,Indiranagar,Bangalore,UPI,Merchant_87,Health
+08315a72b72ab33170d7b1516414f270,c5246ffc96eb107e225b81d50d2eab08,19.37,2023-04-22,Failed,IND225,Indiranagar,Bangalore,UPI,Merchant_34,Electronics
+989086f75d088ab3bfdce247f8ea0574,85d152fec1ab23bb6dd7a3728799ab3e,932.58,2023-05-09,Successful,IND321,Indiranagar,Bangalore,Debit,Merchant_53,Groceries
+4665773e45f62d01251189d18217b672,e040c8e5fe924d8d1fcb78b4cfeba59c,660.25,2023-12-11,Failed,IND259,Indiranagar,Bangalore,Debit,Merchant_44,Health
+a4e6b670115a792bd9f5419edab0c9df,20553f6735dd83217caabd57c59c14fa,144.15,2023-03-06,Successful,IND374,Indiranagar,Bangalore,Debit,Merchant_81,Electronics
+36f0d44df3017985d63ca6f7289639d0,5f5e88df2dd576addbfa86f9dd015f4e,728.12,2023-03-13,Failed,IND855,Indiranagar,Bangalore,Debit,Merchant_99,Electronics
+6b9ce98ce6686a02f64f938a96d6b23c,5e6de15e98346f9c3989e702da8c4bcf,262.21,2023-09-25,Successful,IND545,Indiranagar,Bangalore,UPI,Merchant_62,Electronics
+2196bd0989b3dc7e9b09daae9e66f51b,bcd157090f4943ecadb84837fc3be09f,748.7,2023-07-19,Successful,IND564,Indiranagar,Bangalore,Net Banking,Merchant_61,Clothing
+022f5d267f2b7fdf6b7446f701c4cee2,1c75e5cad692be84ca416c1a29783be8,318.99,2023-10-15,Failed,IND708,Indiranagar,Bangalore,Credit,Merchant_14,Groceries
+c971c7908801b864c8b25800d86f2885,1cb5a9d8a3d3fb31cf566e0f076138f8,961.12,2023-10-08,Failed,IND942,Indiranagar,Bangalore,Debit,Merchant_49,Health
+1d299efaa6549da20a4d7c6b4ea87c2a,599590bf8cede1155582193e8fde5805,703.7,2023-04-09,Successful,IND664,Indiranagar,Bangalore,Credit,Merchant_22,Health
+c5e7c14c7dcbe139dab4b0efb98350e6,b5b3f7245a6d0ee365236285fb6bded7,550.39,2023-06-08,Failed,IND320,Indiranagar,Bangalore,Net Banking,Merchant_85,Health
+8b627c7e021d52b862e5827d9009123e,0e6127ebffbfeea9347e41cc0d5539c2,893.05,2023-10-23,Successful,IND821,Indiranagar,Bangalore,UPI,Merchant_44,Health
+7b84aeb69f3f362de1404813d88719f8,436b5a9cf46d09388e319046e1bb50ee,794.77,2023-01-07,Failed,IND936,Indiranagar,Bangalore,Debit,Merchant_85,Electronics
+8a516a3f1b3c534dcfcd83e2a81ca49d,d2fb9f626aa7c0ded7288b27f67e1c55,819.87,2023-01-24,Failed,IND517,Indiranagar,Bangalore,Credit,Merchant_2,Clothing
+ac42d08df61e435b825ce70fd6b13166,a187a44e9ae1f18fb642ff6865f44e43,188.09,2023-11-13,Failed,IND955,Indiranagar,Bangalore,UPI,Merchant_77,Health
+ad9f52e75abec66e9bc897dd548309d3,bcf0fd570024bae0dc09e44d306bcdbc,635.28,2023-06-05,Successful,IND803,Indiranagar,Bangalore,Debit,Merchant_24,Health
+50571bcbc0de05a5d65d2485b11a3c26,ec3893ed0514bf577fee84bafcc5d660,319.53,2023-06-12,Failed,IND713,Indiranagar,Bangalore,Net Banking,Merchant_38,Groceries
+b220ba8f3c434dc207b3765324e7257a,39751f7afaa11a47eaf99d90f5ce6596,807.29,2023-04-17,Failed,IND478,Indiranagar,Bangalore,UPI,Merchant_86,Electronics
+790f2fa55975b557d7decfefc748d588,287e6ce9cf7642390af257c10f9fa4bc,226.4,2023-04-01,Failed,IND791,Indiranagar,Bangalore,UPI,Merchant_93,Electronics
+82f39dc1e66661c90a5ab4fdf178906c,a7a03755da0293f7384f0e2b6c830031,66.09,2023-11-09,Failed,IND322,Indiranagar,Bangalore,Debit,Merchant_96,Clothing
+6eb3e0bdbdbfa2a3b0143051650dac20,aadc65af35913141c05b8152d43723cc,80.11,2023-07-28,Failed,IND879,Indiranagar,Bangalore,UPI,Merchant_6,Clothing
+3e9edae876de44992ce77a785bf65c51,9df6c4173f02a38fb5c1a5dde26f0fff,547.66,2023-01-30,Failed,IND175,Indiranagar,Bangalore,UPI,Merchant_33,Groceries
+79fdb5a18814c4d16dbe9b459d50796d,6927f65a8e8bfec1673724ccb2cc9b78,701.05,2023-12-22,Successful,IND575,Indiranagar,Bangalore,Net Banking,Merchant_88,Electronics
+baeeb7ca3aa37e75d8985a8eb867c0a1,ec13339ddf01b488641cc1a83e46a518,906.18,2023-10-29,Failed,IND520,Indiranagar,Bangalore,UPI,Merchant_85,Clothing
+35fd29503f37e2138881ecf85fe71655,985d0ff00436ebc7dfb84555f97b4170,883.85,2023-04-28,Successful,IND323,Indiranagar,Bangalore,Net Banking,Merchant_72,Electronics
+4cfe2d36822368fb9bf838bdf2ff1ff2,8ad684e67dde6ceffc846baa63084736,104.41,2023-03-17,Failed,IND706,Indiranagar,Bangalore,UPI,Merchant_50,Electronics
+fc0d647fdb6f5292ac278f30678ac8fc,e1ac9d9e627f326d6069240f36773c10,990.45,2023-08-04,Successful,IND202,Indiranagar,Bangalore,UPI,Merchant_22,Groceries
+cfe919763d11324a97d136b34dead134,bf46e7d9600ecdd3c55b3176cb1d53ae,133.55,2023-02-04,Failed,IND865,Indiranagar,Bangalore,Debit,Merchant_72,Groceries
+f8641ea6c5b4fc7ae40be02ce969a5d2,288e60d83f5a860cbd3f9fce438676e3,499.87,2023-07-28,Failed,IND248,Indiranagar,Bangalore,Debit,Merchant_89,Groceries
+9e600a811d7f6743edfed071093086cf,e34651fbd8e110a44c59e58339c08e8b,310.9,2023-10-17,Failed,IND226,Indiranagar,Bangalore,UPI,Merchant_8,Groceries
+3820b86e5bbd3fd4735647d2cd0fd0b9,0813d434b703f07ee2c6786d71b4643a,34.27,2023-05-27,Failed,IND746,Indiranagar,Bangalore,Credit,Merchant_58,Electronics
+a0905b3b84499e02ffc8895d465e80d5,769e87e4c00c8288acf7f981f35207ab,943.9,2023-06-12,Failed,IND668,Indiranagar,Bangalore,Debit,Merchant_73,Clothing
+7e4a457b13ad5d155f8916bdb5b12f7f,264a00b03463416c9b74790704c6f0ae,356.19,2023-05-03,Failed,IND106,Indiranagar,Bangalore,Net Banking,Merchant_13,Electronics
+9af16d6b17372206af780dd1ac9f05bd,aa4f71ffd0ace1d172b2ba815428e178,293.12,2023-10-30,Successful,IND954,Indiranagar,Bangalore,Credit,Merchant_34,Health
+b40fa4d3c039917f861c0c64b21b01d9,6d3af346fe8dcf728091356245c5af8f,613.2,2023-10-30,Failed,IND511,Indiranagar,Bangalore,UPI,Merchant_80,Health
+6bd276f4ff93a10e9a5b07ddbb134884,f11c664d21593333f2ed1769b9e12397,396.99,2023-06-23,Failed,IND108,Indiranagar,Bangalore,Net Banking,Merchant_61,Groceries
+c2176ff38bf972852dadb860d850c78e,a7b714235c30d75bd6a3aa1e152faf9c,464.06,2023-04-10,Successful,IND125,Indiranagar,Bangalore,Net Banking,Merchant_39,Health
+8a3834b69375d2b7e011539e8ddaf900,c490fe0eda54a01f489e35ea33bcaff1,744.57,2023-11-24,Successful,IND872,Indiranagar,Bangalore,UPI,Merchant_96,Groceries
+375d1f71bda76d42ed83626db67cbe42,34ec639923eb3d046ab903dd47ce5035,290.06,2023-10-10,Successful,IND825,Indiranagar,Bangalore,UPI,Merchant_32,Clothing
+0a684f22080ee857f0d323a1d5450a87,0c5b1146c176daa15272f481266c2e8e,267.62,2023-08-02,Successful,IND474,Indiranagar,Bangalore,Credit,Merchant_58,Clothing
+0b0443ef278945d5c6efaee0fb187fdd,4ab07dd39a19860b861b8ff811372a7f,992.59,2023-08-03,Successful,IND611,Indiranagar,Bangalore,Debit,Merchant_44,Health
+f82feb297a049564386a70a499e0e9db,a8a20b3b51cc817aed8a82f6ec06a5c1,550.16,2023-05-18,Successful,IND193,Indiranagar,Bangalore,Net Banking,Merchant_41,Clothing
+f6bb926fb14d5b1dca51f47ca39e1ae6,33f24338dbb500b188c98e9fa62db53f,844.84,2023-12-12,Failed,IND441,Indiranagar,Bangalore,Net Banking,Merchant_24,Groceries
+da3b5e334af564fe12dbb662acedcbde,3e21f0e7fb1bb599cfd6ceebc3ee0f75,278.18,2023-05-05,Failed,IND778,Indiranagar,Bangalore,UPI,Merchant_33,Clothing
+734813a40aa94e35e5af01580a1ee350,439c502611ead1a638e719c8205c3c02,94.48,2023-08-20,Successful,IND374,Indiranagar,Bangalore,Net Banking,Merchant_32,Clothing
+6be12c0c435c13342feeeb7a94604503,2c42a025ed2e2eba33c0abca5a52f101,864.06,2023-08-31,Failed,IND305,Indiranagar,Bangalore,Net Banking,Merchant_24,Health
+d982021ad6cead4390bd0cf88fdeaf2a,43621a195d8a23f3dd9e27608faba0c5,177.25,2023-06-04,Successful,IND352,Indiranagar,Bangalore,Net Banking,Merchant_92,Clothing
+05a7d15d74bf3a2858fac86246514762,197461d377695981db3d308419ac10e6,367.87,2023-01-14,Failed,IND263,Indiranagar,Bangalore,UPI,Merchant_73,Groceries
+b1df3293ba55db499671ba7196b44e60,e66ac5d83c1faee02c501a21a9138167,353.11,2023-01-02,Failed,IND622,Indiranagar,Bangalore,Credit,Merchant_10,Health
+b72f1242d613b0503e9c679311ec9a20,777e6cd2dd439ae6f26ea79b08505a57,548.67,2023-12-12,Failed,IND534,Indiranagar,Bangalore,Credit,Merchant_44,Groceries
+ede45f0a20a95f7527e809c138d8054e,f725571182396820d9d1e8b5cc989f95,997.02,2023-08-16,Successful,IND954,Indiranagar,Bangalore,UPI,Merchant_30,Electronics
+1e7b2ecc7249e28ca1d7acb34f06c0ff,15c0e1584c4dfc557f5f0d5018383edd,707.7,2023-06-14,Successful,IND251,Indiranagar,Bangalore,UPI,Merchant_6,Electronics
+93b7ead1622233f10c005e17dc4f057c,4e6ef07bae40f8a823657d264b5b2259,583.29,2023-09-09,Successful,IND726,Indiranagar,Bangalore,Net Banking,Merchant_2,Clothing
+ad557a2f8a7586258f556d9b86386b8b,9a1afcd8f144d903250ca4617b7b4441,977.74,2023-09-06,Failed,IND632,Indiranagar,Bangalore,Debit,Merchant_84,Groceries
+e360e913224bbe1e6dfb02b00a8cf476,255cd4c07eda223ecdcaa6be9a41ce6c,216.94,2023-07-26,Failed,IND126,Indiranagar,Bangalore,UPI,Merchant_81,Health
+27784d7a681c5704164e0196fd953302,9ee519fc426b0e4584e8373c5bfc978a,897.83,2023-08-29,Successful,IND219,Indiranagar,Bangalore,Debit,Merchant_15,Electronics
+0d1dee9150ea04d0da9d384e9329dc1d,5cd895ba32dbef14731949f397d6199d,155.62,2023-10-09,Successful,IND303,Indiranagar,Bangalore,Debit,Merchant_4,Health
+d0dc002a00f61aaea42a379a3ba023ab,b90b02b28e64b7681cd3c0ea9695a2bd,488.38,2023-02-25,Failed,IND709,Indiranagar,Bangalore,Net Banking,Merchant_27,Groceries
+5b8d760d71855faf0f422b576583cb26,bbcc4eea1aac4d8160dbc60a236e114b,970.61,2023-11-06,Successful,IND658,Indiranagar,Bangalore,Credit,Merchant_15,Clothing
+22fda45255da8e28f8ed86bfd235ac0f,59daeeb923e02fd03fd51f3750395f7c,134.54,2023-07-19,Successful,IND659,Indiranagar,Bangalore,Debit,Merchant_58,Clothing
+c05cb9fd4516bd88bef2e0ead7e19f4f,fee6ab94baa660d2b8bc52169ea3756d,774.92,2023-05-06,Successful,IND138,Indiranagar,Bangalore,UPI,Merchant_19,Health
+9289d1f04af5de38bd37f59897cebd7f,b58a2a8ce695a8ad7e83c7f7d8569268,775.75,2023-02-15,Successful,IND629,Indiranagar,Bangalore,Credit,Merchant_51,Groceries
+0cd2dc023c6bc2126cf192e1cc4642fe,d143276c0fcd9549aa80594f3fb5c607,375.1,2023-06-19,Failed,IND281,Indiranagar,Bangalore,Credit,Merchant_52,Clothing
+933c4206836c41e47300c9784f0ced7a,d70efde694e26f57f3e56bd9c847cf53,672.54,2023-10-20,Failed,IND123,Indiranagar,Bangalore,UPI,Merchant_66,Electronics
+e73a8144b0c05c46a300d4e7f0c25047,603900f30bd3e07028f82dc92987b6c5,910.68,2023-11-16,Failed,IND673,Indiranagar,Bangalore,Net Banking,Merchant_84,Groceries
+406271d2ebedf98441ea89a32ddb2b41,aa6b556c63a00544a1f8a4854eeae944,109.87,2023-06-21,Successful,IND194,Indiranagar,Bangalore,Credit,Merchant_33,Health
+8392a1d2468637c7ebc9ab0e955edca2,7d1c5a9bbe5cff79d0552559efd60e16,471.61,2023-01-20,Successful,IND331,Indiranagar,Bangalore,Credit,Merchant_29,Clothing
+75fd5f680ebe7bff18ef96432889ae0a,364849dd32287cc320eafa9d8598b2f1,830.4,2023-01-23,Failed,IND179,Indiranagar,Bangalore,UPI,Merchant_30,Electronics
+b9363f1b48f996a2b42191e89b620467,9177d2441618b25d1ef5fbc712ecc38b,415.04,2023-09-15,Successful,IND707,Indiranagar,Bangalore,UPI,Merchant_71,Electronics
+ccc42d08ef48c01ff2e1dd5a7eb60b35,0158d46f16f084bca07fc4ae3e5fb60c,962.41,2023-03-12,Successful,IND307,Indiranagar,Bangalore,UPI,Merchant_28,Groceries
+34edc3926857b55ff8424c81f347a2e7,10564d0271378653f677ec9ded0bc212,506.75,2023-04-22,Successful,IND921,Indiranagar,Bangalore,Net Banking,Merchant_100,Electronics
+73715f7760a5e527d62ec595ab14aded,a674d26e90c2c194f3f2b50aac26e758,157.78,2023-05-28,Failed,IND126,Indiranagar,Bangalore,Debit,Merchant_53,Electronics
+84dbd6c0b52913d033dacb7ddfb1cf8f,5b14030fa29bbcb3ac4cf4a6a5e8dffa,16.52,2023-09-08,Successful,IND103,Indiranagar,Bangalore,UPI,Merchant_94,Health
+3be434fba0bf327ec5acd4f1e9e393d0,cba302215ec922ff6f87579ed192cd49,206.93,2023-07-09,Failed,IND589,Indiranagar,Bangalore,UPI,Merchant_56,Groceries
+79ff1146ba485332cf68a6312a44878f,862765bad168da6047d12d40db819f08,313.05,2023-10-26,Successful,IND711,Indiranagar,Bangalore,UPI,Merchant_95,Groceries
+8eb5a63e8a7217279acb3b14dcbf7c9b,c32e11c379554c701dab88869856c957,321.6,2023-11-07,Failed,IND703,Indiranagar,Bangalore,Credit,Merchant_100,Health
+dcc128a4b7ce6698e88ffc755a0bcbfa,fdff0bb2f81fde42a4d550d77979e782,609.98,2023-09-12,Failed,IND798,Indiranagar,Bangalore,UPI,Merchant_18,Clothing
+d16ca99163c05b2f6675e062c6dda0ab,ae1d6b46177f999dbb2ab287c868c083,962.0,2023-06-16,Successful,IND518,Indiranagar,Bangalore,Debit,Merchant_17,Clothing
+4a3c8e9a0c25be39fbbb3737bc5c213c,275e6e0f10063799b13d89ef3e73175c,508.0,2023-10-04,Failed,IND574,Indiranagar,Bangalore,Net Banking,Merchant_75,Groceries
+ba963d5474610a17cc31068cc980e4e6,094f77cee8751566cec6361656bb8c3f,121.56,2023-10-31,Successful,IND246,Indiranagar,Bangalore,Net Banking,Merchant_95,Health
+502acad14ca3a5778345caefa2edac64,7c3a49bcc6a1d78cce7f45489d8d59db,551.16,2023-08-30,Failed,IND274,Indiranagar,Bangalore,Debit,Merchant_91,Clothing
+54f7c7cdb4239cdafe794ba025abcf9f,03f56f7e66cabf277c49259a189f2a71,93.64,2023-11-03,Failed,IND941,Indiranagar,Bangalore,Debit,Merchant_58,Health
+fabe178563d1eff87fcbef5c1e170b7e,aa409330ebc2cf687e35a146ac3274fb,728.57,2023-02-20,Failed,IND307,Indiranagar,Bangalore,Debit,Merchant_32,Electronics
+06a114daddc9116685f3c32b0a5b9144,ce3aa5fa61762578285fe8fd08264e76,334.88,2023-06-06,Failed,IND319,Indiranagar,Bangalore,Debit,Merchant_19,Clothing
+c30f0f585f7c829097fcd5b9d1fc6daf,5c6c4126414ca756b96b6315c256808c,648.26,2023-11-18,Failed,IND532,Indiranagar,Bangalore,Debit,Merchant_12,Groceries
+a20c7fdb53bbb8981d77ddec2bb19923,3b741f8f5415be723f19edcb11fdb438,396.69,2023-02-13,Failed,IND820,Indiranagar,Bangalore,Debit,Merchant_19,Clothing
+32e26aa19c10b0e1d08dc744acff0101,eceea5ca007e1228b679886221a87249,663.88,2023-10-13,Failed,IND655,Indiranagar,Bangalore,UPI,Merchant_9,Groceries
+430a14a82acbea0583d7dc00c3491762,a9666806ad2b47b40fc02fa0d7bc92ce,979.5,2023-06-16,Successful,IND259,Indiranagar,Bangalore,Net Banking,Merchant_20,Groceries
+d0cb6128565a296470d841346bd14d83,f53237adee411c426cfd8868e77fbc90,841.49,2023-02-03,Successful,IND623,Indiranagar,Bangalore,Net Banking,Merchant_50,Clothing
+1e381295d2e724c6c27f71289daaec81,6b426b86f05933faf39c576e2e70c574,455.55,2023-01-23,Failed,IND967,Indiranagar,Bangalore,Credit,Merchant_8,Clothing
+0bc221257985fbe660ba30ad9ed3f425,fdddaa1652cf58591e695b53a20daf89,510.14,2023-04-27,Failed,IND586,Indiranagar,Bangalore,UPI,Merchant_28,Clothing
+82b45df91de16fa117d6efdfc5e80c96,6d54b0a10495333a69b87e9442b5dae0,516.43,2023-05-29,Failed,IND351,Indiranagar,Bangalore,Net Banking,Merchant_57,Electronics
+fddfebee882789448c3387608272ed87,33dc815a6b220286114ede26e9fa530c,972.01,2023-03-13,Failed,IND296,Indiranagar,Bangalore,Credit,Merchant_40,Health
+5184b769bb95787cd52526a844c6b173,91a2452c76e53b3db2dd5aa05246a855,896.88,2023-03-07,Failed,IND539,Indiranagar,Bangalore,UPI,Merchant_61,Groceries
+0a69bddaf4c45590928479348c8ff517,be4db09ef4671facbfecfe9c7904ef8c,847.65,2023-01-07,Failed,IND948,Indiranagar,Bangalore,Debit,Merchant_43,Clothing
+c67333bb38a379ec87974aac64aa0362,dda0030c08b160a143ac935622f949ee,675.17,2023-11-14,Successful,IND698,Indiranagar,Bangalore,Debit,Merchant_67,Groceries
+105390ec1471e329959c4d74b426aa1a,d283a28ffa789aed6330ca398767cf20,566.81,2023-10-03,Failed,IND562,Indiranagar,Bangalore,UPI,Merchant_10,Clothing
+645071be751cdb402fc61bad528c977b,64f987bac519d12ea512aeb1056a1df0,541.24,2023-02-06,Successful,IND107,Indiranagar,Bangalore,Net Banking,Merchant_60,Electronics
+ce38a00ffe287ef96ec34e65a503182c,87a45ff332a908d1bfa559d85d8cecba,532.95,2023-04-13,Failed,IND285,Indiranagar,Bangalore,Net Banking,Merchant_48,Health
+9e998e7fd655fe3560721a3967d245d1,f367c895ae521b6e8858063ecde0e862,445.95,2023-04-28,Failed,IND190,Indiranagar,Bangalore,UPI,Merchant_88,Groceries
+c8de4f1a0a2f04782d640bc8de687ba2,2394dec58f01fc75f226b8e4bfc137b2,572.32,2023-03-20,Successful,IND593,Indiranagar,Bangalore,Credit,Merchant_9,Health
+39a86f0fbd9026e0c520351787c7b5d3,82e632a4ced53c52a1c244fd133b2a99,900.02,2023-08-25,Failed,IND214,Indiranagar,Bangalore,UPI,Merchant_98,Health
+456991e921d5cbd4e97d506242792837,26a097860d5f8db04d6a8de0a418c7a3,369.89,2023-02-13,Successful,IND580,Indiranagar,Bangalore,Credit,Merchant_6,Health
+1180aa0b50c1610079bc021bf5aa3c0f,4e3df3ef5735e23420b357ddac295c01,904.14,2023-02-26,Failed,IND169,Indiranagar,Bangalore,UPI,Merchant_1,Electronics
+270259a5b2d94e92e0e3f804d3b590b1,137d57a44309c584301cb3c4036eb003,993.2,2023-12-30,Failed,IND405,Indiranagar,Bangalore,Debit,Merchant_48,Health
+7b9014a6adc64405ac25b87ef62bba42,58b18376c2a1e61a4a1147f17ca43d4f,964.38,2023-01-26,Successful,IND823,Indiranagar,Bangalore,Net Banking,Merchant_78,Clothing
+ee020b88a2a2b0c35c2ad85fb36b730a,b97466d4dc48a3d765de67c58cae9754,352.85,2023-10-29,Successful,IND189,Indiranagar,Bangalore,Credit,Merchant_99,Electronics
+f427567d866d95f01dcab28952caafa1,68d7f7c09bc8bce7c86d3b932af768c3,750.28,2023-10-15,Successful,IND979,Indiranagar,Bangalore,Debit,Merchant_86,Clothing
+cfff4e3c9a4d69f75c3a11416d50306f,990902336f458928ba98876ddc24cdbd,805.87,2023-12-24,Successful,IND621,Indiranagar,Bangalore,Credit,Merchant_90,Groceries
+ce0038faa79aa98ab13c7a9749d1f30b,cb63ee2adf6cceccc88b28432d32633b,909.71,2023-08-31,Successful,IND285,Indiranagar,Bangalore,Net Banking,Merchant_5,Clothing
+4018ccb4dc585b9d37e362ad8b4b6d76,4f6d6326a354a5e29c2d6ffe5fc5aa00,629.15,2023-12-16,Failed,IND911,Indiranagar,Bangalore,Debit,Merchant_68,Health
+2471d44c8353ecd1e66ff045fa0b6187,352051c62b64d2af6906cf05e378e80c,331.35,2023-01-29,Failed,IND260,Indiranagar,Bangalore,UPI,Merchant_8,Electronics
+3798e8f26ebe15afb879adf42602f0cc,7a07e5f44b579dfc8505f5c185a779d7,318.77,2023-12-11,Successful,IND345,Indiranagar,Bangalore,Net Banking,Merchant_20,Electronics
+ce28d0c0d0f0a8317082bed8c2bb375b,b1ca982ff075a2d9d796a83fba4cd58d,684.53,2023-06-22,Successful,IND799,Indiranagar,Bangalore,Debit,Merchant_35,Health
+6fa7c51a1fa4cf18cff5377b583ca948,cd5a60675f299b1ead6d4e843dd6f9d6,753.04,2023-11-09,Successful,IND245,Indiranagar,Bangalore,Credit,Merchant_57,Health
+ef2d23d7d5a2b480c116571197e0c969,5cc8a6a6788ba9bb711594d223b66b6a,606.2,2023-10-22,Failed,IND769,Indiranagar,Bangalore,Debit,Merchant_76,Health
+17c531c2cf685bbca824c211c7132883,8b4267c0a196cb530283b651854edaf3,444.35,2023-12-13,Successful,IND884,Indiranagar,Bangalore,UPI,Merchant_91,Groceries
+1728179b6a1c71c486952a4416daf9c2,48f8596297a1fe9212264d5bd498a709,542.44,2023-01-22,Failed,IND225,Indiranagar,Bangalore,UPI,Merchant_10,Groceries
+7f34453f5311c10f9ecceaa80d8d5565,abf5536d63ca65cf223638c633832a3e,650.35,2023-03-06,Failed,IND405,Indiranagar,Bangalore,Credit,Merchant_27,Clothing
+8d537699b3fbdfe61b9b68b8d53a0267,3baef26be78f59ef9b241ff84d047cc4,654.75,2023-08-17,Failed,IND955,Indiranagar,Bangalore,Net Banking,Merchant_69,Health
+3b3e388cbcca7df19765b32518547a13,f432c2ad6cfe656892cfeb0c660c6955,302.08,2023-07-11,Successful,IND208,Indiranagar,Bangalore,Debit,Merchant_37,Clothing
+7c89b9b9b7f598c68671fd2c67ea9f14,4b2e765de48b237937d28afd0976cd0a,393.46,2023-01-12,Failed,IND653,Indiranagar,Bangalore,Debit,Merchant_48,Electronics
+e5299131333e320d92e75aa88321d660,61ba612e19096bd01196a863c9e5c695,751.3,2023-07-03,Successful,IND384,Indiranagar,Bangalore,Credit,Merchant_31,Electronics
+ecdd31d1067f262d1378763d22f75312,4f3089a070dcea9f13ddab39d69b57a7,153.69,2023-10-05,Successful,IND313,Indiranagar,Bangalore,Net Banking,Merchant_70,Health
+73960dce8ebeb32ea242def562a1c792,e1b8de3559ab6688ef5738834732a1fe,944.79,2023-08-21,Failed,IND729,Indiranagar,Bangalore,Credit,Merchant_16,Electronics
+24f606d82ea2dcb6653757d4aa037d18,938784d63ef95b002c2eef6213038930,578.89,2023-05-06,Failed,IND202,Indiranagar,Bangalore,Credit,Merchant_38,Groceries
+8a04921994237305cf42622be0f007db,4da7f043afecd109fbb37385731156a4,733.03,2023-12-30,Failed,IND638,Indiranagar,Bangalore,Net Banking,Merchant_19,Clothing
+34e717ef71b75a2847f6195688ade1cb,3483ae7148b9d12f005113ecfb861ba8,492.39,2023-03-01,Successful,IND618,Indiranagar,Bangalore,UPI,Merchant_92,Groceries
+1989c60ff80c3af1af36b12f265614f7,445e5afa3fd09ec3a925bde856e19cf8,434.59,2023-01-24,Failed,IND848,Indiranagar,Bangalore,UPI,Merchant_73,Health
+71d433d015689aae01baa104cd437c17,c317d7e832e2941de96a9b1cb719ada9,433.6,2023-11-16,Failed,IND775,Indiranagar,Bangalore,UPI,Merchant_37,Clothing
+12bad6634891b815ad28445ccee605fd,926d7708aaf67d5aa9118acbbdf55911,819.29,2023-02-22,Failed,IND343,Indiranagar,Bangalore,Credit,Merchant_25,Health
+a7f9bea8bcc04391c1a7d8b7c1fba2c4,f218befd9787e2cb0e0616e04d85e8d8,254.04,2023-11-20,Failed,IND266,Indiranagar,Bangalore,Net Banking,Merchant_52,Electronics
+240f87788f1c82e7dfa1e7dc171ce8f3,60219166d9dbdc13aa14c023bb97947f,816.8,2023-05-29,Successful,IND726,Indiranagar,Bangalore,Credit,Merchant_50,Health
+c63130744781863ec49dc0240fac51c8,eff8f52cb8cf76daa92b8fd45c60d79d,711.88,2023-11-21,Successful,IND396,Indiranagar,Bangalore,Debit,Merchant_55,Health
+68ebf6c66d3d86fedbec3b7177d08852,910c6d1012f95681ec8c88d504d36f82,363.29,2023-02-21,Successful,IND271,Indiranagar,Bangalore,Debit,Merchant_28,Health
+39e74a7dd98ef5890064db94d864b12a,3884a8f35dd75cc1a3fe582994a2893f,129.6,2023-08-27,Successful,IND569,Indiranagar,Bangalore,Net Banking,Merchant_17,Electronics
+8bb52cdf9d832e1c923284c92c5f1cc6,0e3aa24bf9fe1941de45d5fc6c356bae,845.16,2023-04-04,Failed,IND608,Indiranagar,Bangalore,Credit,Merchant_37,Groceries
+0d4f0b70bef7920c196c0580a5588fae,fdb87db55ca5fd1013e32c180c670925,228.54,2023-09-03,Successful,IND498,Indiranagar,Bangalore,UPI,Merchant_85,Health
+bfe615f7fd4fa248a5706f5cea13f584,86bffd68d08fbb8cecfa29e0a52cf5d2,785.37,2023-11-01,Successful,IND754,Indiranagar,Bangalore,Net Banking,Merchant_22,Health
+23128a101a255ddfced6635d92ac1ab4,21073f60e1821f314e43f94f3bb57295,720.55,2023-09-11,Failed,IND689,Indiranagar,Bangalore,Net Banking,Merchant_2,Health
+e67f6437d210c17fc9604e9d0b8ed86e,08d279f34659efb4a68072d9336afbf5,941.56,2023-02-08,Failed,IND575,Indiranagar,Bangalore,Credit,Merchant_41,Clothing
+d8ceac7dd4e0293a94304509ba154554,e6df32b97bcdd121798f7ef267f346cc,907.49,2023-02-15,Failed,IND385,Indiranagar,Bangalore,Credit,Merchant_61,Health
+a94d76fddba83695b02e89080e7243e5,dd5403a5759dfc0d0bad2393b048ff33,769.08,2023-01-04,Failed,IND609,Indiranagar,Bangalore,Net Banking,Merchant_48,Health
+88a26abae44693e6a2070c2f6f45a093,ee995040e654a8ea1cfa6cc4e1e5aed7,345.4,2023-01-10,Successful,IND821,Indiranagar,Bangalore,Credit,Merchant_31,Groceries
+42672f8b8d699442f077ec8f4534e99c,02bb8e8bcab45285afaf785e45dfea14,659.93,2023-09-21,Failed,IND400,Indiranagar,Bangalore,Net Banking,Merchant_79,Clothing
+ceac0484694f01b0898e21c4d417272e,36d633c49a38d484b68f122b697c8db7,554.64,2023-04-21,Failed,IND279,Indiranagar,Bangalore,Credit,Merchant_83,Electronics
+a8d748cfdc6ecbd8f8d871e19297d948,a467e25939e4eed71d9265a7c5d875a5,498.81,2023-11-27,Successful,IND958,Indiranagar,Bangalore,Debit,Merchant_6,Groceries
+ef1ad50c08899750123a42ab6867eb0a,7db231c38fc28a906be9cfa6d8c37f3d,43.05,2023-03-18,Failed,IND446,Indiranagar,Bangalore,Debit,Merchant_35,Electronics
+d9700927a14063e3abaef80009c1ff43,7294521982250bd1d25ae1176875b719,35.09,2023-12-24,Successful,IND392,Indiranagar,Bangalore,Debit,Merchant_81,Clothing
+ea29982bb7402eb1dcfa69ee61ed8e96,6523d4cca8d6e56c6ae5aaf5d0636b59,868.18,2023-09-28,Failed,IND272,Indiranagar,Bangalore,UPI,Merchant_57,Clothing
+c77e4b82979c61d8c022c103f335702c,e75af6e3b52a023f09a69ab0d0484adf,909.51,2023-10-31,Successful,IND438,Indiranagar,Bangalore,Debit,Merchant_78,Clothing
+754bcb1f193d6bb1d5241414250ea926,8d2734f7228e02d3f9d7b69abcd9949f,776.75,2023-07-18,Successful,IND127,Indiranagar,Bangalore,UPI,Merchant_61,Electronics
+425481dce0383a3742fb61becfb21cc7,93c92149b39b9286f8819bc4d42a8952,786.84,2023-08-22,Failed,IND612,Indiranagar,Bangalore,Net Banking,Merchant_92,Electronics
+fc6d3cba5c8a6f45745c404c535809ec,bfa4c384380133907bbb24cfe36feba6,31.03,2023-09-04,Successful,IND729,Indiranagar,Bangalore,Credit,Merchant_14,Clothing
+f6c537f276c2f46873709ffad82b93b8,1186165e177853e1e4a096dc7081035c,688.64,2023-05-29,Failed,IND748,Indiranagar,Bangalore,UPI,Merchant_91,Clothing
+6c3ed52dd2c77036ef1f22be1de559e7,2315783e7a920cd00820516b94143e1f,865.52,2023-07-31,Successful,IND287,Indiranagar,Bangalore,Credit,Merchant_86,Groceries
+a85586b357b902b5922a17109c18769e,9f6da8523764201c065522db27ba98e1,706.95,2023-07-08,Successful,IND100,Indiranagar,Bangalore,Debit,Merchant_23,Health
+6f3fe44d98627950f12d59935b5bd88e,53effa35d7825d692925a1539ba52f6f,641.19,2023-11-16,Successful,IND581,Indiranagar,Bangalore,UPI,Merchant_84,Clothing
+b0edcaa592f61aacb1e6ec8aff9c2ae4,d93688932df9a85e1e59e6f9a5a2b3fb,694.35,2023-08-30,Failed,IND292,Indiranagar,Bangalore,UPI,Merchant_12,Groceries
+572bb251e5b261cd6a5cee322c74618c,5487536071690c1b872833387df9aa7d,273.68,2023-01-09,Successful,IND424,Indiranagar,Bangalore,Debit,Merchant_98,Electronics
+4dd05850ba23c438a67690ead14616f6,a4ba9f8f55c0008b0db3e6354754434c,112.27,2023-04-19,Successful,IND131,Indiranagar,Bangalore,Credit,Merchant_36,Clothing
+d81c0292b07a18745407e7bff6266933,a8b2b8716c92498273b5af5615a863b4,358.32,2023-12-28,Successful,IND758,Indiranagar,Bangalore,Debit,Merchant_27,Electronics
+c1b9adf76698dda32488210eab7f8fa5,d838c8913f3a1e2fc48679f30b5c2d8c,657.45,2023-06-27,Failed,IND650,Indiranagar,Bangalore,Credit,Merchant_99,Electronics
+873a480cb22be40995d3e16162ae07ef,31aa4010f92ec6824af33ad8628c1c22,54.6,2023-09-09,Failed,IND499,Indiranagar,Bangalore,UPI,Merchant_89,Electronics
+107c065fc6c195ec53ef537407414ce3,1ad4bba36f0f94809095525ccd9408e6,117.08,2023-06-05,Successful,IND234,Indiranagar,Bangalore,Credit,Merchant_72,Health
+3157763342a85b94d2a69d6731a9ca91,167862bd22246a80c45e14c55ea5a699,250.58,2023-04-30,Failed,IND910,Indiranagar,Bangalore,Debit,Merchant_81,Clothing
+ebef6f2e237aea117905ebcecd0130b5,aaa8913412107b3fceb1dce4463978ae,213.25,2023-03-05,Failed,IND995,Indiranagar,Bangalore,Debit,Merchant_35,Health
+36b8e921c10fa1695e8d66bf6b768a16,1a0eb33529d67f0ed605325206787548,113.38,2023-06-24,Successful,IND381,Indiranagar,Bangalore,Debit,Merchant_38,Health
+ebd66cab30f8b6dd57f017c790479973,18323c0c752386719058e1beb0185ea6,62.52,2023-10-06,Successful,IND817,Indiranagar,Bangalore,UPI,Merchant_60,Health
+b69ea3d8041b6af6551c597a355971ba,3615814a63d13756847ddab6fd42347b,244.79,2023-05-06,Failed,IND385,Indiranagar,Bangalore,Net Banking,Merchant_33,Electronics
+a7897e3b2896dae51209d656b77bbd6e,10de8a977318accb9767171cf920c48e,36.74,2023-10-11,Successful,IND585,Indiranagar,Bangalore,Net Banking,Merchant_8,Groceries
+006bbc578fde4368c02c5a25e4a1df33,26e88d4a5414efc04c5a953de4f52dfb,923.91,2023-01-28,Failed,IND448,Indiranagar,Bangalore,UPI,Merchant_44,Electronics
+fcdff9d04951c3488bb75ae1fe74086f,250906ce9eadd55e65918210c7cfa845,860.59,2023-11-02,Successful,IND237,Indiranagar,Bangalore,Debit,Merchant_95,Groceries
+74819fc8a21bb70aa1672f93c3491aff,bc081a2d677d820e83655ec7251af7ba,87.87,2023-08-19,Successful,IND895,Indiranagar,Bangalore,Debit,Merchant_75,Health
+99de43f8af54c24f23c10ca94f94531b,b6631d73ea72a8631fdbe44d64224f2e,428.09,2023-06-28,Successful,IND968,Indiranagar,Bangalore,UPI,Merchant_22,Electronics
+5a3ba6231775a13072de880c776950c0,44a1dce11b29e751dc1fea1aa6dfb25f,481.32,2023-09-26,Successful,IND276,Indiranagar,Bangalore,Net Banking,Merchant_63,Groceries
+4e27359798fd4265cb4e2fdd27938fc7,ac3a83848db76ed96428fac7152e490a,43.78,2023-05-27,Failed,IND261,Indiranagar,Bangalore,UPI,Merchant_54,Health
+a2e2200af84037aa4285b92bb68926a9,bf9e868de542cb9f43e245571904b130,318.67,2023-08-27,Successful,IND810,Indiranagar,Bangalore,Net Banking,Merchant_33,Groceries
+4cc46ef1ef46df1eefd5a75a059e9a8f,5132ef08f898e7f9b197c3c659614cbd,478.55,2023-08-15,Failed,IND562,Indiranagar,Bangalore,Debit,Merchant_37,Health
+4bf7a286f736f920a82b12aa6d6d1726,afd9c0284027c2a61b7a1bf40bb9ec16,599.07,2023-05-29,Successful,IND237,Indiranagar,Bangalore,UPI,Merchant_38,Clothing
+9ec382ba1942905f6ed4a4a3d1e56479,b30e44f5804244a7af9566ebada3e195,96.92,2023-10-03,Failed,IND774,Indiranagar,Bangalore,Credit,Merchant_39,Clothing
+76b9a92f40520a69c1d12caa7af18710,7aa57246fcb8d3d08c9cb9755a7c07b2,142.7,2023-11-14,Successful,IND656,Indiranagar,Bangalore,UPI,Merchant_2,Groceries
+fe5495a84ddd35ddd7bc6c9b9e84eaae,df0626594ace734a0826b4985d8ff5b2,229.29,2023-04-12,Failed,IND527,Indiranagar,Bangalore,Net Banking,Merchant_23,Groceries
+74993c66810b596e71d12dac5044f939,bbf80f3ce5d3b8a810cd6b84a5206e72,872.68,2023-04-02,Failed,IND774,Indiranagar,Bangalore,Net Banking,Merchant_56,Groceries
+3c155626019413d849349105daab4751,3b77b8c3956a0e070ff88e003db08554,954.04,2023-08-11,Failed,IND804,Indiranagar,Bangalore,UPI,Merchant_56,Groceries
+c614becd90ec5d6f07bb5e107e38b471,2366b815d07ea3f060bc590d71ae42aa,910.68,2023-06-29,Successful,IND710,Indiranagar,Bangalore,Net Banking,Merchant_13,Health
+2825bb527ec2feeb1f48451f23917293,322e1d188db0459decd17405f223cc4f,341.33,2023-03-12,Successful,IND694,Indiranagar,Bangalore,Debit,Merchant_10,Health
+46278bd3848f94dd14bf5a0297b03125,e969260bd72988eb7fed3cbe2023b359,924.73,2023-05-12,Failed,IND945,Indiranagar,Bangalore,UPI,Merchant_49,Groceries
+b317e9f6da51973b19a803b92e922ce7,ce424e4863a8f59f72bfbe4c1ad457be,841.6,2023-12-18,Successful,IND433,Indiranagar,Bangalore,Credit,Merchant_35,Electronics
+45dd6157d6f1435589653c78cd9611d6,f8684dc446a4e1f5f815d01325ed60b3,842.94,2023-10-07,Successful,IND489,Indiranagar,Bangalore,UPI,Merchant_27,Clothing
+be9381f1f06a29a1d59cb0d6757caefd,0cded5b753bf2e14a1e1c6dbcff01aca,893.79,2023-05-02,Failed,IND485,Indiranagar,Bangalore,UPI,Merchant_45,Groceries
+a91bef9eadddd210b3266101af8a2aa7,796f90051d15b156b9c45f19a2f2b77d,596.32,2023-09-03,Failed,IND337,Indiranagar,Bangalore,Net Banking,Merchant_25,Health
+4b1337af61386726d9f9175847619b7d,0313664469a3649b82b5e85a02c4b540,707.15,2023-04-26,Failed,IND266,Indiranagar,Bangalore,Debit,Merchant_24,Clothing
+d6f51fa9baedfaa23ddec7ddce2a56da,d48122f37de4867fbad0d0b5bf62eb66,831.43,2023-10-06,Failed,IND622,Indiranagar,Bangalore,Debit,Merchant_16,Electronics
+8b32f4bc0abee99b5a8109a70c7a0552,65e0f60b8addfcc69c55c20eb0af4af9,14.63,2023-08-02,Successful,IND304,Indiranagar,Bangalore,Credit,Merchant_76,Clothing
+c6eff563ca6b802da719b8462d735b84,4e890ba513643d68d38b688679643176,449.71,2023-06-29,Successful,IND615,Indiranagar,Bangalore,Debit,Merchant_64,Groceries
+f4b7c0ae248a4be80ff5e603e80fdad9,d751dc1b1acf2dead899138f459ea021,187.38,2023-06-07,Failed,IND746,Indiranagar,Bangalore,Debit,Merchant_10,Electronics
+aa3e3b9449849f5b0fcd1fa8bacf699b,8369c45d5ba88e1d693d7ea22b5c892f,891.92,2023-08-03,Successful,IND238,Indiranagar,Bangalore,UPI,Merchant_12,Health
+115754c82164d6dc87729b508f67bc0a,51dc82b713aebb3dccc7296d6b62bb78,835.17,2023-12-25,Successful,IND659,Indiranagar,Bangalore,UPI,Merchant_39,Electronics
+72ac4b226ac486185040d4081bd7ac99,b05e4427856bbae661e3851717896d7c,303.96,2023-01-08,Failed,IND180,Indiranagar,Bangalore,Net Banking,Merchant_74,Groceries
+cac0d7a98a38934f8057bd4ee529a4d8,ca3619ab1d2f6ba9315ebaf5befc30d8,344.22,2023-03-15,Successful,IND218,Indiranagar,Bangalore,Debit,Merchant_61,Health
+7ea35390ee6f572d11fabcc6cb2e1efe,45d785023e4b7e6d4072fd52901cd913,298.09,2023-02-02,Failed,IND555,Indiranagar,Bangalore,Credit,Merchant_29,Health
+f9bbe01f0e6bb4d115dbcc928259923d,cf6b09e8fdde551b5527fefe1ce77323,658.87,2023-09-27,Successful,IND179,Indiranagar,Bangalore,Credit,Merchant_19,Clothing
+47b74348d810b785b1936b52e295b88a,515ef1562057384e2aea339e07077bff,423.53,2023-01-30,Successful,IND971,Indiranagar,Bangalore,Net Banking,Merchant_26,Health
+1d2400f4611792565761f73a6550ff04,071b0441ad471491903981490c527d29,541.29,2023-02-05,Successful,IND312,Indiranagar,Bangalore,Credit,Merchant_46,Groceries
+2d7fd96016f3f3d96218ed84223fffa2,eea7bd275ddf522822c975a7a0199c39,136.31,2023-05-25,Failed,IND206,Indiranagar,Bangalore,Credit,Merchant_68,Clothing
+7082af13e34797de5f3d62083821edf0,596bb43b8fd9f515d0e8a90642cc7e5d,49.14,2023-05-19,Failed,IND651,Indiranagar,Bangalore,Net Banking,Merchant_44,Clothing
+75b7a2a7cb3df23f2bbda49cfce8c17e,0043bf8967e591f5eebb1b318bbab229,241.27,2023-05-14,Successful,IND505,Indiranagar,Bangalore,UPI,Merchant_31,Clothing
+7a6a73a719dbd720d246fc57eb187644,59e612ae5be64200c61b1449f06183ff,918.88,2023-09-30,Successful,IND136,Indiranagar,Bangalore,Net Banking,Merchant_90,Groceries
+15925f1ad46e317dd69ecf0e1bcdf31b,df4e0733c973a97e4b288ea11a06e312,468.88,2023-06-22,Failed,IND488,Indiranagar,Bangalore,Net Banking,Merchant_66,Groceries
+931697721faacd16ea0a23d9d2f5966a,9e3e779f1e4f82847f49d713a305b966,104.42,2023-03-24,Failed,IND427,Indiranagar,Bangalore,UPI,Merchant_38,Health
+2a37d8db31d67a77ae352058e94a28f2,0fd0925cc4c3f18be0e975b4138cc114,916.28,2023-01-23,Successful,IND628,Indiranagar,Bangalore,Net Banking,Merchant_14,Electronics
+7004a55716d26017865c4e74bd7d17fd,2e7909d02594caf83cc82a314d7a53f5,384.56,2023-10-23,Successful,IND346,Indiranagar,Bangalore,Debit,Merchant_12,Groceries
+e1b8cdbe80f4590f94a5c246e0bc9ee0,a7083a2544645e5d504c720fabcd4355,916.8,2023-05-07,Successful,IND223,Indiranagar,Bangalore,Debit,Merchant_73,Clothing
+a281f60abf736c7ace778217f029d209,37676c9f8bc85a48de8125b6106f40c7,728.87,2023-06-19,Successful,IND208,Indiranagar,Bangalore,Debit,Merchant_100,Clothing
+c21312cf4a168df72a7b317e2f46a929,cbf5a51a782109368cbb6849fed26bb5,196.23,2023-01-09,Successful,IND833,Indiranagar,Bangalore,Debit,Merchant_87,Electronics
+b0f72a3aa8253ff6f369421d5ad2548c,c0493f978a1326e8df3d02040421179a,934.11,2023-04-15,Failed,IND400,Indiranagar,Bangalore,Net Banking,Merchant_32,Electronics
+aa757f19253fb51c9b2b7354e7e04cb8,7c2cc96fdfa72940a8135861a86fdd83,168.04,2023-10-19,Failed,IND694,Indiranagar,Bangalore,Net Banking,Merchant_21,Health
+89f92c627ab5e3f01da4319887735078,7d46e0478ca4f1c6a1fd0b6fa9fee690,242.43,2023-05-04,Successful,IND219,Indiranagar,Bangalore,Credit,Merchant_5,Groceries
+700ab92963646bd802007188d43f4bab,7a5be80728fd94f7f91eb566a544a7a7,206.91,2023-11-13,Successful,IND574,Indiranagar,Bangalore,UPI,Merchant_91,Electronics
+1d669b59e5f0089f83277083be8ea9bd,2c7297cf01b8edb6e97acfe38fe8b46f,523.93,2023-08-21,Failed,IND715,Indiranagar,Bangalore,Credit,Merchant_31,Clothing
+bc4f236d80e6cc9f1cd59ac5b406ad31,c300f642c04c150ac75dd3fc6970254a,872.05,2023-11-17,Successful,IND102,Indiranagar,Bangalore,Credit,Merchant_68,Electronics
+e7997f05df45a8e4f8a71ab0fd7fce62,d4ba60eda1cdc4b8dd5ae3c79dfffc2b,525.73,2023-08-21,Successful,IND550,Indiranagar,Bangalore,Net Banking,Merchant_23,Clothing
+36936e6e0d66404f32b214503f414365,5d48fb3a486d19d1422fda5e55b0a679,897.21,2023-05-11,Successful,IND481,Indiranagar,Bangalore,Net Banking,Merchant_51,Health
+8ba73f58aae02c29789bcdbd723ea291,6ac69834874044b628218d325bef641e,992.95,2023-05-22,Failed,IND204,Indiranagar,Bangalore,UPI,Merchant_36,Groceries
+c6a51ea9cdbfa800ad79a60642269c94,be7c1b7f3ab01d00bfea3d8f09a38bf8,275.47,2023-04-03,Successful,IND544,Indiranagar,Bangalore,UPI,Merchant_17,Health
+5ec4e65756d0b8366b134641d225785f,9a90232cdeefedfd427f58f6349ca2c0,100.79,2023-10-05,Successful,IND740,Indiranagar,Bangalore,Net Banking,Merchant_27,Groceries
+3fee4f306a6d7ddb7f194d44408fe4fa,d6056363ba1180ebee78dd1dc00c8a18,452.01,2023-03-10,Failed,IND393,Indiranagar,Bangalore,Debit,Merchant_93,Groceries
+dc459c74899b54fa6bc122d4d2766cae,d517d6c0ea5e53f0b93ed331c5f121d9,86.17,2023-09-06,Successful,IND877,Indiranagar,Bangalore,Net Banking,Merchant_84,Groceries
+937424fe47ea2869753cb10c61dd233c,99234e390cf77d8f5563bb6eed15b94c,893.86,2023-03-09,Failed,IND795,Indiranagar,Bangalore,Debit,Merchant_88,Clothing
+01e62f7956f4676fb063aa4d79335b62,9d8cac6a3c8a80c13f27744b19ca6101,791.79,2023-11-09,Successful,IND784,Indiranagar,Bangalore,Credit,Merchant_44,Groceries
+0905522220ef04e0ce08e186192ead39,6e436c7b4fe4e11c96af7ab737dfbb82,502.88,2023-11-21,Successful,IND272,Indiranagar,Bangalore,Net Banking,Merchant_68,Electronics
+5be21022946b839e106827e1f0f353cd,4a302038984ad0d664712bad019c8e37,138.58,2023-10-30,Failed,IND861,Indiranagar,Bangalore,UPI,Merchant_86,Groceries
+87cc5e99250a3437e8a671d13ca8b29b,fa31634b0e4c420efeed98dbeeefb069,233.89,2023-07-30,Successful,IND820,Indiranagar,Bangalore,Net Banking,Merchant_64,Health
+6bf52e8e2b17149afdcb5058d31c1ea9,7464942907b63a8078e296d501dbf689,763.32,2023-10-02,Successful,IND735,Indiranagar,Bangalore,UPI,Merchant_80,Groceries
+e9a4da91c774765242bb60fc37270fe9,bf30d88b59d2f4830352f5ce9a879517,466.35,2023-06-07,Failed,IND699,Indiranagar,Bangalore,Net Banking,Merchant_43,Groceries
+e8e14da5fa831bdc516a296e4015b861,3cc1fb560cf077529c26efd5a1cb321f,266.69,2023-12-24,Successful,IND828,Indiranagar,Bangalore,Credit,Merchant_86,Health
+70443b4b48af8d51adcf0bb42c419ddc,96f7bc80a5b6ad85de7fd0c3a9837ff2,248.27,2023-08-16,Failed,IND274,Indiranagar,Bangalore,Credit,Merchant_35,Health
+5d6a5e94fcfc9c13022945c5deb673d8,5a1c17f26d0a655b12d4009495761638,626.98,2023-01-10,Failed,IND874,Indiranagar,Bangalore,Credit,Merchant_72,Groceries
+1ab0c3b6cf5c0ef3ac0737f9fc3f5629,bba7d11fbe44bb7f835d18d54da05780,760.24,2023-03-19,Successful,IND106,Indiranagar,Bangalore,Net Banking,Merchant_29,Groceries
+6a693e8fdd446fe52ddedca35bccbc66,1cdf68e2e326e18c316f2b50947d8025,436.51,2023-02-07,Failed,IND163,Indiranagar,Bangalore,Credit,Merchant_73,Electronics
+b03233039601b3bee69fea3a0a0bb7a7,50e89cd41e7fd9c3a26b293957f12a78,777.13,2023-08-18,Failed,IND638,Indiranagar,Bangalore,UPI,Merchant_44,Groceries
+98eaf0896ac68acdebc0f116cfda2e77,fae1bc2b10ea10f504dfd64cce681022,369.53,2023-06-20,Successful,IND157,Indiranagar,Bangalore,Debit,Merchant_8,Groceries
+2468ca31cc5fa9ee64c478d989e3069a,0f528babe84d49296844ce1bf633b207,701.89,2023-01-28,Successful,IND924,Indiranagar,Bangalore,UPI,Merchant_46,Electronics
+8b7828f0b988ddb284417a9db12838d7,0367dc4519b2031698879808714baf49,85.65,2023-11-21,Failed,IND254,Indiranagar,Bangalore,Net Banking,Merchant_8,Health
+3ad3e507d4ea2bc9889ffa1009681863,d9cfbddc652f5317998dc6bbfd583840,990.28,2023-11-18,Failed,IND834,Indiranagar,Bangalore,Net Banking,Merchant_70,Clothing
+ffcc9bbafdc1a6142af4012c0cb6a4a0,d4182516fdcd039d2dcb3daf7ecdc46b,655.03,2023-01-23,Failed,IND189,Indiranagar,Bangalore,UPI,Merchant_8,Clothing
+2fa4b2ac4065a8d92f11cf9a8ef2b187,8645d3eab6d92fea0af51cf4713d5e12,497.68,2023-06-23,Successful,IND257,Indiranagar,Bangalore,UPI,Merchant_10,Electronics
+e06d3b31799046918b1ba4eb7023523d,df1ed805b6fb2a6acb662a0d677f1668,114.94,2023-06-23,Successful,IND484,Indiranagar,Bangalore,Credit,Merchant_21,Groceries
+9260cdb100a6ae5b29529247408fc914,169180ecb823593dc534a47974118ebe,584.49,2023-08-17,Failed,IND990,Indiranagar,Bangalore,UPI,Merchant_53,Groceries
+297cd2fee58c9f539e30d15b245fff32,3e54f7b346de4c9c7f77e5886f999f95,299.17,2023-02-09,Failed,IND313,Indiranagar,Bangalore,Debit,Merchant_62,Health
+551c801d025519085459f74b502011a5,bf55ef80c355c4bec53ce02781c9adb5,955.69,2023-11-13,Failed,IND609,Indiranagar,Bangalore,UPI,Merchant_8,Electronics
+34149a820612bd9871ef700a91b54bc7,1ea42257e85b103f2f64b84e0fa4b528,173.9,2023-07-24,Failed,IND134,Indiranagar,Bangalore,Net Banking,Merchant_19,Groceries
+ef9f6d4b2eb35728aff2d1cfce9af097,8b0f7bed74156ad2357ce72d1ca1b709,949.6,2023-07-07,Failed,IND466,Indiranagar,Bangalore,Debit,Merchant_23,Health
+ae4a8ce5ec0190b4033c0494e8298df2,ec13881e6a5dd2b673e93dad525ddd2e,47.87,2023-08-28,Successful,IND394,Indiranagar,Bangalore,UPI,Merchant_85,Electronics
+439ae5f6117c84287aa2bdb9f94f4657,3d2ec3e790a13fcba6d69a7800b75d7d,520.92,2023-09-21,Successful,IND162,Indiranagar,Bangalore,Net Banking,Merchant_60,Electronics
+df274b913eae251a5a15955a154a4ba9,651d9a7c800b146bb33865f977d73adb,355.32,2023-11-30,Successful,IND890,Indiranagar,Bangalore,Net Banking,Merchant_85,Clothing
+d6d0ce5ba4ee436c88d22332d45228e6,2ff5e38a55831148d06e658d5f0efd75,146.0,2023-06-14,Failed,IND135,Indiranagar,Bangalore,Credit,Merchant_39,Clothing
+6c933bb2602ef895cf12f3630244115f,a8f3d3a287d8250e04ff372868fa4931,625.11,2023-08-08,Successful,IND130,Indiranagar,Bangalore,Debit,Merchant_87,Health
+090cebe1c083e0ca15b1bb530ee2e876,5d1b3cc5dde17f1daae3f732e4c811a9,889.82,2023-07-31,Failed,IND622,Indiranagar,Bangalore,UPI,Merchant_17,Electronics
+8df02473ec7811b17a1dd30b8ed12704,9484ca35ed3d66a13e6508f4ced20f5a,790.72,2023-04-18,Failed,IND901,Indiranagar,Bangalore,Net Banking,Merchant_29,Health
+00de6285a8cd0dd517ddedc827cdaaa9,987bf7f324d335bb2953ef754467a7d4,162.43,2023-10-23,Successful,IND451,Indiranagar,Bangalore,Debit,Merchant_23,Clothing
+a3e54f470ad36c112901dacfe4482d4c,a0764c253c4d8e184f825a5dfe3d83e0,72.37,2023-11-27,Failed,IND760,Indiranagar,Bangalore,UPI,Merchant_19,Health
+1d9df6df8ef61404d8a15026b4031518,ff85e2e58ae1cb3454022871ec50804d,402.94,2023-11-06,Successful,IND166,Indiranagar,Bangalore,Debit,Merchant_37,Health
+8ab658d40375dc761fb0b54cfc8965f8,e3c2ed7991653f4a1d126cfbeb5be156,206.73,2023-05-01,Successful,IND537,Indiranagar,Bangalore,Net Banking,Merchant_73,Health
+68f173521ed622d822e5e02969db455d,f2499cc416abbf621d24e46088192242,951.22,2023-04-11,Failed,IND971,Indiranagar,Bangalore,Net Banking,Merchant_46,Health
+c82c141b22370047b8ca992fbb99ee7e,fda71520cdb4e5fda3e9527060b8bf96,742.53,2023-09-10,Successful,IND515,Indiranagar,Bangalore,Debit,Merchant_53,Clothing
+d8add1861cbabe37b064b63246f4b0c9,27d3acdbce9877980763b0471cc4b0ed,555.69,2023-01-20,Failed,IND274,Indiranagar,Bangalore,Debit,Merchant_11,Groceries
+942597785b5deb3b3747d93133d4858b,e252da44a4941dad7079b6487be014cf,74.69,2023-01-13,Failed,IND117,Indiranagar,Bangalore,UPI,Merchant_67,Health
+d6dbf9afeefb51913ab07825af766d1c,52313b778d5cc9e68e4e03682e0f85a9,233.29,2023-03-21,Failed,IND585,Indiranagar,Bangalore,Net Banking,Merchant_21,Groceries
+149de5cf8b53a32080316bc44bac1bef,b5a011d244d1c779696ea2d295bf6ce9,549.23,2023-01-04,Successful,IND889,Indiranagar,Bangalore,Debit,Merchant_25,Electronics
+228a0ec2819a32a2427b26853596b04d,d7dcd5e2dc2b0ce9b8ae5dff3a415b4b,245.84,2023-03-19,Failed,IND166,Indiranagar,Bangalore,Net Banking,Merchant_51,Health
+194bad23e9bdcf8e61b78c1c878a02f2,8ef7198121dba5016314d832a49d08ca,274.55,2023-07-05,Failed,IND858,Indiranagar,Bangalore,UPI,Merchant_5,Health
+3a7b4fda31b0cd9e6ac934c11a076ce0,fe45c623f75369dc98e1ec724a225963,769.21,2023-09-10,Failed,IND388,Indiranagar,Bangalore,Net Banking,Merchant_46,Electronics
+cc5eaa0b8cb0530b2cd7a31ec68c3ed3,4913c1d6096fa54f6f6dd962cb3215b2,260.72,2023-03-20,Successful,IND273,Indiranagar,Bangalore,Credit,Merchant_81,Electronics
+5c591273657afd23a63f574fe2741eb4,7ec409e1a31a4d1b4f06f12312ccd89d,499.81,2023-09-07,Failed,IND875,Indiranagar,Bangalore,UPI,Merchant_90,Clothing
+bc1e2ca8faf88d3799816fca6776000e,2c6bff29dfbe34998ca7ff23f431fc0c,690.42,2023-10-19,Failed,IND802,Indiranagar,Bangalore,Net Banking,Merchant_15,Health
+575f128e2ff53ae4b859e8aae7e9a4b8,6ab4ce03098084a1f2c8f86b2b4a04e2,674.84,2023-02-07,Failed,IND923,Indiranagar,Bangalore,Credit,Merchant_42,Clothing
+3ab134cd39b2dceea379b3548dde5d44,4c063edec6c8101b9c080b12ec4786bf,258.36,2023-06-12,Failed,IND686,Indiranagar,Bangalore,Net Banking,Merchant_68,Groceries
+ba9ee5bda3352cdcba28c38092faca4a,798392211f983418fad32e83af8b59ef,993.97,2023-01-01,Failed,IND851,Indiranagar,Bangalore,Net Banking,Merchant_57,Health
+3ef09339fa31c0b68363f1c2a02795aa,7160dfb5adbdd292ea4a8146494c9b91,723.99,2023-02-01,Failed,IND422,Indiranagar,Bangalore,Net Banking,Merchant_19,Clothing
+5b575c6d9d28891f5e67824e8df2efed,94da7c582d68741e8506694a062dd176,907.85,2023-12-18,Successful,IND919,Indiranagar,Bangalore,UPI,Merchant_66,Groceries
+3e06e815784f93d637cfc4f8ea1abf14,33095d31ca5451768581de59549be3f6,540.75,2023-10-13,Successful,IND738,Indiranagar,Bangalore,UPI,Merchant_34,Electronics
+53e9e8b5a10fe3620cd3d9f441da3e57,28cfb7f300affb9d493eb25e8e7c8d07,648.05,2023-10-22,Successful,IND879,Indiranagar,Bangalore,Debit,Merchant_57,Clothing
+93b031aa58043bfcc30465d61ddc3d4c,4d26dfc2d446647f26877b33ebb93436,887.24,2023-03-16,Failed,IND756,Indiranagar,Bangalore,UPI,Merchant_63,Clothing
+08e665c196fa575ece44f6d3d42c3c49,16d4678002aa6088b6b00c2f63c26751,248.26,2023-03-21,Successful,IND224,Indiranagar,Bangalore,Credit,Merchant_39,Electronics
+0e0ab3cfeaea7fc2bf0af1d503a353c4,50316779fcda68cb885feab50e1a68af,673.46,2023-04-22,Failed,IND829,Indiranagar,Bangalore,Debit,Merchant_52,Clothing
+69191ca297b3842ef43f5cdf5da11633,aff018673e2629f18925c0990c699ee4,41.42,2023-10-03,Failed,IND703,Indiranagar,Bangalore,Debit,Merchant_30,Clothing
+8dd26c041456a97ac00c6656fd51e1ae,6ee026a17a1f61f14207747af70d6ce9,894.96,2023-07-16,Successful,IND843,Indiranagar,Bangalore,Net Banking,Merchant_56,Electronics
+94714ccfa368f112f4fd20cf8ef93228,d4ffd332f1574472865899803f01a9c8,797.56,2023-07-13,Successful,IND702,Indiranagar,Bangalore,Net Banking,Merchant_25,Electronics
+9d8e46d6b946cc82f1a6b9fa26ee50fc,f663d6402fb5de94dc77a38c44f85ec8,130.6,2023-06-11,Successful,IND528,Indiranagar,Bangalore,UPI,Merchant_62,Groceries
+1bd4625378b245d91986408fa2b42f7c,dd07360f4f65cc6b8eb34dbc4b9bee34,604.4,2023-01-15,Successful,IND215,Indiranagar,Bangalore,Debit,Merchant_33,Groceries
+4d25b82357d31a5d57d4f3ccefdee9ed,2ca5114f30f85ef7f7b6cea1b946cc45,521.28,2023-03-23,Successful,IND749,Indiranagar,Bangalore,Net Banking,Merchant_64,Groceries
+a1fcc85e4f2f68cde636c95159e238f6,7ee440340943e8fd296932e10d37d084,742.86,2023-02-22,Failed,IND219,Indiranagar,Bangalore,Credit,Merchant_33,Health
+65003fa14780171988b61bc82d35f95f,82a6cf765eae09847e015937d77294c3,386.31,2023-03-19,Successful,IND434,Indiranagar,Bangalore,Debit,Merchant_76,Electronics
+c84514a071e8227ea733bc0b6e7e6ccd,ceeb9381e3e1d0433a9e44c29814236b,793.15,2023-12-14,Failed,IND760,Indiranagar,Bangalore,Credit,Merchant_39,Health
+4f5e9e9cb083bb9c357aff310bbb7e58,8bf50576502d48cef49583114af68e79,648.62,2023-09-12,Failed,IND430,Indiranagar,Bangalore,Credit,Merchant_98,Groceries
+f2c4f1791bb3013d1b53a312bfd36cb6,b24ab2910a75458e4922243d6ac472e1,741.12,2023-06-06,Failed,IND395,Indiranagar,Bangalore,Net Banking,Merchant_12,Groceries
+d07e0e8faa0743913566b85186af62cf,222ed2a50c40f99a9566e89cfdb7af66,47.53,2023-06-25,Successful,IND584,Indiranagar,Bangalore,Credit,Merchant_98,Health
+f0d467a04545bcfc7223d191fd86b2dc,d03d6d44516937e42b10a257de5d494b,782.55,2023-08-23,Failed,IND374,Indiranagar,Bangalore,Net Banking,Merchant_62,Electronics
+656c12be30de992511f968b445dd8b3e,dd81ec32b10f686e6ab7eb2ccc38ab50,140.15,2023-01-12,Successful,IND256,Indiranagar,Bangalore,Debit,Merchant_83,Clothing
+c9194f020d5ae20b4988dbab3a475dc1,7eaa975e410445e69515ef3bf1a04eec,75.14,2023-07-04,Failed,IND165,Indiranagar,Bangalore,UPI,Merchant_55,Clothing
+9eaec249fada293bd7a68894c5461f27,d3e95f8de71a457e3a4a32de2ae050f6,603.47,2023-09-21,Failed,IND233,Indiranagar,Bangalore,Credit,Merchant_75,Electronics
+307d09c11de336c3708663855a4349b4,cfdd7793d349dc34666bf6d22deb2b37,304.34,2023-03-16,Successful,IND380,Indiranagar,Bangalore,Credit,Merchant_23,Groceries
+c70e219bfc478cbf27af312b7ee26696,d90b012ae8e3a556d9c40e23d31c4f24,254.83,2023-03-07,Failed,IND192,Indiranagar,Bangalore,Debit,Merchant_28,Groceries
+a63497cb1b5d24e86a4dd24aaec617a3,ba490ded21f54585d21c4ad80c3a9a91,376.83,2023-05-20,Successful,IND614,Indiranagar,Bangalore,Debit,Merchant_34,Groceries
+53ad8839fe548d272a77eef4a627bf20,75b2613f57fbd79df290ec2a911e6d2d,355.1,2023-07-02,Failed,IND684,Indiranagar,Bangalore,UPI,Merchant_33,Electronics
+28d2de5209dc234cb69d3bde9aed022a,42c8390c8cdb173b8769f1a6b405c0fd,577.4,2023-08-10,Failed,IND966,Indiranagar,Bangalore,Net Banking,Merchant_31,Groceries
+2d39969df0881089ef58cf8e20034043,b5df105349207576ec0345a9ae6e8bbe,234.8,2023-08-11,Failed,IND771,Indiranagar,Bangalore,Debit,Merchant_31,Groceries
+d030347157af8b0fe87434466960588f,63778c837dbd1062b420d1a19eef6fb9,755.01,2023-09-16,Failed,IND101,Indiranagar,Bangalore,Net Banking,Merchant_51,Health
+5e9ea810be206e91fb8a74dc228a53b6,edccaa107c712594d856f5d86cd30af3,320.33,2023-09-26,Successful,IND362,Indiranagar,Bangalore,Net Banking,Merchant_79,Groceries
+71533788b05e96aade04601c7146e794,6b89e3b1a7ad2d0c6a7edba86b4afdc3,516.07,2023-08-10,Failed,IND603,Indiranagar,Bangalore,Debit,Merchant_84,Health
+9b447d9a0767055f740e1a122e924785,b703e7817f06c2d2d4f10766ff45f88a,517.5,2023-01-04,Successful,IND676,Indiranagar,Bangalore,Debit,Merchant_66,Clothing
+5d07ab553d7ea1f2d0e040d99adee371,8ce469f5ee8b9c8c48adfb2d80351f99,910.37,2023-05-19,Failed,IND268,Indiranagar,Bangalore,UPI,Merchant_48,Clothing
+3c37c3ddc25af787e9eca63622f4565e,1f2cbf9aa12b7b5bee6bd38ea93c24c4,662.41,2023-12-25,Failed,IND748,Indiranagar,Bangalore,Credit,Merchant_69,Clothing
+a8ce6497c435ab52c21d658ee773e428,6774c5e0ea8b7e864f8595c071b445ba,52.08,2023-04-17,Failed,IND959,Indiranagar,Bangalore,Credit,Merchant_46,Health
+effc3e6ee6c34bb35b8dc7429a2106c2,83edf05617d43aed5745acf1bced094c,431.11,2023-08-09,Successful,IND482,Indiranagar,Bangalore,UPI,Merchant_33,Health
+268b999347649b079a2f5b352a7f9ac3,0fa0ab806a569ed4383403116ddad1c6,538.53,2023-08-18,Successful,IND812,Indiranagar,Bangalore,Net Banking,Merchant_53,Health
+96f3a78c914d8287ca9a030d644bade8,d76e27e279fd4e730a4b2367fcfa54fa,230.07,2023-07-28,Failed,IND844,Indiranagar,Bangalore,UPI,Merchant_23,Clothing
+cfe3c6fc8771a53c0e37ec7112a1fbcb,0a0fc0a11262c953cf49085ad9dd0528,414.56,2023-11-19,Successful,IND472,Indiranagar,Bangalore,Net Banking,Merchant_5,Groceries
+e0e5049d8332d4ad78ddd478cefaa92e,c4082b4ef59a1be2499b57b93026bd21,520.65,2023-03-27,Successful,IND262,Indiranagar,Bangalore,Credit,Merchant_22,Health
+781d6b556e13c2a94c73f971ef5fc7b1,76fb06950e23bba0465a1ae6e013cd31,935.82,2023-08-09,Successful,IND255,Indiranagar,Bangalore,Net Banking,Merchant_18,Groceries
+c80a6219f3b0204c3c75dd51bbb4a7e6,57f817e111e22fd3870e283ce6e79df5,500.42,2023-06-16,Failed,IND676,Indiranagar,Bangalore,Net Banking,Merchant_76,Clothing
+7f59a0bfc7eda61849736fe3db30710b,88972062a7cc35aeac4f83e8f6983d6c,760.94,2023-09-29,Failed,IND425,Indiranagar,Bangalore,Debit,Merchant_66,Electronics
+8526b49bc553af1d51b1e4379b85eadc,2dd01278608de74161a0408d5c84e2ca,466.21,2023-06-03,Successful,IND702,Indiranagar,Bangalore,Credit,Merchant_99,Groceries
+b682944a2728a95d4f5363bb9de5e94b,9621fc6a4e60d721ba02b7b0a09ec81b,42.32,2023-06-20,Failed,IND734,Indiranagar,Bangalore,Credit,Merchant_91,Groceries
+77617df264df335759ac641f4a0d5fc9,0cc77e1f6100ba55f2c5961f5d9c6c2b,242.81,2023-03-21,Successful,IND311,Indiranagar,Bangalore,Debit,Merchant_31,Clothing
+bc79fa342b80cbe7b49cdf5ffd952888,d0d4642475252621b16adca2abba95e2,51.74,2023-10-14,Successful,IND823,Indiranagar,Bangalore,UPI,Merchant_21,Health
+9cd2a037a09f53716226dc7b802c6f94,5593cc9f6f1c68faf29a48e2ee752fb5,222.82,2023-06-25,Failed,IND806,Indiranagar,Bangalore,Debit,Merchant_34,Clothing
+7af39926059e51e168e69c97ea814778,4d70a4bb22aa5bf57d4593dcb5f50ead,729.41,2023-08-01,Successful,IND786,Indiranagar,Bangalore,Credit,Merchant_27,Clothing
+da5775475a747e8b838a2141f7ea8736,4435e4a8290dffe27c62e0a2c41171e6,591.98,2023-01-27,Failed,IND182,Indiranagar,Bangalore,UPI,Merchant_67,Electronics
+2d58e4485313eadbcc3baca6dca378bd,0c85a2d9ab4189a41092be186657f79b,262.43,2023-08-27,Failed,IND231,Indiranagar,Bangalore,Net Banking,Merchant_83,Health
+46159711dd3967f8ca181d140138b79e,c30d1c12b8e73bd0b85185be7188efb2,239.87,2023-04-15,Failed,IND776,Indiranagar,Bangalore,Credit,Merchant_79,Groceries
+c201cec1751a293b43620c0f8c1a2299,a9c157d185634d41c1a8151a5df02b91,61.96,2023-06-16,Failed,IND747,Indiranagar,Bangalore,Debit,Merchant_68,Health
+0bb00dad2e16be662c5da1a093336bf0,4cf468bcce919c7d7e1eafc2f8d301d9,179.36,2023-10-22,Failed,IND184,Indiranagar,Bangalore,Net Banking,Merchant_50,Electronics
+0bfc08ec9361ae418a4785b0d75d3a20,24a18d6f49a5720e020cac94ab1df05f,516.59,2023-08-11,Failed,IND458,Indiranagar,Bangalore,Credit,Merchant_30,Groceries
+7209eacc6d03e0a192517ccaaa3f15ce,29980127ea8f7be6dbc7e9e8d09e2bf6,675.27,2023-03-19,Successful,IND926,Indiranagar,Bangalore,UPI,Merchant_65,Clothing
+7d1eaaa3ff7371b671c384d14fa3461a,b0438816037474f0c06424bc36fe0b40,274.13,2023-01-31,Failed,IND172,Indiranagar,Bangalore,Credit,Merchant_12,Electronics
+28576653585b171c8e4f3074e0813a34,bf878e6e1e1c9ff99769e0447a569cc2,19.19,2023-10-30,Successful,IND648,Indiranagar,Bangalore,Credit,Merchant_18,Clothing
+4e295c77c330d1e3be4fbd886e2a8d31,de8982485c1b7e6ae00d67cc04aa38ff,832.43,2023-01-22,Successful,IND602,Indiranagar,Bangalore,UPI,Merchant_15,Clothing
+7afc2c81b77f75b8d25839fa2ba3d628,fac001f4dd02dbc8b89abeca6d33fc7c,899.86,2023-06-06,Successful,IND717,Indiranagar,Bangalore,UPI,Merchant_12,Clothing
+fe118683ae84c45c6e07ed023edd0953,ca214fe8d06a3d5cec21632a0f1899dd,706.15,2023-05-27,Failed,IND301,Indiranagar,Bangalore,Net Banking,Merchant_34,Groceries
+2094585acc991c0c831d117dc2855385,32e4aeb0e7387d309f4caa4bcb6b4daa,683.08,2023-01-01,Successful,IND825,Indiranagar,Bangalore,Debit,Merchant_2,Electronics
+6507ab550281cd7d7121e4fa844fc023,2e1fb0cda41ed87b71e29de3231d0e64,361.16,2023-12-18,Successful,IND548,Indiranagar,Bangalore,UPI,Merchant_78,Clothing
+6a3f25fbd1215422c8508a6e00c2ebbb,08f44137d61310d9a2abb31680849389,948.18,2023-04-21,Successful,IND965,Indiranagar,Bangalore,UPI,Merchant_31,Health
+eac0ff2507ed12999f0cd65adb4c5fb2,e755422ba723138e5f5b5418c753355f,307.99,2023-04-16,Failed,IND503,Indiranagar,Bangalore,Net Banking,Merchant_15,Clothing
+bb92669063dbbdaa4b38ca9ba3e0783b,b8db10d223fe829591a6f94f19ed9055,375.25,2023-11-07,Failed,IND274,Indiranagar,Bangalore,Net Banking,Merchant_34,Health
+9bb7ef0fae336defbc2b3709a14709fa,73699e47a075aedacb5ec4e326f41225,404.13,2023-01-19,Successful,IND382,Indiranagar,Bangalore,Credit,Merchant_27,Health
+87c8c097c54a86d2a508e43718e42c07,6ba9c061f1a5774f007b4d8f99fc0814,467.38,2023-11-20,Failed,IND362,Indiranagar,Bangalore,Debit,Merchant_50,Electronics
+e10966cf526388def089f6fa64fa4854,851094bd1df6bddf5cb10f529edf7c37,676.15,2023-09-13,Successful,IND972,Indiranagar,Bangalore,Debit,Merchant_35,Electronics
+b2f2c70ce19eda839c118fa060d421f7,3917347d84ea34ee9fa43d19ca44551d,355.5,2023-06-19,Successful,IND941,Indiranagar,Bangalore,UPI,Merchant_25,Groceries
+6f06e67f6be335003acb7b03537e7d4b,9502389ec06c4faa93e9390d9adf7283,520.88,2023-09-30,Successful,IND372,Indiranagar,Bangalore,Net Banking,Merchant_53,Clothing
+00743fd03dc91f0d3484ef2de95e8475,c24184c36c6fc48f4baf4802aab43c45,280.45,2023-10-22,Failed,IND864,Indiranagar,Bangalore,Credit,Merchant_73,Health
+9e6e659e4819c6495105f051e58fa854,d0f5b6abd921da0af7b215dbf7859e00,378.78,2023-12-09,Successful,IND611,Indiranagar,Bangalore,Debit,Merchant_11,Health
+d65d8665c4097c1d3e19cb7a495cf778,198af620840bcf877d834451a0e8cf33,463.26,2023-12-25,Failed,IND559,Indiranagar,Bangalore,Net Banking,Merchant_98,Health
+b47738ae27531a26bdb0a4c489d9b0e6,5cc0227799bcb3c7a285cef27920cc2c,576.54,2023-02-01,Successful,IND881,Indiranagar,Bangalore,Net Banking,Merchant_31,Electronics
+3b5860af8fb298313210f3f309f4f417,317e767f0e98afc5faf88b08d3425efc,930.41,2023-05-23,Successful,IND297,Indiranagar,Bangalore,Credit,Merchant_71,Clothing
+dac0e6619ef3ddd38e595c9327007e07,906233edad487f7bef14b96d9d585901,219.64,2023-06-17,Successful,IND496,Indiranagar,Bangalore,Debit,Merchant_9,Electronics
+4e47e08a7657b7640b63d33732c162be,8c64860dfd5e633dbb1208c8cd8c5e0f,24.5,2023-02-07,Failed,IND462,Indiranagar,Bangalore,Credit,Merchant_92,Health
+f2edb88212ff695ed601cad4f62ac876,7f4cca0bd6d61d2032f2a70950471fdf,957.89,2023-07-09,Failed,IND873,Indiranagar,Bangalore,Credit,Merchant_95,Clothing
+25af8d5a8c39477d6e7e922f5ec933f9,8e2dbe7fa41ee2ef330ab97c49226b02,679.38,2023-04-19,Failed,IND316,Indiranagar,Bangalore,Credit,Merchant_67,Groceries
+245ece3a5fce572385bcfd16084339e0,09833000a29f31310412efa248a93abe,671.93,2023-05-22,Successful,IND973,Indiranagar,Bangalore,UPI,Merchant_44,Groceries
+56effdf8b7b3973870a977ca7dbaeb43,b835d9bcfde80428835d442959d7bd8b,427.8,2023-01-25,Failed,IND983,Indiranagar,Bangalore,UPI,Merchant_21,Health
